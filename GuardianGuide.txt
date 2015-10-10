@@ -1,0 +1,285 @@
+[U][B][SIZE=5]Zon’s Guardian Guide[/SIZE][/B][/U]
+[U][B][SIZE=4]~Written for Update 16.5~[/SIZE][/B][/U]
+
+Welcome to my Guardian Guide! My goal with this guide is to provide my fellow Guardians with various builds and techniques that they can apply to their Guardian to improve survivability, tanking and DPS. The primary reason that you are likely here is because your survivability is poor, are in the process or levelling and/or learning your Guardian, or you are looking to tweak your Guardian for endgame builds.
+
+[LIST=1]
+	[*]Tanking
+	[LIST=a]
+		[*]Builds
+		[LIST=i]
+			[*]Meat-shield Taunt Tank
+			[*]Avoidance Tank
+			[*]Damage Threat Tank
+		[/LIST]
+		[*]Gear & Legacies
+		[*]Target Goal Stats
+	[/LIST]
+	[*]DPS
+	[LIST=a]
+		[*]Builds
+		[LIST=i]
+			[*]Balanced DPS
+			[*]Glass Cannon
+		[/LIST]
+		[*]Gear & Legacies
+		[*]Target Goal Stats
+	[/LIST]
+	[*]PvMP
+	[LIST=a]
+		[*]Builds
+		[LIST=i]
+			[*]Audacity 4+2
+			[*]Full Essence
+		[/LIST]
+		[*]Gear & Legacies
+		[*]Target Goal Stats
+	[/LIST]
+	[*]Solo
+	[LIST=a]
+		[*]Sword 'n Board
+		[*]Target Goal Stats
+	[/LIST]
+	[*]Key Trait Tree Builds while Levelling
+	[LIST=a]
+		[*]28 Points (http://www.lotrottp.lotrostatus.com/l.php?c=2P4) ~ Morale+Power on Crit, ST Skills, Pledge
+		[*]43 Points (http://www.lotrottp.lotrostatus.com/l.php?c=2P3) ~ Prey on the Weak
+		[*]59 Points (http://www.lotrottp.lotrostatus.com/l.php?c=2P6) ~ Cap spread and refresh of bleeds, Warchant
+		[*]67 Points (http://www.lotrottp.lotrostatus.com/l.php?c=2P7) ~ Honourable Combat, buffed Ignore the Pain, Thrill of Danger
+	[/LIST]
+	[*]Orc-craft and Fellwrought Mitigation
+	[*]Virtues
+[/LIST]
+
+[SIZE=4][B]-= 1. Tanking =-[/B][/SIZE]
+
+While Guaridans are capable of a great deal many feats tanking has always been our primary role in a fellowship, at least in tier 2 content or raids.
+
+[SIZE=3][B]1.a. Tanking: Builds[/B][/SIZE]
+
+Your play style and how well you understand the mechanics, mobs and bosses of each instance will largely dictate how you decide to tank.
+
+[B]1.a.i. Tanking: Builds: Meat-shield Taunt Tank[/B]
+
+The typical old school Meat-shield Taunt Tank is the staple of basic tanking that every Guardian should be familiar with. If you're learning an instance you may find yourself being hit by avoidable special attacks that can knock off large amounts of your morale, likewise you may do bad mob pulls because you are not familiar with the monsters in the instance and some of the corruptions that they have or may place on you; in both of these scenarios you may require a tanking build that is forgiving of your mistakes.
+
+There are two basic criteria for being a meat-shield taunt tank;
+[LIST=1]
+[*]Stack as much Morale as possible.
+[*]Establish and Hold aggro (threat).
+[/LIST]
+
+Optional criteria include;
+[LIST]
+[*]Block 20-25%, Parry 20-25%, Evade 10-20%
+[*]Physical Mitigation 58-60%
+[*]Tactical Mitigation 58-60%
+[*]Critical Defence 50%
+[*]Incoming Healing >25%
+[/LIST]
+
+The optional criteria while valuable is just that, optional in this build. As long as you can achieve the required criteria the rest is gravy. Don't get me wrong though as you definitely should strive towards meeting most of the optional criteria to help your healer out and improve your survivability.
+
+As a meat-shield taunt tank your Critical Rating, Finesse and Physical Mastery are likely to be very low. Knowing this you can omit 
+
+
+
+
+
+
+
+
+
+
+
+
+
+[SIZE=4][B]-= Avoidances =-[/B][/SIZE]
+
+There are four factors that make a successful avoidance build; high BPE, partial mitigations, critical defence and physical/tactical mitigation.
+
+Legendary Item relics can be slotted to increase your partial block mitigation by 40% and your partial parry/evade mitigations by 20%. On a BPE that fails a dice roll for a full avoid you still have a chance to partially mitigate the damage, this is called a partial avoid with damage mitigated before it gets further mitigated by your physical/tactical mitigation. When I get a partial avoid a block will reduce the damage by 55% and a parry/evade will reduce the damage by 35%. When you apply partial mitigation with your critical defence and physical/tactical mitigation the incoming damage becomes more of a scratch or glancing blow.
+
+Through your trait tree [Defensive Expertise] and [Skilled Deflection] you can increase your Block and Parry chance by five raw percentage points without diminishing returns.
+
+For Critical Defence it is easy to get this above 50% with 3-4 essences. If you are big into PvMP you can also do a 2+2+2 combo using 4 pieces from the Moors (2 of each set) to gain the 3.5k Critical Defence set bonus twice, leaving your last 2 pieces to be either teal or essence gear. When doing your calculations ensure that you are above 50% without wearing a shield.
+
+For Physical and Tactical mitigation I actually opted to not cap these when wielding my 2H, leaving the rest to be made up by scrolls If I really need the extra mitigations. This freed up 2 essences. When I equip my shield my Physical Mitigation increases to 60% and my Tactical Mitigation to 58.2%. For a Guardian it should be easy to get your Physical Mitigation between 55-60% or even well over cap. If you are still working on your Tactical Mitigation and don’t yet have essences you can farm a [Sarchol] cloak and [Haul-tagur] necklace, both from the Pits of Isengard. If you are going out into the Moors you may wish to consider over-capping your Physical Mitigation to increase your Orc-craft Mitigation.
+
+By having high BPE, partial mitigations, critical defence and physical/tactical mitigations you have now created an avoidance build. And this right here is the foundation to a solid tank build as well, I just happen to be using this for dps as well.
+
+[SIZE=4][B]-= AoE DPS =-[/B][/SIZE]
+
+First and foremost you must realize that we are not a huge crit/dev number class. We can achieve high AoE dps, but it is a sustained dps. When done correctly your tier 10 bleed damage will comprise the majority of your AoE damage. Having a high critical hit chance  (20-25%) and getting rank 3 in Radiate is key to your dps.
+
+When I am either engaging a difficult mob ([I]such as a Tarlang’s Crown mob[/I]) or gathering up a large mob I choose to start off by wearing my tanking belt, shield and tanking sword. This gives me my block events ([I]very important[/I]), extra critical defence and partial mitigations via relics in my tanking legendary items. With my Charge stun prepped, once I have clumped the mob into a ball I let loose either a Sweeping Wing or Whirling Retaliation which will hit 10 targets stunning all of them. I immediately run through behind them, camera flip and use a Stagger to get a guaranteed crit from positional behind which applies the -15% attack duration debuff. I follow this with a War-Chant for -5% damage and then let loose my AoE attacks to spread debuffs to the entire mob. Usually 3-4 AoE attacks should be sufficient to not only debuff the entire mob but also tier up the bleeds to tier 10 on the entire mob as well.
+
+Now that we have the entire mob debuffed and with tier 10 bleeds we are ready to switch to our dps belt and dps 2H. Even though we probably haven’t killed anything yet their outgoing dps combined with the heals you will be getting are not much to worry about. If you really need to you can pop Guardian’s Pledge and Warrior’s Heart, or even switch back to your shield for a while longer.
+
+Since we have a high crit chance each of our big AoE attacks will be healing us for 10k to over 20k morale per swing. Yes, per swing... that is until their numbers start to dwindle a bit, even then this build can still hold up against a hard hitting single target. From my experience Sweeping Wind always yields the largest burst healing, followed by Whirling Retaliation. With an Incoming Healing rating of 15-25% you should be able to expect each heal to be in the range of 1500-2500 or higher. When you combine each [Thrill of Battle] crit heal from your AoE with your bleed refresh heals from [Radiate] suddenly all of those little heals in your single AoE attack combine to give you what appears to be a huge heal but is just a bunch of small heals.
+
+For every time that we receive one of those huge burst heals we are also dishing out huge amounts of damage to the enemies since we are both crit’ing on them and refreshing our bleeds on them.
+
+While attacking the enemy and waiting for your AoE cooldowns ([I]Sweeping, Whirling, Vexing[/I]) take the moment to get off either an Overwhelm bleed cashout or an Honourable Combat for a big heal followed by To the King to give yourself -20% attack duration and +10% damage, the difference is immediately noticeable. Try to keep the TtK buff active by using it every 10-15 seconds.
+
+For single-target dps such as boss fights you may find yourself burning through Power too quickly wielding a 2H, or simply am taking too much damage and cannot heal yourself fast enough. Swap back to your shield. Try to keep Guardian’s Ward active and also try to keep the Stagger and War-chant debuffs active as well. When wearing a shield the most efficient attack rotation for heals will be
+Shield-swipe > Retaliation > Thrust > Bash > To the King
+Each of these will heal you as well as provide you with 2 possible free interrupts. Also, it may just be my imagination but I find it easier to crit on TtK after I have stunned the enemy with Bash. Do not hesitate on using a [Shield-blow] or [Force Opening] to open up your block and parry chains, the longer you wait the lower your morale may get. Hopefully Guardian’s Ward will provide enough parry/block chances to not rely too much on these two Power expensive skills.
+
+If you find yourself in a predicament where you have rounded up too many enemies you can still survive by doing a technique that I call Circular Kiting. It involves kiting around the enemy in a large circle using your strafe keys so that you are always facing the enemy and also not reducing your movement speed by say moving backwards. You always want to keep a sizeable gap between yourself and the enemy mob, probably the length of about 3 Uruks. This length should be just barely around 5.2 metres in length which will allow you to attack the enemy mob with your AoE attacks, while also keeping in mind that War-Chant has a 10 metre range in case you need more practice Circular Kiting and prefer to keep your distance from the enemy mob; War-chant will still trigger Radiate which will in-turn give you some heals.
+
+[SIZE=4][B]-= Getting Stunned while wielding a Two-hander =-[/B][/SIZE]
+
+If you get stunned while wielding a 2H you may notice that you take a lot of damage. To help mitigate a portion of the damage you can quickly swap on your Shield 'n Sword. Once you break free from the stun you can swap back to your 2H and shing shing away.
+
+[SIZE=4][B]-= Trait Trees =-[/B][/SIZE]
+
+[SIZE=3][I][B]Red with Guardian's Pledge and Bring on the Pain[/B][/I][/SIZE]
+[URL]http://i61.tinypic.com/24yo5g9.jpg[/URL]
+
+[I][SIZE=3][B]Red AoE DPS[/B][/SIZE][/I]
+[IMG]http://i60.tinypic.com/2re4cjb.jpg[/IMG]
+
+[SIZE=3][I][B]Red Shield 'n Sword[/B][/I][/SIZE]
+[IMG]http://i57.tinypic.com/vo3p0p.jpg[/IMG]
+
+[I][SIZE=3][B]Blue Tank[/B][/SIZE][/I]
+[IMG]http://i60.tinypic.com/2hnxsat.jpg[/IMG]
+
+[I][SIZE=3][B]Blue Tank with Pledge, Pain, Smash and War-chant Targets[/B][/SIZE][/I]
+
+[url]http://www.lotrottp.lotrostatus.com/l.php?c=2zt[/url]
+* This build gives you [B][Guardian's Pledge][/B], [B][Bring on the Pain][/B], [B][Shield-smash][/B] and [War-chant Targets]. [U]I think this build may be the go-to build for Update 16[/U], where you might switch to the more standard tanking build with Juggernaught if you are tanking a hard-hitting boss.
+
+[I][SIZE=3][B]Ettenmoors[/B][/SIZE][/I]
+
+In my opinion the two strongest builds for a Guardian in the Ettenmoors is;
+
+Primary Red but most points in Yellow and Blue;
+[url]http://www.lotrottp.lotrostatus.com/l.php?c=2zs[/url]
+[I]* This build provides the Guardian with both [B][Guardian's Pledge][/B] and [B][Bring on the Pain][/B] giving the Guardian nigh invincibility. It also has some optional single-target skills such as Thrust and Brutal Assault but unlike a deep Red build this build will lack some of the finishing killing power that it's counterpart has. In the case of this build it will be extremely difficult if not impossible to kill a Guardian using this build even if you are kiting them.[/I]
+
+Deep Red with Pledge
+[url]http://www.lotrottp.lotrostatus.com/l.php?c=2c4[/url]
+[I]* This build is for Guardian's that want to focus more heavily on their damage and finishing combo potential ([I]such as Overwhelm > To the King > Hammer-down[/I]), maximizing their bleed damage and bleed cashout damage. The Guardian may also not necessarily want to rely on the handicap of Bring on the Pain, where Pledge will still offer an emergency skill if the Guardian gets ganked, but it's not EZ-Mode like the build I listed above that has both Pledge and Pain.[/I]
+
+[SIZE=4][B]-= Virtues =-[/B][/SIZE]
+
+The virtues that I run are;
+
+Discipline - essentially a free greater essence of physical mastery with the bonus of resistance and physical mitigation
+Fidelity - huge tactical mitigation with a little bit of vitality of morale
+Honour - huge resistance with a good amount of tactical mitigation and vitality
+Innocence - a nice trinity of phyiscal and tactical mitigation with resistance
+Tolerence - huge tactical mitigation
+
+Using these virtues I am able to use my essences on other stats.
+
+[SIZE=4][B]-= Stats to Aim for as a Starting Goal =-[/B][/SIZE]
+
+Morale: 25,000
+Block: 25% ([I]around 15k [Deflected Blows][/I])
+Parry: 25% ([I]around 13k with [Skilled Deflection][/I])
+Evade: 5% ([I]not important for now, you can improve this later[/I])
+Critical Hit Chance: 20% ([I]around 12k[/I])
+Finesse: 20% ([I]around 12k[/I])
+Critical Defence 45% ([I]around 9k[/I])
+Incoming Healing: 15% ([I]around 4k[/I])
+Resistance: 25% ([I]around 13k[/I])
+Physical Mitigation: 55% ([I]14k[/I])
+Tactical Mitigation: 45% ([I]maybe around 10k[/I])
+
+[I]* The percent value can be found by hovering over the raw number in the tool-tip.[/I]
+
+These stats will leave plenty of room for growth and in my opinion are attainable without having to rely on essences.
+
+[SIZE=4][B]-= My Stats =-[/B][/SIZE]
+
+In my builds there is still lots of room for improvement such as Supreme Essences and gold Hammerhand jewellery.
+
+[I]* The percent value can be found by hovering over the raw number in the tool-tip.[/I]
+
+[B]AoE 2H[/B]
+
+[IMG]http://i59.tinypic.com/iw2ivd.jpg[/IMG]
+
+[B]Shield 'n Sword[/B]
+
+[IMG]http://i62.tinypic.com/2rylfuw.jpg[/IMG]
+
+[B]Blue Tank[/B]
+
+Morale: 27,984
+Power: 5,697
+Block: 24.9%
+Parry: 23.8%
+Evade: 16.4%
+Critical Hit Chance: 23.2%
+Finesse: 25.6%
+Physical Mastery: 40,781
+Critical Defence 61.6% (+10%)
+Incoming Healing: 26.4%
+Resistance: 27%
+Physical Mitigation: 60%
+Tactical Mitigation: 58.9%
+
+[SIZE=4][B]-= Gear and Jewellery =-[/B][/SIZE]
+
+[B][SIZE=3][U]Legendaries[/U][/SIZE][/B]
+
+DPS Belt:[/B] [URL]http://i59.tinypic.com/n5iqhh.jpg[/URL][B] | [/B][B]Tank Belt:[/B] [URL]http://i61.tinypic.com/2eltdlf.jpg[/URL]
+[B]AOE 2H:[/B] [URL]http://i57.tinypic.com/21e6iqp.jpg[/URL][B] | [/B][B]Tank 1H:[/B] [URL]http://i58.tinypic.com/snif5u.jpg[/URL]
+
+[SIZE=3][U][B]Gear[/B][/U][/SIZE]
+
+[B]Cloak:[/B] [URL]http://i61.tinypic.com/33emp2o.jpg[/URL]
+[B]DPS Gloves:[/B] [URL]http://i61.tinypic.com/1zlcew9.jpg[/URL][B] | Tank Gloves:[/B] [URL]http://i62.tinypic.com/ivle6v.jpg[/URL]
+[B]Shoulders:[/B] [URL]http://i62.tinypic.com/303gxoj.jpg[/URL]
+[B]Helm:[/B] [URL]http://i60.tinypic.com/351g2dc.jpg[/URL]
+[B]Leggings:[/B] [URL]http://i57.tinypic.com/10oe108.jpg[/URL]
+[B]Boots:[/B] [URL]http://i59.tinypic.com/blnkp.jpg[/URL]
+[B]Chest:[/B] [URL]http://i59.tinypic.com/5f0z03.jpg[/URL]
+[B]Bow:[/B] [URL]http://i62.tinypic.com/n5pnyr.jpg[/URL]
+[B]Shield:[/B] [URL]http://i61.tinypic.com/ao5mvk.jpg[/URL]
+
+[SIZE=3][U][B]Jewellery[/B][/U][/SIZE]
+
+[B]Earring:[/B] [URL]http://i62.tinypic.com/2qvytrq.jpg[/URL]
+[B]Earring:[/B] [URL]http://i61.tinypic.com/2lksm5v.jpg[/URL]
+[B]Necklace:[/B] [URL]http://i59.tinypic.com/2i9t3sw.jpg[/URL]
+[B]Pocket:[/B] [URL]http://i58.tinypic.com/314rzo4.jpg[/URL]
+[B]Bracelet:[/B] [URL]http://i58.tinypic.com/2nqbcd3.jpg[/URL]
+[B]Bracelet:[/B] [URL]http://i59.tinypic.com/2i9l9ph.jpg[/URL]
+[B]Ring:[/B] [URL]http://i61.tinypic.com/2ci92l2.jpg[/URL]
+[B]Ring:[/B] [URL]http://i59.tinypic.com/2dani2t.jpg[/URL]
+
+[SIZE=4][B]-= Guardian Video Guide =-[/B][/SIZE]
+
+[SIZE=2][B]Playlist[/B][/SIZE]
+[URL]http://www.youtube.com/playlist?list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve[/URL]
+
+[SIZE=2][U][B]Table of Contents[/B][/U][/SIZE]
+
+[LIST]
+	[*][URL="https://www.youtube.com/watch?v=oHhbBGxQnIE&list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve&index=1"][B]Chapter 1: Gear, Jewellery and Legendary Items[/B][/URL]
+	[*][B]Chapter 2: Trait Trees[/B]
+	[LIST]
+		[*][B][URL="https://www.youtube.com/watch?v=FWTCcDdQt1w&list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve&index=2"]Chapter 2i: Red AoE & SnB[/URL][/B]
+		[*][URL="https://www.youtube.com/watch?v=Fjaf8cSGtdM&list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve&index=3"][B]Chapter 2ii: Blue Tank[/B][/URL]
+		[*][URL="https://www.youtube.com/watch?v=ZOHMvJrXzMM&list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve&index=4"][B]Chapter 2iii: Yellow[/B][/URL]
+		[*][URL="https://www.youtube.com/watch?v=T5umdbpSg5c&list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve&index=5"][B]Chapter 2iv: PvMP Ettenmoors - Red[/B][/URL]
+	[/LIST]
+	[*][URL="https://www.youtube.com/watch?v=Z4oOxF93Xbw&list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve&index=6"][B]Chapter 3: Single-target Survivability[/B][/URL]
+	[*][URL="https://www.youtube.com/watch?v=868V9deGyhU&list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve&index=7"][B]Chapter 4: AoE Survivability[/B][/URL]
+	[*][URL="https://www.youtube.com/watch?v=-1GCm_jA_CI&list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve&index=8"][B]Chapter 5: Early Battle - Debuffs and Bleeds[/B][/URL]
+	[*][URL="https://www.youtube.com/watch?v=X9wUxPRc-NY&list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve&index=9"][B]Chapter 6: End Game Gear and Jewellery[/B][/URL]
+	[*][URL="https://www.youtube.com/watch?v=lPxcDVXBqrI&index=10&list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve"][B]Chapter 7: PvMP Gear and Build[/B][/URL]
+[/LIST]
+
+[SIZE=4][B]-= Contributions =-[/B][/SIZE]
+
+[LIST]
+	[*]Arathaert
+	[*]mattspencer
+	[*]dwarfThar
+[/LIST]
