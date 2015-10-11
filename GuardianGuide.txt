@@ -1,65 +1,85 @@
-[U][B][SIZE=5]Zon’s Guardian Guide[/SIZE][/B][/U]
-[U][B][SIZE=4]~Written for Update 16.5~[/SIZE][/B][/U]
+[CENTER][U][B][SIZE=5]Zon’s Guardian Guide[/SIZE][/B][/U]
+[SIZE=3][I]Written for Update 17[/I][/SIZE]
 
-Welcome to my Guardian Guide! My goal with this guide is to provide my fellow Guardians with various builds and techniques that they can apply to their Guardian to improve survivability, tanking and DPS. The primary reason that you are likely here is because your survivability is poor, are in the process or levelling and/or learning your Guardian, or you are looking to tweak your Guardian for endgame builds.
+[B]Authors:[/B]
+Zonflux
+[COLOR="#DDA0DD"][I]* Want to become a co-author? Make a contribution to the Guardian Guide on [URL="https://github.com/hdflux/GuardianGuide"]GitHub[/URL] and if approved you will be listed as a co-author. All images must be provided as links.[/I][/COLOR]
+
+[B]Credits:[/B]
+Arathaert, mattspencer, dwarfThar[/CENTER]
+
+
+Welcome to my Guardian Guide! While primarily written for level capped Guardians there are still strategical components and class trait builds that will still be useful as you level; for levelling and everything else Guardian related I recommend reading [URL="
+https://www.lotro.com/forums/showthread.php?557663-Arathaert-s-Guardian-Guide"]Arathaert's[/URL] and [URL="
+https://www.lotro.com/forums/showthread.php?557822-Dadi-s-Guide-to-Blue-Line-Tanking-(post-U14)
+"]Dadi's[/URL] Guardian guides.
+
+My goal with this guide was first and foremost to create a guide where everything listed in the guide is attainable without being forced to group ([I]it's an MMO so group if you can, but like me you may have your reasons to mostly solo[/I]).
+
+Second is to inspire and motivate people to feel limitless in their possibilities. I want you to feel that epicness is within your reach, and I want you to achieve feats of greatness after learning from my guide.
+
+Third is the final component of my guide which goes beyond what is achievable solo, your true endgame fellowship/raiding Guardian, a level of epicness where legends are not just born, they are made.
+
+Without further ado, enjoy reading my guide!
+
+
+[COLOR="#FF8C00"][SIZE=4][B][U]Table of Contents[/U][/B][/SIZE][/COLOR]
 
 [LIST=1]
-	[*]Tanking
-	[LIST=a]
-		[*]Builds
-		[LIST=i]
-			[*]Meat-shield Taunt Tank
-			[*]Avoidance Tank
-			[*]Damage Threat Tank
-		[/LIST]
-		[*]Gear & Legacies
-		[*]Target Goal Stats
-	[/LIST]
-	[*]DPS
-	[LIST=a]
-		[*]Builds
-		[LIST=i]
-			[*]Balanced DPS
-			[*]Glass Cannon
-		[/LIST]
-		[*]Gear & Legacies
-		[*]Target Goal Stats
-	[/LIST]
-	[*]PvMP
-	[LIST=a]
-		[*]Builds
-		[LIST=i]
-			[*]Audacity 4+2
-			[*]Full Essence
-		[/LIST]
-		[*]Gear & Legacies
-		[*]Target Goal Stats
-	[/LIST]
-	[*]Solo
-	[LIST=a]
-		[*]Sword 'n Board
-		[*]Target Goal Stats
-	[/LIST]
-	[*]Key Trait Tree Builds while Levelling
-	[LIST=a]
-		[*]28 Points (http://www.lotrottp.lotrostatus.com/l.php?c=2P4) ~ Morale+Power on Crit, ST Skills, Pledge
-		[*]43 Points (http://www.lotrottp.lotrostatus.com/l.php?c=2P3) ~ Prey on the Weak
-		[*]59 Points (http://www.lotrottp.lotrostatus.com/l.php?c=2P6) ~ Cap spread and refresh of bleeds, Warchant
-		[*]67 Points (http://www.lotrottp.lotrostatus.com/l.php?c=2P7) ~ Honourable Combat, buffed Ignore the Pain, Thrill of Danger
-	[/LIST]
-	[*]Orc-craft and Fellwrought Mitigation
-	[*]Virtues
+[*]Builds
+[COLOR="#DDA0DD"][I]* A total of 8 builds listed below, with more covered in sub-categories.[/I][/COLOR]
+[LIST=a]
+[*]Tanking
+[LIST=i]
+[*]Taunt Tank
+[*]Avoidance Tank
+[*]Threat Tank
+[/LIST]
+[*]DPS
+[LIST=i]
+[*]Balanced
+[*]Glass Cannon
+[/LIST]
+[*]PvMP
+[LIST=i]
+[*]Audacity 4+2
+[*]Full Essence
+[/LIST]
+[*]Solo Survivalist
+[/LIST]
+[*]Virtues
+[*]Key Class Trait Tree Builds while Levelling
+[*]Battle Strategies
+[LIST=a]
+[*]Tanking
+[*]DPS
+[*]Solo
+[/LIST]
+[*]Endgame Builds
+[LIST=i]
+[*]Taunt Tank
+[*]Avoidance Tank
+[*]Threat Tank
+[/LIST]
 [/LIST]
 
-[SIZE=4][B]-= 1. Tanking =-[/B][/SIZE]
+[COLOR="#FF8C00"][SIZE=4][B][-= 1. Builds =-][/B][/SIZE][/COLOR]
 
-While Guaridans are capable of a great deal many feats tanking has always been our primary role in a fellowship, at least in tier 2 content or raids.
+Everything you need to know about each build including target stats, gear, jewellery, legendary items and class trait tree builds.
 
-[SIZE=3][B]1.a. Tanking: Builds[/B][/SIZE]
+[COLOR="#FF8C00"][SIZE=3][B][1. Builds > a. Tanking][/B][/SIZE][/COLOR]
+
+By definition a Guardian is one whom protects or defends something.
 
 Your play style and how well you understand the mechanics, mobs and bosses of each instance will largely dictate how you decide to tank.
 
-[B]1.a.i. Tanking: Builds: Meat-shield Taunt Tank[/B]
+You can also take the [U]Trinity Tri-force Quiz[/U] to help decide for you.
+
+[COLOR="#FF8C00"][B][1. Builds > a. Tanking > i. Taunt Tank][/B][/COLOR]
+
+
+--- IGNORE EVERYTHING BELOW AS THAT IS FROM THE OLD GUIDE ---
+
 
 The typical old school Meat-shield Taunt Tank is the staple of basic tanking that every Guardian should be familiar with. If you're learning an instance you may find yourself being hit by avoidable special attacks that can knock off large amounts of your morale, likewise you may do bad mob pulls because you are not familiar with the monsters in the instance and some of the corruptions that they have or may place on you; in both of these scenarios you may require a tanking build that is forgiving of your mistakes.
 
@@ -81,18 +101,6 @@ Optional criteria include;
 The optional criteria while valuable is just that, optional in this build. As long as you can achieve the required criteria the rest is gravy. Don't get me wrong though as you definitely should strive towards meeting most of the optional criteria to help your healer out and improve your survivability.
 
 As a meat-shield taunt tank your Critical Rating, Finesse and Physical Mastery are likely to be very low. Knowing this you can omit 
-
-
-
-
-
-
-
-
-
-
-
-
 
 [SIZE=4][B]-= Avoidances =-[/B][/SIZE]
 
@@ -276,10 +284,14 @@ DPS Belt:[/B] [URL]http://i59.tinypic.com/n5iqhh.jpg[/URL][B] | [/B][B]Tank Belt
 	[*][URL="https://www.youtube.com/watch?v=lPxcDVXBqrI&index=10&list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve"][B]Chapter 7: PvMP Gear and Build[/B][/URL]
 [/LIST]
 
-[SIZE=4][B]-= Contributions =-[/B][/SIZE]
 
-[LIST]
-	[*]Arathaert
-	[*]mattspencer
-	[*]dwarfThar
+[LIST=a]
+[*][URL="http://www.lotrottp.lotrostatus.com/l.php?c=2P4"]28 Points[/URL] ~ Morale+Power on Crit, ST Skills, Pledge
+[*][URL="http://www.lotrottp.lotrostatus.com/l.php?c=2P3"]43 Points[/URL] ~ Prey on the Weak
+[*][URL="http://www.lotrottp.lotrostatus.com/l.php?c=2P6"]59 Points[/URL] ~ Cap spread and refresh of bleeds, Warchant
+[*][URL="http://www.lotrottp.lotrostatus.com/l.php?c=2P7"]67 Points[/URL] ~ Honourable Combat, buffed Ignore the Pain, Thrill of Danger
 [/LIST]
+
+http://www.lotrottp.lotrostatus.com/l.php?c=3xs
+http://www.lotrottp.lotrostatus.com/l.php?c=3xv
+http://www.lotrottp.lotrostatus.com/l.php?c=3xt
