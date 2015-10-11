@@ -56,10 +56,13 @@ Without further ado, enjoy reading my guide!
 [*]Solo
 [/LIST]
 [*]Endgame Builds
-[LIST=i]
+[LIST=a]
 [*]Taunt Tank
 [*]Avoidance Tank
 [*]Threat Tank
+[*]Balanced DPS
+[*]Glass Canon
+[*]Solo Survivalist
 [/LIST]
 [/LIST]
 
@@ -67,56 +70,162 @@ Without further ado, enjoy reading my guide!
 
 Everything you need to know about each build including target stats, gear, jewellery, legendary items and class trait tree builds.
 
+You can also ask the [U]Trinity Tri-force Oracle[/U] to help decide for you what build, gear and stats to choose, which will also take into account your playstyle and current stats.
+
+Ultimately treat the following builds as guides for you to reference and create your own hybrid build personally catered to your own Guardian.
+
+
 [COLOR="#FF8C00"][SIZE=3][B][1. Builds > a. Tanking][/B][/SIZE][/COLOR]
 
 By definition a Guardian is one whom protects or defends something.
 
 Your play style and how well you understand the mechanics, mobs and bosses of each instance will largely dictate how you decide to tank.
 
-You can also take the [U]Trinity Tri-force Quiz[/U] to help decide for you.
 
 [COLOR="#FF8C00"][B][1. Builds > a. Tanking > i. Taunt Tank][/B][/COLOR]
 
+The Taunt Tank is the staple bread 'n butter of the Guardian tanking repetoire. Not only is it the easiest tanking build to play and therefore a great tanking build to start learning with, but it is also very effective at establishing aggro through taunts and absorbing huge amounts of spike damage. This is the gold standard tanking build for raids. As a taunt tank you may require full-time healing, your damage contribution to the fellowship will be non-existant, and Morale essences can be very expensive to accumulate.
 
---- IGNORE EVERYTHING BELOW AS THAT IS FROM THE OLD GUIDE ---
-
-
-The typical old school Meat-shield Taunt Tank is the staple of basic tanking that every Guardian should be familiar with. If you're learning an instance you may find yourself being hit by avoidable special attacks that can knock off large amounts of your morale, likewise you may do bad mob pulls because you are not familiar with the monsters in the instance and some of the corruptions that they have or may place on you; in both of these scenarios you may require a tanking build that is forgiving of your mistakes.
-
-There are two basic criteria for being a meat-shield taunt tank;
+There are two basic criteria for being a taunt tank;
 [LIST=1]
 [*]Stack as much Morale as possible.
 [*]Establish and Hold aggro (threat).
 [/LIST]
-
 Optional criteria include;
 [LIST]
 [*]Block 20-25%, Parry 20-25%, Evade 10-20%
-[*]Physical Mitigation 58-60%
-[*]Tactical Mitigation 58-60%
+[*]Physical Mitigation 20-23K
+[*]Tactical Mitigation 16K
 [*]Critical Defence 50%
-[*]Incoming Healing >25%
+[*]Incoming Healing >15%
 [/LIST]
+The optional criteria while valuable is just that, optional in this build though you really should try to achieve these stats as well since they will increase your survivability.
 
-The optional criteria while valuable is just that, optional in this build. As long as you can achieve the required criteria the rest is gravy. Don't get me wrong though as you definitely should strive towards meeting most of the optional criteria to help your healer out and improve your survivability.
+As a taunt tank you are likely to have low Physical Mastery, Finesse and Critical Rating, it is for these reasons exactly why you are called a taunt tank. Focus on what you do best and build your Guardian tank around that. The early to mid part of every battle will be your most difficult to establish and maintain aggro. If you round up too many enemies then your Challenge may not force taunt all of them.
 
-As a meat-shield taunt tank your Critical Rating, Finesse and Physical Mastery are likely to be very low. Knowing this you can omit 
+Likewise you are likely to lose aggro one or more times until later on in the battle due to the threat catch-up mechanic of your forced taunts. Every forced taunt will give you 100% aggro plus 20%; so the longer the battle the larger that 20% will be and thus the more difficult it will be for people to pull those enemies off of you. Similarly, early on that 20% will be very small and easier for people to pull aggro off of you.
 
-[SIZE=4][B]-= Avoidances =-[/B][/SIZE]
+As a taunt tank if you chose to trait [I]Bring on the Pain[/I] instead of [I]Juggernaught[/I] then a useful technique for establishing aggro in the beginning of a battle is to start off with Pain which will heal you for 2.5% Morale for any damage taken. This heal threat combined with any damage and taunt threat that you are generating should be enough to draw the ire of your enemies.
 
-There are four factors that make a successful avoidance build; high BPE, partial mitigations, critical defence and physical/tactical mitigation.
+[B]:: GEAR AND STATS ::[/B]
+
+Fresh to level cap you are likely to only have gear and jewellery farmed through instances with quite possibly little or no essences or even gold. Below are some good starter gear and stats for you to aim for as a taunt tank.
+
+
+
+As an established level cap Guardian you have been around long enough to be able to barter for essence gear and accumulate a stash of essences and gold. Below are various barter gear and jewellery that anyone can get solo, accompanied by stats.
+
+
+
+The endgame taunt tank Guardian has access to everything and is assumed to have the resources to buy anything in the game. Below is some of the best gear in the game accompanied by stats.
+
+
+
+[B]:: CLASS TRAIT TREES ::[/B]
+
+[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3xF"]Blue Taunt Tank[/URL]
+This build utilizes Pledge, Juggernaught, Block %, Parry %, Turn the Tables cooldown and Fray the Edge range.
+
+[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3xD"]Yellow Tank[/URL]
+This build utilizes Pledge and most of the Yellow tree.
+
+Blue versus Yellow tank builds...
+
+Blue has self heals from Blocks and takes less damage. Blue has has access to the coveted Juggernaught.
+
+Yellow will initially take more damage than Blue but can reduce that damage for both themselves and the rest of the group through debuffs. Yellow also generates more damage threat. Yellow will require more healing than Blue but also has Bring on the Pain as a source of emergency healing. Yellow has slows which can be very effective in some boss fights.
+
+Both Blue and Yellow are viable tanking builds.
+
+
+[COLOR="#FF8C00"][B][1. Builds > a. Tanking > i. Avoidance Tank][/B][/COLOR]
+
+The Avoidance Tank can be a fun tanking style to play. This was actually my original preferred tanking method and I first started playing this way at level 65 cap after being inspired by Warden tanking. I wanted to create a tank that required little healing and thus either created less stress for the healer or allowed the Guardian to tank without a healer or require very little healing, say from even a Loremaster ([I]odd yes, but I've done it[/I]).
+
+There are four factors that make a successful avoidance build; Block/Parry/Evade, Mitigations, Partial Mitigations and Critical Defence.
+
+Required criteria for avoidance tank;
+[LIST=1]
+[*]At least 33K Morale.
+[*]Block 25%, Parry 25%, Evade 15-20%
+[*]Physical Mitigation 20-23K
+[*]Tactical Mitigation 16K
+[*]Critical Defence 50%
+[/LIST]
+Optional criteria;
+[LIST]
+[*]Incoming Healing >15%
+[/LIST]
 
 Legendary Item relics can be slotted to increase your partial block mitigation by 40% and your partial parry/evade mitigations by 20%. On a BPE that fails a dice roll for a full avoid you still have a chance to partially mitigate the damage, this is called a partial avoid with damage mitigated before it gets further mitigated by your physical/tactical mitigation. When I get a partial avoid a block will reduce the damage by 55% and a parry/evade will reduce the damage by 35%. When you apply partial mitigation with your critical defence and physical/tactical mitigation the incoming damage becomes more of a scratch or glancing blow.
 
-Through your trait tree [Defensive Expertise] and [Skilled Deflection] you can increase your Block and Parry chance by five raw percentage points without diminishing returns.
+Through your trait tree [Defensive Expertise] and [Skilled Deflection] you can increase your Block and Parry chance by five raw percentage points without diminishing returns. This can allow you to get 25% Block and Parry without having to invest heavily. Evade is a difficult stat to build up and may require a combination of Evasion on your jewellery / gear and even Evasion essences to build up to a respectable number between 15-20%.
 
-For Critical Defence it is easy to get this above 50% with 3-4 essences. If you are big into PvMP you can also do a 2+2+2 combo using 4 pieces from the Moors (2 of each set) to gain the 3.5k Critical Defence set bonus twice, leaving your last 2 pieces to be either teal or essence gear. When doing your calculations ensure that you are above 50% without wearing a shield.
+For Critical Defence it is easy to get this above 50% with 3-4 essences or solely alone by using the Big Battle Helm Hammerhand tanking jewellery.
 
-For Physical and Tactical mitigation I actually opted to not cap these when wielding my 2H, leaving the rest to be made up by scrolls If I really need the extra mitigations. This freed up 2 essences. When I equip my shield my Physical Mitigation increases to 60% and my Tactical Mitigation to 58.2%. For a Guardian it should be easy to get your Physical Mitigation between 55-60% or even well over cap. If you are still working on your Tactical Mitigation and don’t yet have essences you can farm a [Sarchol] cloak and [Haul-tagur] necklace, both from the Pits of Isengard. If you are going out into the Moors you may wish to consider over-capping your Physical Mitigation to increase your Orc-craft Mitigation.
+[B]:: GEAR AND STATS ::[/B]
 
-By having high BPE, partial mitigations, critical defence and physical/tactical mitigations you have now created an avoidance build. And this right here is the foundation to a solid tank build as well, I just happen to be using this for dps as well.
 
-[SIZE=4][B]-= AoE DPS =-[/B][/SIZE]
+
+[B]:: CLASS TRAIT TREES ::[/B]
+
+[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3xF"]Blue Taunt Tank[/URL]
+This build utilizes Pledge, Juggernaught, Block %, Parry %, Turn the Tables cooldown and Fray the Edge range.
+
+[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3xD"]Yellow Tank[/URL]
+This build utilizes Pledge and most of the Yellow tree.
+
+
+[COLOR="#FF8C00"][B][1. Builds > a. Tanking > i. Threat Tank][/B][/COLOR]
+
+
+[COLOR="#FF8C00"][SIZE=3][B][1. Builds > b. DPS][/B][/SIZE][/COLOR]
+
+
+[COLOR="#FF8C00"][SIZE=3][B][1. Builds > c. PvMP][/B][/SIZE][/COLOR]
+
+
+[COLOR="#FF8C00"][SIZE=3][B][1. Builds > d. Solo Survivalist][/B][/SIZE][/COLOR]
+
+
+[COLOR="#FF8C00"][SIZE=4][B][-= 2. Virtues =-][/B][/SIZE][/COLOR]
+
+
+[COLOR="#FF8C00"][SIZE=4][B][-= 3. Key Class Trait Tree Builds while Levelling =-][/B][/SIZE][/COLOR]
+
+
+[COLOR="#FF8C00"][SIZE=4][B][-= 4. Battle Strategies =-][/B][/SIZE][/COLOR]
+
+
+[COLOR="#FF8C00"][SIZE=3][B][4. Battle Strategies > a. Tanking][/B][/SIZE][/COLOR]
+
+
+[COLOR="#FF8C00"][SIZE=3][B][4. Battle Strategies > b. DPS][/B][/SIZE][/COLOR]
+
+
+[COLOR="#FF8C00"][SIZE=3][B][4. Battle Strategies > c. Solo][/B][/SIZE][/COLOR]
+
+
+[COLOR="#FF8C00"][SIZE=4][B][-= 2. Endgame Builds =-][/B][/SIZE][/COLOR]
+
+
+[COLOR="#FF8C00"][SIZE=3][B][2. Endgame Builds > a. Taunt Tank][/B][/SIZE][/COLOR]
+
+
+[COLOR="#FF8C00"][SIZE=3][B][2. Endgame Builds > b. Avoidance Tank][/B][/SIZE][/COLOR]
+
+
+[COLOR="#FF8C00"][SIZE=3][B][2. Endgame Builds > c. Threat Tank][/B][/SIZE][/COLOR]
+
+
+[COLOR="#FF8C00"][SIZE=3][B][2. Endgame Builds > d. Balanced DPS][/B][/SIZE][/COLOR]
+
+
+[COLOR="#FF8C00"][SIZE=3][B][2. Endgame Builds > e. Glass Cannon][/B][/SIZE][/COLOR]
+
+
+[COLOR="#FF8C00"][SIZE=3][B][2. Endgame Builds > f. Solo Survivalist][/B][/SIZE][/COLOR]
+
 
 First and foremost you must realize that we are not a huge crit/dev number class. We can achieve high AoE dps, but it is a sustained dps. When done correctly your tier 10 bleed damage will comprise the majority of your AoE damage. Having a high critical hit chance  (20-25%) and getting rank 3 in Radiate is key to your dps.
 
@@ -285,6 +394,11 @@ DPS Belt:[/B] [URL]http://i59.tinypic.com/n5iqhh.jpg[/URL][B] | [/B][B]Tank Belt
 [/LIST]
 
 
+
+
+--- MISC NOTES ---
+
+
 [LIST=a]
 [*][URL="http://www.lotrottp.lotrostatus.com/l.php?c=2P4"]28 Points[/URL] ~ Morale+Power on Crit, ST Skills, Pledge
 [*][URL="http://www.lotrottp.lotrostatus.com/l.php?c=2P3"]43 Points[/URL] ~ Prey on the Weak
@@ -292,6 +406,33 @@ DPS Belt:[/B] [URL]http://i59.tinypic.com/n5iqhh.jpg[/URL][B] | [/B][B]Tank Belt
 [*][URL="http://www.lotrottp.lotrostatus.com/l.php?c=2P7"]67 Points[/URL] ~ Honourable Combat, buffed Ignore the Pain, Thrill of Danger
 [/LIST]
 
-http://www.lotrottp.lotrostatus.com/l.php?c=3xs
+
+Blue Damage Threat Tank w/ Juggernaught
+http://www.lotrottp.lotrostatus.com/l.php?c=3xK
+
+Blue Damage Threat Tank w/ War-chant and Pain
 http://www.lotrottp.lotrostatus.com/l.php?c=3xv
+
+Yellow Damage Threat Tank / Shield-smash
 http://www.lotrottp.lotrostatus.com/l.php?c=3xt
+
+Red AoE w/ Strong Bursts, War-chant and Pain
+http://www.lotrottp.lotrostatus.com/l.php?c=3xw
+
+Red AoE w/ War-chant, Pain and Pledge
+http://www.lotrottp.lotrostatus.com/l.php?c=3xC
+
+Red w/ Overwhelm and Pain
+http://www.lotrottp.lotrostatus.com/l.php?c=3xB
+
+Red w/ War-chant
+http://www.lotrottp.lotrostatus.com/l.php?c=3xy
+
+Red w/ Pledge
+http://www.lotrottp.lotrostatus.com/l.php?c=3xH
+
+Red Survivalist w/ Shield
+http://www.lotrottp.lotrostatus.com/l.php?c=3xG
+
+Red AoE Glass
+http://www.lotrottp.lotrostatus.com/l.php?c=3xJ
