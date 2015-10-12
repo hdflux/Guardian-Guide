@@ -9,6 +9,8 @@ Zonflux
 Arathaert, mattspencer, dwarfThar[/CENTER]
 
 
+[COLOR="#FF0000"][I]* Note: References to the Trinity Tri-force Oracle are placeholders until I finish developing the app.[/I][/COLOR]
+
 Welcome to my Guardian Guide! While primarily written for level capped Guardians there are still strategical components and class trait builds that will still be useful as you level; for levelling and everything else Guardian related I recommend reading [URL="
 https://www.lotro.com/forums/showthread.php?557663-Arathaert-s-Guardian-Guide"]Arathaert's[/URL] and [URL="
 https://www.lotro.com/forums/showthread.php?557822-Dadi-s-Guide-to-Blue-Line-Tanking-(post-U14)
@@ -42,12 +44,13 @@ Without further ado, enjoy reading my guide!
 [/LIST]
 [*]PvMP
 [LIST=i]
-[*]Audacity 4+2
+[*]Audacity
 [*]Full Essence
 [/LIST]
 [*]Solo Survivalist
 [/LIST]
 [*]Virtues
+[*]Essence Tips
 [*]Key Class Trait Tree Builds while Levelling
 [*]Battle Strategies
 [LIST=a]
@@ -73,6 +76,8 @@ Everything you need to know about each build including target stats, gear, jewel
 You can also ask the [U]Trinity Tri-force Oracle[/U] to help decide for you what build, gear and stats to choose, which will also take into account your playstyle and current stats.
 
 Ultimately treat the following builds as guides for you to reference and create your own hybrid build personally catered to your own Guardian.
+
+When I post stats take note that because Zon is my baby that I have capped stat tomes and virtues invested, otherwise everything that I list below in the following builds are  obtainable through easy instance farming ([I]such as Great Barrows and Annuminas[/I]), crafting or from epic quest rewards.
 
 
 [COLOR="#FF8C00"][SIZE=3][B][1. Builds > a. Tanking][/B][/SIZE][/COLOR]
@@ -107,21 +112,32 @@ Likewise you are likely to lose aggro one or more times until later on in the ba
 
 As a taunt tank if you chose to trait [I]Bring on the Pain[/I] instead of [I]Juggernaught[/I] then a useful technique for establishing aggro in the beginning of a battle is to start off with Pain which will heal you for 2.5% Morale for any damage taken. This heal threat combined with any damage and taunt threat that you are generating should be enough to draw the ire of your enemies.
 
-[B]:: GEAR AND STATS ::[/B]
+[COLOR="#00FF00"][B]:: GEAR AND STATS ::[/B][/COLOR]
 
-Fresh to level cap you are likely to only have gear and jewellery farmed through instances with quite possibly little or no essences or even gold. Below are some good starter gear and stats for you to aim for as a taunt tank.
+[COLOR="#DDA0DD"]Fresh to level cap you are likely to only have gear and jewellery farmed through instances with quite possibly little or no essences or even gold. Below are some good starter gear and stats for you to aim for as a taunt tank.[/COLOR]
 
+http://oi62.tinypic.com/24uz2gm.jpg
 
+As a greenie level cap this build boasts;
 
-As an established level cap Guardian you have been around long enough to be able to barter for essence gear and accumulate a stash of essences and gold. Below are various barter gear and jewellery that anyone can get solo, accompanied by stats.
+[INDENT]32,754 Morale
+20.6% Critical Rating
+16.7% Finesse
+46,436 (115.4%) Physical Mastery
+24.1% Resistance
+65% Critical Defence
+17.5% Incoming Healing
+25.6% Block
+25.6% Parry
+14.7% Evade
+26,438 (60/44.7%) Physical Mitigation ([I]enough to even cover hidden T2 mitigation[/I])
+11,422 (49.4%) Tactical Mitigation ([I]a bit low but not bad considering[/I])[/INDENT]
 
+Pretty nice stats for a Guardian looking to prove themselves.
 
+[COLOR="#DDA0DD"]As an established level cap Guardian you have been around long enough to be able to barter for essence gear and accumulate a stash of essences and gold. Below are various barter gear and jewellery that anyone can get solo, accompanied by stats.[/COLOR]
 
-The endgame taunt tank Guardian has access to everything and is assumed to have the resources to buy anything in the game. Below is some of the best gear in the game accompanied by stats.
-
-
-
-[B]:: CLASS TRAIT TREES ::[/B]
+[COLOR="#00FF00"][B]:: CLASS TRAIT TREES ::[/B][/COLOR]
 
 [URL="http://www.lotrottp.lotrostatus.com/l.php?c=3xF"]Blue Taunt Tank[/URL]
 This build utilizes Pledge, Juggernaught, Block %, Parry %, Turn the Tables cooldown and Fray the Edge range.
@@ -140,7 +156,13 @@ Both Blue and Yellow are viable tanking builds.
 
 [COLOR="#FF8C00"][B][1. Builds > a. Tanking > i. Avoidance Tank][/B][/COLOR]
 
-The Avoidance Tank can be a fun tanking style to play. This was actually my original preferred tanking method and I first started playing this way at level 65 cap after being inspired by Warden tanking. I wanted to create a tank that required little healing and thus either created less stress for the healer or allowed the Guardian to tank without a healer or require very little healing, say from even a Loremaster ([I]odd yes, but I've done it[/I]).
+The Avoidance Tank can be a fun tanking style to play. This was actually my original preferred tanking method and I first started playing this way at level 65 cap after being inspired by Warden tanking. Back in the day ([I]yes, I'm old enough to have earned the right to say that expression[/I]) before things such as Block heals, Bleed heals and Pain heals existed I relied on gear that proc'd a very small amount of morale and some that mitigated damage on any damage taken.
+
+I wanted to create a tank that required little healing and thus meant less stress for the healer or allowed the Guardian to tank without a healer, say from even a Loremaster ([I]odd yes, but I've done it[/I]).
+
+Can you tank difficult content with this build even though the Morale is only mid thirties? I have tanked Sunken Labrynth T2C, Ruined City T2C and Dome of Stars T2C.. each instance with 34-36K Morale. In DoS T2C I was able to complete the final fight with 10,312 max Morale largely due to some great healing but also because of my avoidances and partial mitigations.
+
+When battles come down to a hanging thread, this build can create stories of legend (https://www.youtube.com/watch?v=VHM9CQKAn14), hey I *only* had 13 [I]The Black Blade[/I] debuffs on me! =P
 
 There are four factors that make a successful avoidance build; Block/Parry/Evade, Mitigations, Partial Mitigations and Critical Defence.
 
@@ -163,11 +185,33 @@ Through your trait tree [Defensive Expertise] and [Skilled Deflection] you can i
 
 For Critical Defence it is easy to get this above 50% with 3-4 essences or solely alone by using the Big Battle Helm Hammerhand tanking jewellery.
 
-[B]:: GEAR AND STATS ::[/B]
+[COLOR="#00FF00"][B]:: GEAR AND STATS ::[/B][/COLOR]
+
+[COLOR="#DDA0DD"]Fresh to level cap you are likely to only have gear and jewellery farmed through instances with quite possibly little or no essences or even gold. Below are some good starter gear and stats for you to aim for as a taunt tank.[/COLOR]
+
+http://oi59.tinypic.com/fleu4w.jpg
+
+As a greenie level cap this build boasts;
+
+[INDENT]31,302 Morale
+20.6% Critical Rating
+16.7% Finesse
+46,996 (116.2%) Physical Mastery
+24.1% Resistance
+63.5% Critical Defence
+17.5% Incoming Healing
+26.0 / 12.5 / 37.5 % Block
+26.1 / 10.0 / 55.0 % Parry
+16.0 / 5.7  / 35.0 % Evade
+25,954 (60/43.3%) Physical Mitigation ([I]enough to even cover hidden T2 mitigation[/I])
+11,422 (49.4%) Tactical Mitigation ([I]a bit low but not bad considering[/I])[/INDENT]
+
+Similar stats to the greenie taunt tank build because all of the gear is the same except now we have partial mitigation relics in our legendary items. This isn't the perfect avoidance tank build yet but it is already starting to look very promising!
+
+[COLOR="#DDA0DD"]As an established level cap Guardian you have been around long enough to be able to barter for essence gear and accumulate a stash of essences and gold. Below are various barter gear and jewellery that anyone can get solo, accompanied by stats.[/COLOR]
 
 
-
-[B]:: CLASS TRAIT TREES ::[/B]
+[COLOR="#00FF00"][B]:: CLASS TRAIT TREES ::[/B][/COLOR]
 
 [URL="http://www.lotrottp.lotrostatus.com/l.php?c=3xF"]Blue Taunt Tank[/URL]
 This build utilizes Pledge, Juggernaught, Block %, Parry %, Turn the Tables cooldown and Fray the Edge range.
@@ -178,53 +222,179 @@ This build utilizes Pledge and most of the Yellow tree.
 
 [COLOR="#FF8C00"][B][1. Builds > a. Tanking > i. Threat Tank][/B][/COLOR]
 
+[COLOR="#00FF00"][B]:: GEAR AND STATS ::[/B][/COLOR]
+
+[COLOR="#DDA0DD"]Fresh to level cap you are likely to only have gear and jewellery farmed through instances with quite possibly little or no essences or even gold. Below are some good starter gear and stats for you to aim for as a taunt tank.[/COLOR]
+
+http://oi61.tinypic.com/dqgaav.jpg
+
+As a greenie level cap this build boasts;
+
+[INDENT]30,132 Morale
+21.6 / 8.9 / 30.1% Critical Rating
+27.4% Finesse
+48,887 (118.6%) Physical Mastery
+23.8% Resistance
+55.7% Critical Defence
+10.0% Incoming Healing
+26.0 / 10.0 / 35.0 % Block
+21.0 / 10.0 / 55.0 % Parry
+12.3 / 4.0  / 32.3 % Evade
+25,954 (60/43.3%) Physical Mitigation ([I]enough to even cover hidden T2 mitigation[/I])
+11,422 (49.4%) Tactical Mitigation ([I]a bit low but not bad considering[/I])[/INDENT]
+
+Similar stats to the greenie avoidance taunt tank build. A touch more key offensive stats in trade for a small amount of Morale and Critical Defense.
+
 
 [COLOR="#FF8C00"][SIZE=3][B][1. Builds > b. DPS][/B][/SIZE][/COLOR]
 
+[COLOR="#00FF00"][B]:: GEAR AND STATS ::[/B][/COLOR]
+
+[COLOR="#DDA0DD"]Fresh to level cap you are likely to only have gear and jewellery farmed through instances with quite possibly little or no essences or even gold. Below are some good starter gear and stats for you to aim for as a taunt tank.[/COLOR]
+
+http://oi62.tinypic.com/35idukw.jpg
+
+As a greenie level cap this build boasts;
+
+[INDENT]30,298 Morale
+22.4 / 9.4 / 31.6% Critical Rating
+27.4% Finesse
+49,937 (129.9%) Physical Mastery
+23.1% Resistance
+30.5% Critical Defence
+5.0% Incoming Healing
+26.1 / 11.6 / 17.5 % Parry
+8.7 / 2.8  / 8.7 % Evade
+17,743 (60/38.0%) Physical Mitigation ([I]enough to even cover hidden T2 mitigation[/I])
+9,815 (45.2%) Tactical Mitigation ([I]a bit low but not bad considering[/I])[/INDENT]
+
+Similar stats to the greenie avoidance taunt tank build. A touch more key offensive stats in trade for a small amount of Morale and Critical Defense.
+
+[COLOR="#DDA0DD"]As an established level cap Guardian you have been around long enough to be able to barter for essence gear and accumulate a stash of essences and gold. Below are various barter gear and jewellery that anyone can get solo, accompanied by stats.[/COLOR]
+
+Below I am going to show a few different possible setups based on areas that you may choose to farm for either reward tokens or stars of merit.
+
+[B]Dol Amroth 4-slot essence gear with non-essence jewellery:[/B]
+http://oi58.tinypic.com/2806z52.jpg
+[INDENT]32,730 Morale
+23.9 / 10.0 / 34.1% Critical Rating
+22.9% Finesse
+60,967 (160.4%) Physical Mastery
+19.9% Resistance
+31.0% Critical Defence
+5.0% Incoming Healing
+25.6 / 10.9 / 17.5 % Parry
+8.0 / 2.5  / 8.0 % Evade
+14,923 (56.9 / 26.8%)
+13,504 (54.1%) Tactical Mitigation[/INDENT]
+
+Not bad, but I feel as though this build could benefit with more essences. It's good but it has gaps.
+
+[B]All craftable Anórien essence gear and jewellery:[/B]
+http://oi61.tinypic.com/2s6n59s.jpg
+[INDENT]31,852 Morale
+24.9 / 10.0 / 35.8% Critical Rating
+24.9% Finesse
+61,709 (162.3%) Physical Mastery
+14.4% Resistance
+45.5% Critical Defence
+5.0% Incoming Healing
+23.8 / 8.7 / 17.5 % Parry
+8.0 / 2.5  / 8.0 % Evade
+15,349 (57.7 / 27.2%)
+14,180 (55.5%) Tactical Mitigation[/INDENT]
+
+This build is so heavy on essences ([I]expensive[/I]) and the issue with this craftable armour is that it has Fate instead of Might making it better suited towards a tanking setup. Also make note that if you skip BB-Hammerhand jewellery altogether than you lose out on the +10% Bleed Damage set bonus.
+
+[B]Mix of Big Battle jewellery and Minas Tirith barter gear/jewellery:[/B]
+http://oi58.tinypic.com/2dwafc5.jpg
+[INDENT]31,075 Morale
+25.0 / 10.0 / 36.5% Critical Rating
+26.8% Finesse
+61,104 (160.7%) Physical Mastery
+17.8% Resistance
+51.6% Critical Defence
+5.0% Incoming Healing
+25.4 / 10.7 / 17.5 % Parry
+8.0 / 2.5  / 8.0 % Evade
+15,490 (58.0 / 27.3%)
+13,651 (54.4%) Tactical Mitigation[/INDENT]
+
+Fairly solid. Adding some of the Big Battle jewellery back into the mix helped compared to all craftable gear and jewellery. Considering that I would not consider this to be an endgame build it is pretty decent.
 
 [COLOR="#FF8C00"][SIZE=3][B][1. Builds > c. PvMP][/B][/SIZE][/COLOR]
 
 
 [COLOR="#FF8C00"][SIZE=3][B][1. Builds > d. Solo Survivalist][/B][/SIZE][/COLOR]
 
+[COLOR="#00FF00"][B]:: GEAR AND STATS ::[/B][/COLOR]
+
+[COLOR="#DDA0DD"]Fresh to level cap you are likely to only have gear and jewellery farmed through instances with quite possibly little or no essences or even gold. Below are some good starter gear and stats for you to aim for as a taunt tank.[/COLOR]
+
+http://oi62.tinypic.com/10i5izd.jpg
+
+As a greenie level cap this build boasts;
+
+[INDENT]30,132 Morale
+21.6 / 8.9 / 30.1% Critical Rating
+27.4% Finesse
+48,887 (128.6%) Physical Mastery
+23.8% Resistance
+45.7% Critical Defence
+10.0% Incoming Healing
+26.0 / 10.0 / 35.0 % Block
+26.0 / 12.5 / 57.5 % Parry
+12.3 / 4.0  / 32.3 % Evade
+24,045 (60/42.1%) Physical Mitigation ([I]enough to even cover hidden T2 mitigation[/I])
+11,041 (48.5%) Tactical Mitigation ([I]a bit low but not bad considering[/I])[/INDENT]
+
+Similar stats to the greenie avoidance taunt tank build. A touch more key offensive stats in trade for a small amount of Morale and Critical Defense.
+
+[COLOR="#DDA0DD"]As an established level cap Guardian you have been around long enough to be able to barter for essence gear and accumulate a stash of essences and gold. Below are various barter gear and jewellery that anyone can get solo, accompanied by stats.[/COLOR]
+
 
 [COLOR="#FF8C00"][SIZE=4][B][-= 2. Virtues =-][/B][/SIZE][/COLOR]
 
 
-[COLOR="#FF8C00"][SIZE=4][B][-= 3. Key Class Trait Tree Builds while Levelling =-][/B][/SIZE][/COLOR]
+[COLOR="#FF8C00"][SIZE=4][B][-= 3. Essence Tips =-][/B][/SIZE][/COLOR]
 
 
-[COLOR="#FF8C00"][SIZE=4][B][-= 4. Battle Strategies =-][/B][/SIZE][/COLOR]
+[COLOR="#FF8C00"][SIZE=4][B][-= 4. Key Class Trait Tree Builds while Levelling =-][/B][/SIZE][/COLOR]
 
 
-[COLOR="#FF8C00"][SIZE=3][B][4. Battle Strategies > a. Tanking][/B][/SIZE][/COLOR]
+[COLOR="#FF8C00"][SIZE=4][B][-= 5. Battle Strategies =-][/B][/SIZE][/COLOR]
 
 
-[COLOR="#FF8C00"][SIZE=3][B][4. Battle Strategies > b. DPS][/B][/SIZE][/COLOR]
+[COLOR="#FF8C00"][SIZE=3][B][5. Battle Strategies > a. Tanking][/B][/SIZE][/COLOR]
 
 
-[COLOR="#FF8C00"][SIZE=3][B][4. Battle Strategies > c. Solo][/B][/SIZE][/COLOR]
+[COLOR="#FF8C00"][SIZE=3][B][5. Battle Strategies > b. DPS][/B][/SIZE][/COLOR]
 
 
-[COLOR="#FF8C00"][SIZE=4][B][-= 2. Endgame Builds =-][/B][/SIZE][/COLOR]
+[COLOR="#FF8C00"][SIZE=3][B][5. Battle Strategies > c. Solo][/B][/SIZE][/COLOR]
 
 
-[COLOR="#FF8C00"][SIZE=3][B][2. Endgame Builds > a. Taunt Tank][/B][/SIZE][/COLOR]
+[COLOR="#FF8C00"][SIZE=4][B][-= 6. Endgame Builds =-][/B][/SIZE][/COLOR]
 
 
-[COLOR="#FF8C00"][SIZE=3][B][2. Endgame Builds > b. Avoidance Tank][/B][/SIZE][/COLOR]
+[COLOR="#FF8C00"][SIZE=3][B][6. Endgame Builds > a. Taunt Tank][/B][/SIZE][/COLOR]
 
 
-[COLOR="#FF8C00"][SIZE=3][B][2. Endgame Builds > c. Threat Tank][/B][/SIZE][/COLOR]
+The endgame taunt tank Guardian has access to everything and is assumed to have the resources to buy anything in the game. Below is some of the best gear in the game accompanied by stats.
+
+[COLOR="#FF8C00"][SIZE=3][B][6. Endgame Builds > b. Avoidance Tank][/B][/SIZE][/COLOR]
 
 
-[COLOR="#FF8C00"][SIZE=3][B][2. Endgame Builds > d. Balanced DPS][/B][/SIZE][/COLOR]
+[COLOR="#FF8C00"][SIZE=3][B][6. Endgame Builds > c. Threat Tank][/B][/SIZE][/COLOR]
 
 
-[COLOR="#FF8C00"][SIZE=3][B][2. Endgame Builds > e. Glass Cannon][/B][/SIZE][/COLOR]
+[COLOR="#FF8C00"][SIZE=3][B][6. Endgame Builds > d. Balanced DPS][/B][/SIZE][/COLOR]
 
 
-[COLOR="#FF8C00"][SIZE=3][B][2. Endgame Builds > f. Solo Survivalist][/B][/SIZE][/COLOR]
+[COLOR="#FF8C00"][SIZE=3][B][6. Endgame Builds > e. Glass Cannon][/B][/SIZE][/COLOR]
+
+
+[COLOR="#FF8C00"][SIZE=3][B][6. Endgame Builds > f. Solo Survivalist][/B][/SIZE][/COLOR]
 
 
 First and foremost you must realize that we are not a huge crit/dev number class. We can achieve high AoE dps, but it is a sustained dps. When done correctly your tier 10 bleed damage will comprise the majority of your AoE damage. Having a high critical hit chance  (20-25%) and getting rank 3 in Radiate is key to your dps.
