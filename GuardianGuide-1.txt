@@ -34,6 +34,7 @@ Without further ado, enjoy reading my guide!
 [*]Virtues
 [*]Essence Tips
 [*]Key Class Trait Tree Builds while Levelling
+[*]Guardian Video Guide
 [*]Builds
 [LIST=a]
 [*]Tanking
@@ -103,4 +104,31 @@ This strategy has worked out the best for me when it comes to planning out my es
 [*][URL="http://www.lotrottp.lotrostatus.com/l.php?c=2P3"]43 Points[/URL] ~ Prey on the Weak
 [*][URL="http://www.lotrottp.lotrostatus.com/l.php?c=2P6"]59 Points[/URL] ~ Cap spread and refresh of bleeds, Warchant
 [*][URL="http://www.lotrottp.lotrostatus.com/l.php?c=2P7"]67 Points[/URL] ~ Honourable Combat, buffed Ignore the Pain, Thrill of Danger
+[/LIST]
+
+
+[COLOR="#FF8C00"][SIZE=4][B][-= 4. Guardian Video Guide =-][/B][/SIZE][/COLOR]
+
+
+Currently my Guardian Video Guide is made for Update 15. Once I update the video guide for Update 17 I will add it to here as well.
+
+[SIZE=2][B]Playlist[/B][/SIZE]
+[URL]http://www.youtube.com/playlist?list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve[/URL]
+
+[SIZE=2][U][B]Table of Contents[/B][/U][/SIZE]
+
+[LIST]
+[*][URL="https://www.youtube.com/watch?v=oHhbBGxQnIE&list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve&index=1"][B]Chapter 1: Gear, Jewellery and Legendary Items[/B][/URL]
+[*][B]Chapter 2: Trait Trees[/B]
+[LIST]
+[*][B][URL="https://www.youtube.com/watch?v=FWTCcDdQt1w&list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve&index=2"]Chapter 2i: Red AoE & SnB[/URL][/B]
+[*][URL="https://www.youtube.com/watch?v=Fjaf8cSGtdM&list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve&index=3"][B]Chapter 2ii: Blue Tank[/B][/URL]
+[*][URL="https://www.youtube.com/watch?v=ZOHMvJrXzMM&list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve&index=4"][B]Chapter 2iii: Yellow[/B][/URL]
+[*][URL="https://www.youtube.com/watch?v=T5umdbpSg5c&list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve&index=5"][B]Chapter 2iv: PvMP Ettenmoors - Red[/B][/URL]
+[/LIST]
+[*][URL="https://www.youtube.com/watch?v=Z4oOxF93Xbw&list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve&index=6"][B]Chapter 3: Single-target Survivability[/B][/URL]
+[*][URL="https://www.youtube.com/watch?v=868V9deGyhU&list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve&index=7"][B]Chapter 4: AoE Survivability[/B][/URL]
+[*][URL="https://www.youtube.com/watch?v=-1GCm_jA_CI&list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve&index=8"][B]Chapter 5: Early Battle - Debuffs and Bleeds[/B][/URL]
+[*][URL="https://www.youtube.com/watch?v=X9wUxPRc-NY&list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve&index=9"][B]Chapter 6: End Game Gear and Jewellery[/B][/URL]
+[*][URL="https://www.youtube.com/watch?v=lPxcDVXBqrI&index=10&list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve"][B]Chapter 7: PvMP Gear and Build[/B][/URL]
 [/LIST]
