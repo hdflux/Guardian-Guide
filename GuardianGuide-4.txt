@@ -1,2 +1,24 @@
-[COLOR="#FF8C00"][SIZE=3][B][4. Builds > c. PvMP][/B][/SIZE][/COLOR]
+[COLOR="#FF8C00"][B][5. Builds > a. Tanking > i. Threat Tank][/B][/COLOR]
 
+[COLOR="#00FF00"][B]:: GEAR AND STATS ::[/B][/COLOR]
+
+[COLOR="#DDA0DD"]Fresh to level cap you are likely to only have gear and jewellery farmed through instances with quite possibly little or no essences or even gold. Below are some good starter gear and stats for you to aim for as a taunt tank.[/COLOR]
+
+http://oi61.tinypic.com/dqgaav.jpg
+
+As a greenie level cap this build boasts;
+
+[INDENT]30,132 Morale
+21.6 / 8.9 / 30.1% Critical Rating
+27.4% Finesse
+48,887 (118.6%) Physical Mastery
+23.8% Resistance
+55.7% Critical Defence
+10.0% Incoming Healing
+26.0 / 10.0 / 35.0 % Block
+21.0 / 10.0 / 55.0 % Parry
+12.3 / 4.0  / 32.3 % Evade
+25,954 (60/43.3%) Physical Mitigation ([I]enough to even cover hidden T2 mitigation[/I])
+11,422 (49.4%) Tactical Mitigation ([I]a bit low but not bad considering[/I])[/INDENT]
+
+Similar stats to the greenie avoidance taunt tank build. A touch more key offensive stats in trade for a small amount of Morale and Critical Defense.

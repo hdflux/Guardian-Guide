@@ -1,0 +1,26 @@
+[COLOR="#FF8C00"][SIZE=3][B][4. Builds > d. Solo Survivalist][/B][/SIZE][/COLOR]
+
+[COLOR="#00FF00"][B]:: GEAR AND STATS ::[/B][/COLOR]
+
+[COLOR="#DDA0DD"]Fresh to level cap you are likely to only have gear and jewellery farmed through instances with quite possibly little or no essences or even gold. Below are some good starter gear and stats for you to aim for as a taunt tank.[/COLOR]
+
+http://oi62.tinypic.com/10i5izd.jpg
+
+As a greenie level cap this build boasts;
+
+[INDENT]30,132 Morale
+21.6 / 8.9 / 30.1% Critical Rating
+27.4% Finesse
+48,887 (128.6%) Physical Mastery
+23.8% Resistance
+45.7% Critical Defence
+10.0% Incoming Healing
+26.0 / 10.0 / 35.0 % Block
+26.0 / 12.5 / 57.5 % Parry
+12.3 / 4.0  / 32.3 % Evade
+24,045 (60/42.1%) Physical Mitigation ([I]enough to even cover hidden T2 mitigation[/I])
+11,041 (48.5%) Tactical Mitigation ([I]a bit low but not bad considering[/I])[/INDENT]
+
+Similar stats to the greenie avoidance taunt tank build. A touch more key offensive stats in trade for a small amount of Morale and Critical Defense.
+
+[COLOR="#DDA0DD"]As an established level cap Guardian you have been around long enough to be able to barter for essence gear and accumulate a stash of essences and gold. Below are various barter gear and jewellery that anyone can get solo, accompanied by stats.[/COLOR]

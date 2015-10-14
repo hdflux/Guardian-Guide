@@ -1,118 +1,63 @@
-[COLOR="#FF8C00"][SIZE=3][B][5. Builds > b. DPS][/B][/SIZE][/COLOR]
+[COLOR="#FF8C00"][B][5. Builds > a. Tanking > i. Avoidance Tank][/B][/COLOR]
 
-While our primary role may be that of a tank Guardians also can excel in sustained AoE DPS, though suffering in the single-target department ([I]when there is only one target to attack[/I]). Unlike other DPS classes Guardians do not have consumables such as devastate pots nor do we have class trait skills to invest in that increase our devastate magnitude. That said, one of the things that sets Guardians apart from other DPS classes is our survivability and ability to self-heal while functioning as a DPS role.
+The Avoidance Tank can be a fun tanking style to play. This was actually my original preferred tanking method and I first started playing this way at level 65 cap after being inspired by Warden tanking. Back in the day ([I]yes, I'm old enough to have earned the right to say that expression[/I]) before things such as Block heals, Bleed heals and Pain heals existed I relied on gear that proc'd a very small amount of morale and some that mitigated damage on any damage taken.
 
-For Guardians with low Physical Mastery, probably below 30-40K (?), the bulk of our DPS will come from two skills, [I]Prey on the Weak[/I] and [I]Guardian's Bleed - 10[/I].
+I wanted to create a tank that required little healing and thus meant less stress for the healer or allowed the Guardian to tank without a healer, say from even a Loremaster ([I]odd yes, but I've done it[/I]).
 
-For Guardians with mid-high Physical Mastery this changes as our bleeds and skills scale with our mastery rating, often causing your tier 10 guardian bleeds to be by far your top damage dealer followed by Sweeping Cut and Whirling Retaliation. http://oi62.tinypic.com/2epj33l.jpg
+Can you tank difficult content with this build even though the Morale is only mid thirties? I have tanked Sunken Labrynth T2C, Ruined City T2C and Dome of Stars T2C.. each instance with 34-36K Morale. In DoS T2C I was able to complete the final fight with 10,312 max Morale largely due to some great healing but also because of my avoidances and partial mitigations.
+
+When battles come down to a hanging thread, this build can create stories of legend (https://www.youtube.com/watch?v=VHM9CQKAn14), hey I *only* had 13 [I]The Black Blade[/I] debuffs on me! =P
+
+There are four factors that make a successful avoidance build; Block/Parry/Evade, Mitigations, Partial Mitigations and Critical Defence.
+
+Required criteria for avoidance tank;
+[LIST=1]
+[*]At least 33K Morale.
+[*]Block 25%, Parry 25%, Evade 15-20%
+[*]Physical Mitigation 20-23K
+[*]Tactical Mitigation 16K
+[*]Critical Defence 50%
+[/LIST]
+Optional criteria;
+[LIST]
+[*]Incoming Healing >15%
+[/LIST]
+Legendary Item relics can be slotted to increase your partial block mitigation by 40% and your partial parry/evade mitigations by 20%. On a BPE that fails a dice roll for a full avoid you still have a chance to partially mitigate the damage, this is called a partial avoid with damage mitigated before it gets further mitigated by your physical/tactical mitigation. When I get a partial avoid a block will reduce the damage by 55% and a parry/evade will reduce the damage by 35%. When you apply partial mitigation with your critical defence and physical/tactical mitigation the incoming damage becomes more of a scratch or glancing blow.
+
+Through your trait tree [Defensive Expertise] and [Skilled Deflection] you can increase your Block and Parry chance by five raw percentage points without diminishing returns. This can allow you to get 25% Block and Parry without having to invest heavily. Evade is a difficult stat to build up and may require a combination of Evasion on your jewellery / gear and even Evasion essences to build up to a respectable number between 15-20%.
+
+For Critical Defence it is easy to get this above 50% with 3-4 essences or solely alone by using the Big Battle Helm Hammerhand tanking jewellery.
 
 [COLOR="#00FF00"][B]:: GEAR AND STATS ::[/B][/COLOR]
 
 [COLOR="#DDA0DD"]Fresh to level cap you are likely to only have gear and jewellery farmed through instances with quite possibly little or no essences or even gold. Below are some good starter gear and stats for you to aim for as a taunt tank.[/COLOR]
 
-http://oi62.tinypic.com/35idukw.jpg
+http://oi59.tinypic.com/fleu4w.jpg
 
 As a greenie level cap this build boasts;
 
-[INDENT]30,298 Morale
-22.4 / 9.4 / 31.6% Critical Rating
-27.4% Finesse
-49,937 (129.9%) Physical Mastery
-23.1% Resistance
-30.5% Critical Defence
-5.0% Incoming Healing
-26.1 / 11.6 / 17.5 % Parry
-8.7 / 2.8  / 8.7 % Evade
-17,743 (60/38.0%) Physical Mitigation ([I]enough to even cover hidden T2 mitigation[/I])
-9,815 (45.2%) Tactical Mitigation ([I]a bit low but not bad considering[/I])[/INDENT]
+[INDENT]31,302 Morale
+20.6% Critical Rating
+16.7% Finesse
+46,996 (116.2%) Physical Mastery
+24.1% Resistance
+63.5% Critical Defence
+17.5% Incoming Healing
+26.0 / 12.5 / 37.5 % Block
+26.1 / 10.0 / 55.0 % Parry
+16.0 / 5.7  / 35.0 % Evade
+25,954 (60/43.3%) Physical Mitigation ([I]enough to even cover hidden T2 mitigation[/I])
+11,422 (49.4%) Tactical Mitigation ([I]a bit low but not bad considering[/I])[/INDENT]
 
-Similar stats to the greenie avoidance taunt tank build. A touch more key offensive stats in trade for a small amount of Morale and Critical Defense.
+Similar stats to the greenie taunt tank build because all of the gear is the same except now we have partial mitigation relics in our legendary items. This isn't the perfect avoidance tank build yet but it is already starting to look very promising!
 
 [COLOR="#DDA0DD"]As an established level cap Guardian you have been around long enough to be able to barter for essence gear and accumulate a stash of essences and gold. Below are various barter gear and jewellery that anyone can get solo, accompanied by stats.[/COLOR]
 
-Below I am going to show a few different possible setups based on areas that you may choose to farm for either reward tokens or stars of merit.
-
-[B]Dol Amroth 4-slot essence gear with non-essence jewellery:[/B]
-http://oi58.tinypic.com/2806z52.jpg
-[INDENT]32,730 Morale
-23.9 / 10.0 / 34.1% Critical Rating
-22.9% Finesse
-60,967 (160.4%) Physical Mastery
-19.9% Resistance
-31.0% Critical Defence
-5.0% Incoming Healing
-25.6 / 10.9 / 17.5 % Parry
-8.0 / 2.5  / 8.0 % Evade
-14,923 (56.9 / 26.8%)
-13,504 (54.1%) Tactical Mitigation[/INDENT]
-
-Not bad, but I feel as though this build could benefit with more essences. It's good but it has gaps.
-
-[B]All craftable Anórien essence gear and jewellery:[/B]
-http://oi61.tinypic.com/2s6n59s.jpg
-[INDENT]31,852 Morale
-24.9 / 10.0 / 35.8% Critical Rating
-24.9% Finesse
-61,709 (162.3%) Physical Mastery
-14.4% Resistance
-45.5% Critical Defence
-5.0% Incoming Healing
-23.8 / 8.7 / 17.5 % Parry
-8.0 / 2.5  / 8.0 % Evade
-15,349 (57.7 / 27.2%)
-14,180 (55.5%) Tactical Mitigation[/INDENT]
-
-This build is so heavy on essences ([I]expensive[/I]) and the issue with this craftable armour is that it has Fate instead of Might making it better suited towards a tanking setup. Also make note that if you skip BB-Hammerhand jewellery altogether than you lose out on the +10% Bleed Damage set bonus.
-
-[B]Mix of Big Battle jewellery and Minas Tirith barter gear/jewellery:[/B]
-http://oi58.tinypic.com/2dwafc5.jpg
-[INDENT]31,075 Morale
-25.0 / 10.0 / 36.5% Critical Rating
-26.8% Finesse
-61,104 (160.7%) Physical Mastery
-17.8% Resistance
-51.6% Critical Defence
-5.0% Incoming Healing
-25.4 / 10.7 / 17.5 % Parry
-8.0 / 2.5  / 8.0 % Evade
-15,490 (58.0 / 27.3%)
-13,651 (54.4%) Tactical Mitigation[/INDENT]
-
-Fairly solid. Adding some of the Big Battle jewellery back into the mix helped compared to all craftable gear and jewellery. Considering that I would not consider this to be an endgame build it is pretty decent.
-
-[COLOR="#DDA0DD"]Endgame Balanced DPS Guardian.[/COLOR]
-
-http://oi58.tinypic.com/21awf47.jpg
-[INDENT]27,471 Morale
-24.2 / 10.0 / 34.6% Critical Rating
-21.4% Finesse
-70,000 (184.3%) Physical Mastery
-17.7% Resistance
-44.3% Critical Defence
-5.0% Incoming Healing
-24.7 / 9.8 / 17.5 % Parry
-8.0 / 2.5  / 8.0 % Evade
-15,695 (58.3 / 28.7%)
-16,372 (59.5%) Tactical Mitigation[/INDENT]
-
-70K Mastery in a Balanced DPS build that is still survivable like a tank, and if a person wants they can trade some Mastery for Morale.
-
-Solo DPS parse from first big pull in Helegrod Spider Wing; http://oi62.tinypic.com/2epj33l.jpg
-
-[COLOR="#DDA0DD"]Endgame Glass Cannon DPS Guardian.[/COLOR]
-
-Well, I tried various setups for an endgame Glass Cannon build with 80K Mastery but nothing ended up being worth the trade-off for that extra 10K Mastery when compared to my endgame Balanced DPS build. I even tried way over-capping my Critical Rating and adding Critcal Rating legacies and I found the gains to be minimal. So much so that I'm actually choosing to omit an endgame glass cannon build from my guide.
 
 [COLOR="#00FF00"][B]:: CLASS TRAIT TREES ::[/B][/COLOR]
 
-Red AoE w/ Strong Bursts, War-chant and Pain
-http://www.lotrottp.lotrostatus.com/l.php?c=3xw
+[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3xF"]Blue Taunt Tank[/URL]
+This build utilizes Pledge, Juggernaught, Block %, Parry %, Turn the Tables cooldown and Fray the Edge range.
 
-Red AoE w/ War-chant, Pain and Pledge
-http://www.lotrottp.lotrostatus.com/l.php?c=3xC
-
-Red w/ Overwhelm and Pain
-http://www.lotrottp.lotrostatus.com/l.php?c=3xB
-
-Red w/ Pledge
-http://www.lotrottp.lotrostatus.com/l.php?c=3xH
+[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3xD"]Yellow Tank[/URL]
+This build utilizes Pledge and most of the Yellow tree.
