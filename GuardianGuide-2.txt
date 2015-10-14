@@ -1,4 +1,5 @@
-[COLOR="#FF8C00"][SIZE=4][B][-= 4. Builds =-][/B][/SIZE][/COLOR]
+[COLOR="#FF8C00"][SIZE=4][B][-= 5. Builds =-][/B][/SIZE][/COLOR]
+
 
 Everything you need to know about each build including target stats, gear, jewellery, legendary items and class trait tree builds.
 
@@ -6,24 +7,24 @@ You can also ask the [U]Trinity Tri-force Oracle[/U] to help decide for you what
 
 Ultimately treat the following builds as guides for you to reference and create your own hybrid build personally catered to your own Guardian.
 
-When I post stats take note that because Zon is my baby that I have capped stat tomes and virtues invested, otherwise everything that I list below in the following builds are  obtainable through easy instance farming ([I]such as Great Barrows and Annuminas[/I]), crafting or from epic quest rewards.
 
+[COLOR="#FF8C00"][SIZE=3][B][5. Builds > a. Tanking][/B][/SIZE][/COLOR]
 
-[COLOR="#FF8C00"][SIZE=3][B][4. Builds > a. Tanking][/B][/SIZE][/COLOR]
 
 By definition a Guardian is one whom protects or defends something.
 
 Your play style and how well you understand the mechanics, mobs and bosses of each instance will largely dictate how you decide to tank.
 
 
-[COLOR="#FF8C00"][B][4. Builds > a. Tanking > i. Taunt Tank][/B][/COLOR]
+[COLOR="#FF8C00"][B][5. Builds > a. Tanking > i. Taunt Tank][/B][/COLOR]
+
 
 The Taunt Tank is the staple bread 'n butter of the Guardian tanking repetoire. Not only is it the easiest tanking build to play and therefore a great tanking build to start learning with, but it is also very effective at establishing aggro through taunts and absorbing huge amounts of spike damage. This is the gold standard tanking build for raids. As a taunt tank you may require full-time healing, your damage contribution to the fellowship will be non-existant, and Morale essences can be very expensive to accumulate.
 
 There are two basic criteria for being a taunt tank;
 [LIST=1]
 [*]Stack as much Morale as possible.
-[*]Establish and Hold aggro (threat).
+[*]Establish aggro and build threat through taunts.
 [/LIST]
 Optional criteria include;
 [LIST]
@@ -37,18 +38,28 @@ The optional criteria while valuable is just that, optional in this build though
 
 As a taunt tank you are likely to have low Physical Mastery, Finesse and Critical Rating, it is for these reasons exactly why you are called a taunt tank. Focus on what you do best and build your Guardian tank around that. The early to mid part of every battle will be your most difficult to establish and maintain aggro. If you round up too many enemies then your Challenge may not force taunt all of them.
 
-Likewise you are likely to lose aggro one or more times until later on in the battle due to the threat catch-up mechanic of your forced taunts. Every forced taunt will give you 100% aggro plus 20%; so the longer the battle the larger that 20% will be and thus the more difficult it will be for people to pull those enemies off of you. Similarly, early on that 20% will be very small and easier for people to pull aggro off of you.
+Likewise you may lose aggro one or more times until later on in the battle due to the threat catch-up mechanic of your forced taunts. Every forced taunt will give you 100% aggro plus 20%; so the longer the battle the larger that 20% will be and thus the more difficult it will be for people to pull those enemies off of you. Similarly, early on that 20% will be very small and easier for people to pull aggro off of you.
 
-As a taunt tank if you chose to trait [I]Bring on the Pain[/I] instead of [I]Juggernaught[/I] then a useful technique for establishing aggro in the beginning of a battle is to start off with Pain which will heal you for 2.5% Morale for any damage taken. This heal threat combined with any damage and taunt threat that you are generating should be enough to draw the ire of your enemies.
+As a taunt tank if you choose to trait [I]Bring on the Pain[/I] instead of [I]Juggernaught[/I] then a useful technique for establishing aggro in the beginning of a battle is to start off with Pain which will heal you for 2.5% Morale for any damage taken. This heal threat combined with any damage and taunt threat that you are generating should be enough to draw the ire of your enemies.
+
+Every Guardian eventually develops an attack rotation to tag enemies with when starting a battle. Maybe it's just a straight head-on battle, or perhaps you are gathering up all of the mobs into one big cluster, in either case you are likely going to use several skills to tag enemies and generate threat followed last by a Challenge.
+
+If you're running straight into a mob then Sweeping Cut may be your skill of choice. Next up will depend on whether you have a Block or Parry event opened up. If you don't have a Block event but have a Parry then use Whirling Retaliation, otherwise Shield-swipe > Shield-taunt. If no Block or Parry events have opened up yet then Vexing Blow, Ward, Sting and Stagger are good filler skills. It shouldn't take long to get a Block or Parry event though. After going through my Block chain I like to follow it up with a War-chant since when traited for increased targets it also reduces the cooldown of your Block and Parry skills.
+
+If you're rounding up enemies 1 or 2 at a time then I prefer to start with Shield-blow, Shield-swipe and if I am rounding up then Shield-taunt otherwise Bash followed by War-chant.
+
+I mentioned Challenge but try to resist the urge to use your big AoE Forced Taunt this early on into the battle unless, well, you just don't have aggro at all ~sad_face ;'(. In the early stages of a battle the best time to use Challenge is after one of the DPS classes unleashes one of their huge AoE burst damage attacks.
+
+Likewise when traited, the increased range of War-chant is excellent for picking up enemies that peel away from you onto the DPS or healers in the group.
+
+When Challenge is on cooldown Fray the Edge and Engage are your friends since they also do forced taunts. Engage however requires you to be within melee range so you may have to Charge to reacquire aggro on the target.
 
 [COLOR="#00FF00"][B]:: GEAR AND STATS ::[/B][/COLOR]
 
 [COLOR="#DDA0DD"]Fresh to level cap you are likely to only have gear and jewellery farmed through instances with quite possibly little or no essences or even gold. Below are some good starter gear and stats for you to aim for as a taunt tank.[/COLOR]
 
+[B]As a greenie level cap this build boasts:[/B]
 http://oi62.tinypic.com/24uz2gm.jpg
-
-As a greenie level cap this build boasts;
-
 [INDENT]32,754 Morale
 20.6% Critical Rating
 16.7% Finesse
@@ -66,16 +77,62 @@ Pretty nice stats for a Guardian looking to prove themselves.
 
 [COLOR="#DDA0DD"]As an established level cap Guardian you have been around long enough to be able to barter for essence gear and accumulate a stash of essences and gold. Below are various barter gear and jewellery that anyone can get solo, accompanied by stats.[/COLOR]
 
+[B]Dol Amroth 4-slot essence gear and Helm Hammerhand non-essence jewellery:[/B]
+http://oi59.tinypic.com/v5ls0l.jpg
+[INDENT]45,661 Morale
+18.6% Critical Rating
+11.5% Finesse
+40,769 (106.4%) Physical Mastery
+22.3% Resistance
+67.4% Critical Defence
+26.4% Incoming Healing
+25.4 / 12.5 / 17.5 % Block
+25.6 / 9.7 / 15.0 % Parry
+15.4 / 5.3  / 15.0 % Evade
+23,618 (60/35.6%) Physical Mitigation
+15,111 (57.3%) Tactical Mitigation[/INDENT]
+This build uses all Hammerhand jewellery and 4-slot essence gear. If you think about what a taunt tank is then this build has room to drop Critical Rating, Finesse and Physical Mastery in favour of Morale.
+
+[B]All craftable Anórien essence gear and jewellery:[/B]
+{url}
+[INDENT], Morale
+. / . / .% Critical Rating
+.% Finesse
+, (.%) Physical Mastery
+.% Resistance
+.% Critical Defence
+.% Incoming Healing
+. / . / . % Parry
+. / .  / . % Evade
+, (. / .%)
+, (.%) Tactical Mitigation[/INDENT]
+
+This build is so heavy on essences ([I]expensive[/I]) and the issue with this craftable armour is that it has Fate instead of Might making it better suited towards a tanking setup. Also make note that if you skip BB-Hammerhand jewellery altogether than you lose out on the +10% Bleed Damage set bonus.
+
+[B]Mix of Big Battle jewellery and Minas Tirith barter essence gear and jewellery:[/B]
+{url}
+[INDENT], Morale
+. / . / .% Critical Rating
+.% Finesse
+, (.%) Physical Mastery
+.% Resistance
+.% Critical Defence
+.% Incoming Healing
+. / . / . % Parry
+. / .  / . % Evade
+, (. / .%)
+, (.%) Tactical Mitigation[/INDENT]
+
 [COLOR="#00FF00"][B]:: CLASS TRAIT TREES ::[/B][/COLOR]
 
-[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3xF"]Blue Taunt Tank #1[/URL]
-This build utilizes Pledge, Juggernaught, Block %, Parry %, Turn the Tables cooldown and Fray the Edge range.
+[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3yC"] Blue Taunt Tank #1[/URL]
+This build utilizes Pledge, Juggernaught, Block %, Parry %, Turn the Tables cooldown, Fray the Edge range and a couple points into War-chant targets. Both Sting and War-chant can be used to help reset your Block and Parry skills.
 
 [URL="http://www.lotrottp.lotrostatus.com/l.php?c=39v"]Blue Taunt Tank #2[/URL]
-Similar to the first Blue Taunt Tank except we are trading Juggernaught for War-chant targets and Bring on the Pain. This build should be the superior of the two Blue Taunt Tank builds unless you absolutely need Juggernaught.
+Similar to the first Blue Taunt Tank except we are trading Juggernaught for War-chant targets and Bring on the Pain. This build should be the superior of the two Blue Taunt Tank builds unless you absolutely need Juggernaught. War-chant can be used to help reset your Block and Parry skills.
 
 [URL="http://www.lotrottp.lotrostatus.com/l.php?c=3xD"]Yellow Tank[/URL]
-This build utilizes Pledge and most of the Yellow tree.
+This build utilizes Pledge and most of the Yellow tree. War-chant can be used to help reset your Block and Parry skills.
 
 Blue versus Yellow tank builds...
 
@@ -86,7 +143,7 @@ Yellow will initially take more damage than Blue but can reduce that damage for 
 Both Blue and Yellow are viable tanking builds.
 
 
-[COLOR="#FF8C00"][B][4. Builds > a. Tanking > i. Avoidance Tank][/B][/COLOR]
+[COLOR="#FF8C00"][B][5. Builds > a. Tanking > i. Avoidance Tank][/B][/COLOR]
 
 The Avoidance Tank can be a fun tanking style to play. This was actually my original preferred tanking method and I first started playing this way at level 65 cap after being inspired by Warden tanking. Back in the day ([I]yes, I'm old enough to have earned the right to say that expression[/I]) before things such as Block heals, Bleed heals and Pain heals existed I relied on gear that proc'd a very small amount of morale and some that mitigated damage on any damage taken.
 
@@ -151,7 +208,7 @@ This build utilizes Pledge, Juggernaught, Block %, Parry %, Turn the Tables cool
 This build utilizes Pledge and most of the Yellow tree.
 
 
-[COLOR="#FF8C00"][B][4. Builds > a. Tanking > i. Threat Tank][/B][/COLOR]
+[COLOR="#FF8C00"][B][5. Builds > a. Tanking > i. Threat Tank][/B][/COLOR]
 
 [COLOR="#00FF00"][B]:: GEAR AND STATS ::[/B][/COLOR]
 

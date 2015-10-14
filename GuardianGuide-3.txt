@@ -1,4 +1,4 @@
-[COLOR="#FF8C00"][SIZE=3][B][4. Builds > b. DPS][/B][/SIZE][/COLOR]
+[COLOR="#FF8C00"][SIZE=3][B][5. Builds > b. DPS][/B][/SIZE][/COLOR]
 
 While our primary role may be that of a tank Guardians also can excel in sustained AoE DPS, though suffering in the single-target department ([I]when there is only one target to attack[/I]). Unlike other DPS classes Guardians do not have consumables such as devastate pots nor do we have class trait skills to invest in that increase our devastate magnitude. That said, one of the things that sets Guardians apart from other DPS classes is our survivability and ability to self-heal while functioning as a DPS role.
 
