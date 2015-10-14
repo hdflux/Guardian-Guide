@@ -19,7 +19,7 @@ Your play style and how well you understand the mechanics, mobs and bosses of ea
 [COLOR="#FF8C00"][B][5. Builds > a. Tanking > i. Taunt Tank][/B][/COLOR]
 
 
-The Taunt Tank is the staple bread 'n butter of the Guardian tanking repetoire. Not only is it the easiest tanking build to play and therefore a great tanking build to start learning with, but it is also very effective at establishing aggro through taunts and absorbing huge amounts of spike damage. This is the gold standard tanking build for raids. As a taunt tank you may require full-time healing, your damage contribution to the fellowship will be non-existant, and Morale essences can be very expensive to accumulate.
+The Taunt Tank is the staple bread 'n butter of the Guardian tanking repertoire. Not only is it the easiest tanking build to play and therefore a great tanking build to start learning with, but it is also very effective at establishing aggro through taunts and absorbing huge amounts of spike damage. This is the gold standard tanking build for raids. As a taunt tank you may require full-time healing, your damage contribution to the fellowship will be non-existent, and Morale essences can be very expensive to accumulate.
 
 There are two basic criteria for being a taunt tank;
 [LIST=1]
@@ -40,7 +40,7 @@ As a taunt tank you are likely to have low Physical Mastery, Finesse and Critica
 
 Likewise you may lose aggro one or more times until later on in the battle due to the threat catch-up mechanic of your forced taunts. Every forced taunt will give you 100% aggro plus 20%; so the longer the battle the larger that 20% will be and thus the more difficult it will be for people to pull those enemies off of you. Similarly, early on that 20% will be very small and easier for people to pull aggro off of you.
 
-As a taunt tank if you choose to trait [I]Bring on the Pain[/I] instead of [I]Juggernaught[/I] then a useful technique for establishing aggro in the beginning of a battle is to start off with Pain which will heal you for 2.5% Morale for any damage taken. This heal threat combined with any damage and taunt threat that you are generating should be enough to draw the ire of your enemies.
+As a taunt tank if you choose to trait [I]Bring on the Pain[/I] instead of [I]Juggernaut[/I] then a useful technique for establishing aggro in the beginning of a battle is to start off with Pain which will heal you for 2.5% Morale for any damage taken. This heal threat combined with any damage and taunt threat that you are generating should be enough to draw the ire of your enemies.
 
 Every Guardian eventually develops an attack rotation to tag enemies with when starting a battle. Maybe it's just a straight head-on battle, or perhaps you are gathering up all of the mobs into one big cluster, in either case you are likely going to use several skills to tag enemies and generate threat followed last by a Challenge.
 
@@ -53,6 +53,10 @@ I mentioned Challenge but try to resist the urge to use your big AoE Forced Taun
 Likewise when traited, the increased range of War-chant is excellent for picking up enemies that peel away from you onto the DPS or healers in the group.
 
 When Challenge is on cooldown Fray the Edge and Engage are your friends since they also do forced taunts. Engage however requires you to be within melee range so you may have to Charge to reacquire aggro on the target.
+
+If you are in Yellow and have marked and fully debuffed your target then you can spread that targets debuffs to the 5 closest targets surrounding your target by using Cataclysmic Shout.
+
+Redirect is an excellent way to mitigate damage along with generating a small amount of threat.
 
 [COLOR="#00FF00"][B]:: GEAR AND STATS ::[/B][/COLOR]
 
@@ -126,17 +130,17 @@ This build is so heavy on essences ([I]expensive[/I]) and the issue with this cr
 [COLOR="#00FF00"][B]:: CLASS TRAIT TREES ::[/B][/COLOR]
 
 [URL="http://www.lotrottp.lotrostatus.com/l.php?c=3yC"] Blue Taunt Tank #1[/URL]
-This build utilizes Pledge, Juggernaught, Block %, Parry %, Turn the Tables cooldown, Fray the Edge range and a couple points into War-chant targets. Both Sting and War-chant can be used to help reset your Block and Parry skills.
+This build utilizes Pledge, Juggernaut, Block %, Parry %, Turn the Tables cooldown, Fray the Edge range and a couple points into War-chant targets. Both Sting and War-chant can be used to help reset your Block and Parry skills.
 
 [URL="http://www.lotrottp.lotrostatus.com/l.php?c=39v"]Blue Taunt Tank #2[/URL]
-Similar to the first Blue Taunt Tank except we are trading Juggernaught for War-chant targets and Bring on the Pain. This build should be the superior of the two Blue Taunt Tank builds unless you absolutely need Juggernaught. War-chant can be used to help reset your Block and Parry skills.
+Similar to the first Blue Taunt Tank except we are trading Juggernaut for War-chant targets and Bring on the Pain. This build should be the superior of the two Blue Taunt Tank builds unless you absolutely need Juggernaut. War-chant can be used to help reset your Block and Parry skills.
 
 [URL="http://www.lotrottp.lotrostatus.com/l.php?c=3xD"]Yellow Tank[/URL]
 This build utilizes Pledge and most of the Yellow tree. War-chant can be used to help reset your Block and Parry skills.
 
 Blue versus Yellow tank builds...
 
-Blue has self heals from Blocks and takes less damage since a Blue Guardian gains +10% Armour as well as +10% Mitigations. Blue also has has access to the coveted Juggernaught.
+Blue has self heals from Blocks and takes less damage since a Blue Guardian gains +10% Armour as well as +10% Mitigations. Blue also has access to the coveted Juggernaut.
 
 Yellow will initially take more damage than Blue but can reduce that damage for both themselves and the rest of the group through debuffs. Yellow also has the potential to generate more damage threat than Blue. Yellow will require more healing than Blue but has Bring on the Pain as a source of emergency healing. Yellow also has slows which can be very effective in some boss fights.
 

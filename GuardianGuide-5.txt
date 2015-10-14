@@ -6,14 +6,14 @@ For Guardians with low Physical Mastery, probably below 30-40K (?), the bulk of 
 
 For Guardians with mid-high Physical Mastery this changes as our bleeds and skills scale with our mastery rating, often causing your tier 10 guardian bleeds to be by far your top damage dealer followed by Sweeping Cut and Whirling Retaliation. http://oi62.tinypic.com/2epj33l.jpg
 
+Will insert a MUCH LARGER description later this week as soon as I get a chance to...
+
 [COLOR="#00FF00"][B]:: GEAR AND STATS ::[/B][/COLOR]
 
 [COLOR="#DDA0DD"]Fresh to level cap you are likely to only have gear and jewellery farmed through instances with quite possibly little or no essences or even gold. Below are some good starter gear and stats for you to aim for as a taunt tank.[/COLOR]
 
+[B]As a greenie level cap this build boasts:[/B]
 http://oi62.tinypic.com/35idukw.jpg
-
-As a greenie level cap this build boasts;
-
 [INDENT]30,298 Morale
 22.4 / 9.4 / 31.6% Critical Rating
 27.4% Finesse
@@ -101,7 +101,7 @@ Solo DPS parse from first big pull in Helegrod Spider Wing; http://oi62.tinypic.
 
 [COLOR="#DDA0DD"]Endgame Glass Cannon DPS Guardian.[/COLOR]
 
-Well, I tried various setups for an endgame Glass Cannon build with 80K Mastery but nothing ended up being worth the trade-off for that extra 10K Mastery when compared to my endgame Balanced DPS build. I even tried way over-capping my Critical Rating and adding Critcal Rating legacies and I found the gains to be minimal. So much so that I'm actually choosing to omit an endgame glass cannon build from my guide.
+Well, I tried various setups for an endgame Glass Cannon build with 80K Mastery but nothing ended up being worth the trade-off for that extra 10K Mastery when compared to my endgame Balanced DPS build. I even tried way over-capping my Critical Rating and adding Critical Rating legacies and I found the gains to be minimal. So much so that I'm actually choosing to omit an endgame glass cannon build from my guide.
 
 [COLOR="#00FF00"][B]:: CLASS TRAIT TREES ::[/B][/COLOR]
 
@@ -111,7 +111,7 @@ http://www.lotrottp.lotrostatus.com/l.php?c=3xw
 Red AoE w/ War-chant, Pain and Pledge
 http://www.lotrottp.lotrostatus.com/l.php?c=3xC
 
-Red w/ Overwhelm and Pain
+Red w/ Overwhelm, War-chant and Pain
 http://www.lotrottp.lotrostatus.com/l.php?c=3xB
 
 Red w/ Pledge

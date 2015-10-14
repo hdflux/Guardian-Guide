@@ -9,12 +9,12 @@ Zonflux
 Arathaert, mattspencer, dwarfThar[/CENTER]
 
 
-[COLOR="#FF0000"][I]* Note: References to the Trinity Tri-force Oracle are placeholders until I finish developing the app.[/I][/COLOR]
+[COLOR="#FF0000"][I]* Note: References to the Trinity Tri-force Oracle are placeholders until I finish developing the app.
 
-Welcome to my Guardian Guide! While primarily written for level capped Guardians there are still strategical components and class trait builds that will still be useful as you level; for levelling and everything else Guardian related I recommend reading [URL="
-https://www.lotro.com/forums/showthread.php?557663-Arathaert-s-Guardian-Guide"]Arathaert's[/URL] and [URL="
-https://www.lotro.com/forums/showthread.php?557822-Dadi-s-Guide-to-Blue-Line-Tanking-(post-U14)
-"]Dadi's[/URL] Guardian guides.
+* Note: The guide is still a work-in-progress as I continue to write it up, it is not finished and still requires a lot of what as I gain access to Bullroarer whenever is open.[/I][/COLOR]
+
+
+Welcome to my Guardian Guide! While primarily written for level capped Guardians there are still strategical components and class trait builds that will still be useful as you level; for levelling and everything else Guardian related I recommend reading [URL="https://www.lotro.com/forums/showthread.php?557663-Arathaert-s-Guardian-Guide"]Arathaert's[/URL] and [URL="https://www.lotro.com/forums/showthread.php?557822-Dadi-s-Guide-to-Blue-Line-Tanking-(post-U14"]Dadi's[/URL] Guardian guides.
 
 My goal with this guide was first and foremost to create a guide where everything listed in the guide is attainable without being forced to group ([I]it's an MMO so group if you can, but like me you may have your reasons to mostly solo[/I]).
 
@@ -39,13 +39,13 @@ Without further ado, enjoy reading my guide!
 [LIST=a]
 [*]Tanking
 [LIST=i]
-[*]Taunt Tank
-[*]Avoidance Tank
-[*]Threat Tank
+[*][URL="https://www.lotro.com/forums/showthread.php?579311-Zon-s-Guardian-Guide&p=7459662#post7459662"]Taunt Tank[/URL]
+[*][URL="https://www.lotro.com/forums/showthread.php?579311-Zon-s-Guardian-Guide&p=7459663#post7459663"]Avoidance Tank[/URL]
+[*][URL="https://www.lotro.com/forums/showthread.php?579311-Zon-s-Guardian-Guide&p=7459664#post7459664"]Threat Tank[/URL]
 [/LIST]
-[*]DPS
-[*]PvMP
-[*]Solo Survivalist
+[*][URL="https://www.lotro.com/forums/showthread.php?579311-Zon-s-Guardian-Guide&p=7459666#post7459666"]DPS[/URL]
+[*][URL="https://www.lotro.com/forums/showthread.php?579311-Zon-s-Guardian-Guide&p=7459667#post7459667"]PvMP[/URL]
+[*][URL="https://www.lotro.com/forums/showthread.php?579311-Zon-s-Guardian-Guide&p=7459668#post7459668"]Solo Survivalist[/URL]
 [/LIST]
 [/LIST]
 
@@ -54,7 +54,7 @@ Without further ado, enjoy reading my guide!
 [COLOR="#FF8C00"][SIZE=4][B][-= 1. Virtues =-][/B][/SIZE][/COLOR]
 
 
-A list of Virtues that I use with their important stats shown:
+[B]A list of Virtues that I use with their important stats shown:[/B]
 
 [LIST]
 [*]Zeal - 517 Morale, 923 Physical Mitigation
@@ -69,15 +69,15 @@ A list of Virtues that I use with their important stats shown:
 [*]Innocence - 1539 Physical Mitigation, 1638 Resistance, 513 Tactical Mitigation
 [*]Justice - 214 iCMR, 259 Morale
 [/LIST]
-Morale + Tactical Mitigations:
+[B]Morale + Tactical Mitigations:[/B]
 [INDENT]Zeal, Valour, Discipline, Fidelity, Tolerance
 [I]* What Zon uses 99% of the time.[/I][/INDENT]
 
-Resistance:
+[B]Resistance:[/B]
 [INDENT]Valour, Discipline, Honour, Charity, Confidence
 [I]* These virtues alone should give you all of the Resistance that you will ever need.[/I][/INDENT]
 
-Morale:
+[B]Morale:[/B]
 [INDENT]Zeal, Valour, Loyalty, Fidelity, Justice
 [I]* When Morale is important.[/I][/INDENT]
 

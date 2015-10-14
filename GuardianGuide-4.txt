@@ -1,13 +1,13 @@
 [COLOR="#FF8C00"][B][5. Builds > a. Tanking > i. Threat Tank][/B][/COLOR]
 
+Will insert a description as soon as I get time to this week.
+
 [COLOR="#00FF00"][B]:: GEAR AND STATS ::[/B][/COLOR]
 
 [COLOR="#DDA0DD"]Fresh to level cap you are likely to only have gear and jewellery farmed through instances with quite possibly little or no essences or even gold. Below are some good starter gear and stats for you to aim for as a taunt tank.[/COLOR]
 
+[B]As a greenie level cap this build boasts:[/B]
 http://oi61.tinypic.com/dqgaav.jpg
-
-As a greenie level cap this build boasts;
-
 [INDENT]30,132 Morale
 21.6 / 8.9 / 30.1% Critical Rating
 27.4% Finesse
@@ -22,3 +22,60 @@ As a greenie level cap this build boasts;
 11,422 (49.4%) Tactical Mitigation ([I]a bit low but not bad considering[/I])[/INDENT]
 
 Similar stats to the greenie avoidance taunt tank build. A touch more key offensive stats in trade for a small amount of Morale and Critical Defense.
+
+[COLOR="#DDA0DD"]As an established level cap Guardian you have been around long enough to be able to barter for essence gear and accumulate a stash of essences and gold. Below are various barter gear and jewellery that anyone can get solo, accompanied by stats.[/COLOR]
+
+[B]Dol Amroth 4-slot essence gear and Helm Hammerhand non-essence jewellery:[/B]
+{url}
+[INDENT], Morale
+. / . / .% Critical Rating
+.% Finesse
+, (.%) Physical Mastery
+.% Resistance
+.% Critical Defence
+.% Incoming Healing
+. / . / . % Parry
+. / .  / . % Evade
+, (. / .%)
+, (.%) Tactical Mitigation[/INDENT]
+
+[B]All craftable Anórien essence gear and jewellery:[/B]
+{url}
+[INDENT], Morale
+. / . / .% Critical Rating
+.% Finesse
+, (.%) Physical Mastery
+.% Resistance
+.% Critical Defence
+.% Incoming Healing
+. / . / . % Parry
+. / .  / . % Evade
+, (. / .%)
+, (.%) Tactical Mitigation[/INDENT]
+
+This build is so heavy on essences ([I]expensive[/I]) and the issue with this craftable armour is that it has Fate instead of Might making it better suited towards a tanking setup. Also make note that if you skip BB-Hammerhand jewellery altogether than you lose out on the +10% Bleed Damage set bonus.
+
+[B]Mix of Big Battle jewellery and Minas Tirith barter essence gear and jewellery:[/B]
+{url}
+[INDENT], Morale
+. / . / .% Critical Rating
+.% Finesse
+, (.%) Physical Mastery
+.% Resistance
+.% Critical Defence
+.% Incoming Healing
+. / . / . % Parry
+. / .  / . % Evade
+, (. / .%)
+, (.%) Tactical Mitigation[/INDENT]
+
+[COLOR="#00FF00"][B]:: CLASS TRAIT TREES ::[/B][/COLOR]
+
+Blue Damage Threat Tank w/ Juggernaut
+http://www.lotrottp.lotrostatus.com/l.php?c=3yD
+
+Blue Damage Threat Tank w/ War-chant and Pain
+http://www.lotrottp.lotrostatus.com/l.php?c=3xv
+
+Yellow Damage Threat Tank / Shield-smash
+http://www.lotrottp.lotrostatus.com/l.php?c=3yc
