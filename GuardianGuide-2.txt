@@ -10,6 +10,8 @@ Ultimately treat the following builds as guides for you to reference and create 
 All greenie build gear can be instance farmed from the following loot table. It's for Update 12 but just remember that this loot scales so it is good for level 100 as well.
 https://www.lotro.com/forums/showthread.php?535472-Update-12-1-Scaling-Instance-Loot
 
+It should be noted that the legacies in my legendary items shown in my screenshots are custom tailored towards my own personal play style which is that of avoidance tank, threat tank and dps. I will however add sections to each build describing what legacies, relics and imbued vs non-imbued I would personally use.
+
 
 [COLOR="#FF8C00"][SIZE=3][B][5. Builds > a. Tanking][/B][/SIZE][/COLOR]
 
