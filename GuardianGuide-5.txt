@@ -23,7 +23,7 @@ http://oi62.tinypic.com/35idukw.jpg
 5.0% Incoming Healing
 26.1 / 11.6 / 17.5 % Parry
 8.7 / 2.8  / 8.7 % Evade
-17,743 (60/38.0%) Physical Mitigation ([I]enough to even cover hidden T2 mitigation[/I])
+17,743 (60/38.0%) Physical Mitigation
 9,815 (45.2%) Tactical Mitigation ([I]a bit low but not bad considering[/I])[/INDENT]
 
 Similar stats to the greenie avoidance taunt tank build. A touch more key offensive stats in trade for a small amount of Morale and Critical Defense.
