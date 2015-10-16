@@ -132,3 +132,19 @@ Currently my Guardian Video Guide is made for Update 15. Once I update the video
 [*][URL="https://www.youtube.com/watch?v=X9wUxPRc-NY&list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve&index=9"][B]Chapter 6: End Game Gear and Jewellery[/B][/URL]
 [*][URL="https://www.youtube.com/watch?v=lPxcDVXBqrI&index=10&list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve"][B]Chapter 7: PvMP Gear and Build[/B][/URL]
 [/LIST]
+
+
+
+[COLOR="#FF8C00"][SIZE=4][B][-= 5. Builds =-][/B][/SIZE][/COLOR]
+
+
+Everything you need to know about each build including target stats, gear, jewellery, legendary items and class trait tree builds.
+
+You can also ask the [U]Trinity Tri-force Oracle[/U] to help decide for you what build, gear and stats to choose, which will also take into account your playstyle and current stats.
+
+Ultimately treat the following builds as guides for you to reference and create your own hybrid build personally catered to your own Guardian.
+
+All greenie build gear can be instance farmed from the following loot table. It's for Update 12 but just remember that this loot scales so it is good for level 100 as well.
+https://www.lotro.com/forums/showthread.php?535472-Update-12-1-Scaling-Instance-Loot
+
+It should be noted that the legacies in my legendary items shown in my screenshots are custom tailored towards my own personal play style which is that of avoidance tank, threat tank and dps. I will however add sections to each build describing what legacies, relics and imbued vs non-imbued I would personally use.
