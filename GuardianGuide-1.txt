@@ -39,7 +39,7 @@ Without further ado, enjoy reading my guide!
 [LIST=a]
 [*]Tanking
 [LIST=i]
-[*][URL="https://www.lotro.com/forums/showthread.php?579311-Zon-s-Guardian-Guide&p=7459662#post7459662"]Taunt Tank[/URL]
+[*][URL="https://www.lotro.com/forums/showthread.php?579311-Zon-s-Guardian-Guide&p=7459662#post7459662"]Tank[/URL]
 [*][URL="https://www.lotro.com/forums/showthread.php?579311-Zon-s-Guardian-Guide&p=7459663#post7459663"]Avoidance Tank[/URL]
 [*][URL="https://www.lotro.com/forums/showthread.php?579311-Zon-s-Guardian-Guide&p=7459664#post7459664"]Threat Tank[/URL]
 [/LIST]
