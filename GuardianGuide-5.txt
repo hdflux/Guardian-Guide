@@ -10,11 +10,29 @@ Will insert a MUCH LARGER description later this week as soon as I get a chance 
 
 [COLOR="#00FF00"][B]:: GEAR AND STATS ::[/B][/COLOR]
 
-[COLOR="#DDA0DD"]Fresh to level cap you are likely to only have gear and jewellery farmed through instances with quite possibly little or no essences or even gold. Below are some good starter gear and stats for you to aim for as a taunt tank.[/COLOR]
+[COLOR="#DDA0DD"]Fresh to level cap you are likely to only have armour and jewellery farmed through instances with quite possibly little or no essences or even gold. Below are some good starter gear and stats for you to aim for as a DPS Guardian.[/COLOR]
 
-[B]As a greenie level cap this build boasts:[/B]
-http://oi62.tinypic.com/35idukw.jpg
-[I]* Two alternatives to the Ring of Berabhir could be the Greater Valourous Ring of Penetration (from Glinghant challenge and Warg Pengs T2C) or the Band of Fury from PvMP if you have Rank 6.[/I]
+[B]DPS Recruit:[/B]
+[I]* You are new to level 100, a fresh recruit. You want to start DPS'ing and the fastest way may well be a stop to the Skirmish Camp.[/I]
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/DPS-Recruit.jpg"]screenshot of build[/URL], skirmish camp armour and jewellery, ALL PURPLE!!!
+[INDENT]27,861 Morale
+6,471 Power
+23.0 / 9.8 / 32.5 % Critical Rating
+17,260 (30.3%) Finesse
+42,250 (119.0%) Physical Mastery
+21.6% Resistance
+14.7% Critical Defence
+5.0% Incoming Healing
+23.3 / 10.5 / 17.5 % Parry
+8.0 / 2.5 / 8.0 % Evade
+13,420 (53.9/22.6%) Physical Mitigation
+8,223 (40.4%) Tactical Mitigation[/INDENT]
+
+Decent starting stats.
+
+[B]DPS Veteran:[/B]
+[I]* First off congratulations on your promotion to DPS Veteran! Now that your gear is a little bit better let's see how your stats have improved.[/I]
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/DPS-Veteran.jpg"]screenshot of build[/URL], mostly farmed gear from instances such as the great barrows, annuminas and skirmishes
 [INDENT]30,298 Morale
 22.4 / 9.4 / 31.6% Critical Rating
 27.4% Finesse
@@ -25,17 +43,17 @@ http://oi62.tinypic.com/35idukw.jpg
 26.1 / 11.6 / 17.5 % Parry
 8.7 / 2.8  / 8.7 % Evade
 17,743 (60/38.0%) Physical Mitigation
-9,815 (45.2%) Tactical Mitigation ([I]a bit low but not bad considering[/I])[/INDENT]
+9,815 (45.2%) Tactical Mitigation[/INDENT]
 
-Similar stats to the greenie avoidance taunt tank build. A touch more key offensive stats in trade for a small amount of Morale and Critical Defense.
+Not bad, but I feel as though this build could benefit with essence armour.
 
 [COLOR="#DDA0DD"]As an established level cap Guardian you have been around long enough to be able to barter for essence gear and accumulate a stash of essences and gold. Below are various barter gear and jewellery that anyone can get solo, accompanied by stats.[/COLOR]
 
-Below I am going to show a few different possible setups based on areas that you may choose to farm for either reward tokens or stars of merit.
-
-[B]Dol Amroth 4-slot essence gear with non-essence jewellery:[/B]
-http://oi58.tinypic.com/2806z52.jpg
+[B]Raid-ready DPS:[/B]
+[I]* I salute you brother! You can now consider yourself to be Raid-ready DPS.[/I]
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/DPS-4slot.jpg"]screenshot of build[/URL], Dol Amroth 4-slot essence armour with non-essence helm hammerhand jewellery.
 [INDENT]32,730 Morale
+6,014 Power
 23.9 / 10.0 / 34.1% Critical Rating
 22.9% Finesse
 60,967 (160.4%) Physical Mastery
@@ -47,11 +65,12 @@ http://oi58.tinypic.com/2806z52.jpg
 14,923 (56.9 / 26.8%)
 13,504 (54.1%) Tactical Mitigation[/INDENT]
 
-Not bad, but I feel as though this build could benefit with more essences. It's good but it has gaps.
+A definite huge improvement from the DPS Veteran build! It's not perfect and there is room for improvement but very nice indeed. This build uses all Helm Hammerhand jewellery and the Dol Amroth 4-slot essence armour. Since the only essences are in your armour that is 24 essences. Overall this is the cheapest raid-ready DPS  build to make in the game. With proper skill rotations there is no reason why this build is not capable of parses between 12-25K DPS so there is no reason for people to say that you are not capable of DPS.
 
-[B]All craftable Anórien essence gear and jewellery:[/B]
-http://oi61.tinypic.com/2s6n59s.jpg
+[B]Crafted Essence DPS:[/B]
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/DPS-Barter.jpg"]screenshot of build[/URL], all Anórien crafted essence jewellery/armour.
 [INDENT]31,852 Morale
+5,437 Power
 24.9 / 10.0 / 35.8% Critical Rating
 24.9% Finesse
 61,709 (162.3%) Physical Mastery
@@ -63,11 +82,12 @@ http://oi61.tinypic.com/2s6n59s.jpg
 15,349 (57.7 / 27.2%)
 14,180 (55.5%) Tactical Mitigation[/INDENT]
 
-This build is so heavy on essences ([I]expensive[/I]) and the issue with this craftable armour is that it has Fate instead of Might making it better suited towards a tanking setup. Also make note that if you skip BB-Hammerhand jewellery altogether than you lose out on the +10% Bleed Damage set bonus.
+This build is very heavy on essencess ([I]expensive[/I]) and the issue with this craftable armour is that it has Fate instead of Might making it better suited towards a tanking setup. Also make note that if you skip BB-Hammerhand jewellery altogether than you lose out on the +10% Bleed Damage set bonus.
 
-[B]Mix of Big Battle jewellery and Minas Tirith barter gear/jewellery:[/B]
-http://oi58.tinypic.com/2dwafc5.jpg
+[B]Barter Essence DPS:[/B]
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/DPS-Barter.jpg"]screenshot of build[/URL], Minas Tirith barter essence armour and jewellery
 [INDENT]31,075 Morale
+5,437 Power
 25.0 / 10.0 / 36.5% Critical Rating
 26.8% Finesse
 61,104 (160.7%) Physical Mastery
@@ -79,12 +99,12 @@ http://oi58.tinypic.com/2dwafc5.jpg
 15,490 (58.0 / 27.3%)
 13,651 (54.4%) Tactical Mitigation[/INDENT]
 
-Fairly solid. Adding some of the Big Battle jewellery back into the mix helped compared to all craftable gear and jewellery. Considering that I would not consider this to be an endgame build it is pretty decent.
+Fairly solid. Adding some of the Big Battle jewellery back into the mix helped compared to all craftable armour and jewellery. Considering that I would not consider this to be an endgame build it is pretty decent. Because the crafted essence gear is more suited towards tanking and since the stats are comparable I would probably opt for the barter essence gear. Maybe actually do barter essence armour and crafted essence jewellery.
 
-[COLOR="#DDA0DD"]Endgame Balanced DPS Guardian.[/COLOR]
-
-http://oi58.tinypic.com/21awf47.jpg
+[B]Endgame DPS:[/B]
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/DPS-Endgame.jpg"]screenshot of build[/URL], 5-slot essence armour and 3-slot crafted jewellery
 [INDENT]27,471 Morale
+5,537 Power
 24.2 / 10.0 / 34.6% Critical Rating
 21.4% Finesse
 70,000 (184.3%) Physical Mastery

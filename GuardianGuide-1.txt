@@ -40,15 +40,14 @@ Without further ado, enjoy reading my guide!
 [*]Tanking
 [LIST=i]
 [*][URL="https://www.lotro.com/forums/showthread.php?579311-Zon-s-Guardian-Guide&p=7459662#post7459662"]Tank[/URL]
-[*][URL="https://www.lotro.com/forums/showthread.php?579311-Zon-s-Guardian-Guide&p=7459663#post7459663"]Avoidance Tank[/URL]
 [*][URL="https://www.lotro.com/forums/showthread.php?579311-Zon-s-Guardian-Guide&p=7459664#post7459664"]Threat Tank[/URL]
 [/LIST]
 [*][URL="https://www.lotro.com/forums/showthread.php?579311-Zon-s-Guardian-Guide&p=7459666#post7459666"]DPS[/URL]
 [*][URL="https://www.lotro.com/forums/showthread.php?579311-Zon-s-Guardian-Guide&p=7459667#post7459667"]PvMP[/URL]
 [*][URL="https://www.lotro.com/forums/showthread.php?579311-Zon-s-Guardian-Guide&p=7459668#post7459668"]Solo Survivalist[/URL]
 [/LIST]
+[*][URL="https://www.lotro.com/forums/showthread.php?579311-Zon-s-Guardian-Guide&p=7459663#post7459663"]Legendary Items[/URL]
 [/LIST]
-
 
 
 [COLOR="#FF8C00"][SIZE=4][B][-= 1. Virtues =-][/B][/SIZE][/COLOR]
@@ -132,7 +131,6 @@ Currently my Guardian Video Guide is made for Update 15. Once I update the video
 [*][URL="https://www.youtube.com/watch?v=X9wUxPRc-NY&list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve&index=9"][B]Chapter 6: End Game Gear and Jewellery[/B][/URL]
 [*][URL="https://www.youtube.com/watch?v=lPxcDVXBqrI&index=10&list=PLZsjwvJyw0T8v8nDvhSv2N3Azvq_Oqvve"][B]Chapter 7: PvMP Gear and Build[/B][/URL]
 [/LIST]
-
 
 
 [COLOR="#FF8C00"][SIZE=4][B][-= 5. Builds =-][/B][/SIZE][/COLOR]

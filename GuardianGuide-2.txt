@@ -14,16 +14,17 @@ I call this The Tank Build simply because this build is one of the most effectiv
 There are two basic criteria for being a tank;
 [LIST=1]
 [*]Stack as much Morale as possible.
-[*]Finesse: 10K (approx 20%)
+[*]Finesse: 10K (approx 20-25%)
 [*]Capped Mitigations: 60%
 [/LIST]
 Optional criteria include;
 [LIST]
-[*]Block 20-25%, Parry 20-25%, Evade 10-20%
-[*]Physical Mitigation 23.8K
-[*]Tactical Mitigation 16.8K
-[*]Critical Defence 50%
+[*]Block 20-25%, Parry 20-25%, Evade 15-20%
+[*]Physical Mitigation 23-24K
+[*]Tactical Mitigation 16-20K
+[*]Critical Defence >= 50%
 [*]Incoming Healing >= 15%
+[*]Partial Mitigations
 [/LIST]
 The optional criteria while valuable is just that, optional in this build though you really should try to achieve these stats as well since they will increase your survivability.
 
@@ -71,10 +72,11 @@ My Legendary Item legacies are tailored to my tanking playstyle which is more of
 [*][I]Regarding Pledge Magnitude, I feel as though this is a bit of a troll legacy, I dunno...[/I]
 [*]1H Weapon { from: 'Bleed Damage', to: 'Sweeping Cut damage or Whirling damage' }
 [/LIST]
-[COLOR="#DDA0DD"]Fresh to level cap you are likely to only have gear and jewellery farmed through instances with quite possibly little or no essences or even gold. Below are some good starter gear and stats for you to aim for as a taunt tank.[/COLOR]
+[COLOR="#DDA0DD"]Fresh to level cap you are likely to only have armour and jewellery farmed through instances with quite possibly little or no essences or even gold. Below are some good starter gear and stats for you to aim for as a taunt tank.[/COLOR]
 
 [B]Tank Recruit:[/B]
-[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Tank-Recruit.jpg"]screenshot of build[/URL], mostly all skirmish camp gear and jewellery, ALL PURPLE!!!
+[I]* You are new to level 100, a fresh recruit. You want to start tanking and the fastest way may well be a stop to the Skirmish Camp.[/I]
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Tank-Recruit.jpg"]screenshot of build[/URL], mostly all skirmish camp armour and jewellery, ALL PURPLE!!!
 [INDENT]29,787 Morale
 7,843 Power
 20.1% Critical Rating
@@ -114,7 +116,7 @@ Overall a very nice improvement. In fact, as long as you don't have to worry abo
 
 [B]Raid-ready Tank:[/B]
 [I]* I salute you brother! You can now call yourself a Raid-ready Tank. This build is capable of taking on any content in the game. Spoiler Alert: there are more crazy builds below![/I]
-[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Tank-Raid-ready.jpg"]screenshot of build[/URL], Dol Amroth 4-slot essence gear and Helm Hammerhand non-essence jewellery
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Tank-Raid-ready.jpg"]screenshot of build[/URL], Dol Amroth 4-slot essence armour and Helm Hammerhand non-essence jewellery
 [INDENT]45,256 Morale
 8,351 Power
 18.2% Critical Rating
@@ -129,39 +131,73 @@ Overall a very nice improvement. In fact, as long as you don't have to worry abo
 23,717 (60/35.6%) Physical Mitigation
 15,275 (57.6%) Tactical Mitigation[/INDENT]
 
-This build uses all Helm Hammerhand jewellery and the Dol Amroth 4-slot essence gear. Since the only essences are in your gear that is 24 essences. Overall this is the cheapest raid-ready tanking build to make in the game. If you have this exact build and somebody says that you're not raid-ready then they're either elitest or don't know what they're talking about.
+This build uses all Helm Hammerhand jewellery and the Dol Amroth 4-slot essence armour. Since the only essences are in your armour that is 24 essences. Overall this is the cheapest raid-ready tanking build to make in the game. If you have this exact build and somebody says that you're not raid-ready then they're either elitist or don't know what they're talking about.
 
-[B]All craftable Anórien essence gear and jewellery:[/B]
-{url}
-[INDENT], Morale
-, Power
-. / . / .% Critical Rating
-.% Finesse
-, (.%) Physical Mastery
-.% Resistance
-.% Critical Defence
-.% Incoming Healing
-. / . / . % Parry
-. / .  / . % Evade
-, (. / .%) Physical Mitigation
-, (.%) Tactical Mitigation[/INDENT]
+When battles come down to a hanging thread, this build can create stories of legend (https://www.youtube.com/watch?v=VHM9CQKAn14), hey I *only* had 13 [I]The Black Blade[/I] debuffs on me! =P
 
-This build is so heavy on essences ([I]expensive[/I]) and the issue with this craftable armour is that it has Fate instead of Might making it better suited towards a tanking setup. Also make note that if you skip BB-Hammerhand jewellery altogether than you lose out on the +10% Bleed Damage set bonus.
+[B]Crafted Essence Tank:[/B]
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Essence-Crafted-Tank.jpg"]screenshot of build[/URL], all Anórien crafted essence jewellery/armour.
+[INDENT]57,578 Morale
+9,216 Power
+18.1 / 6.7 / 24.1% Critical Rating
+9,947 (24.1%) Finesse
+27,425 (74.1%) Physical Mastery
+16.5% Resistance
+62.9% Critical Defence
+17.5% Incoming Healing
+23.4 / 10.6 / 17.5 % Block
+23.6 / 7.1 / 15.0 % Parry
+14.9 / 5.0  / 14.9 % Evade
+24,186 (60.0 / 36.0%) Physical Mitigation
+15,943 (58.8%) Tactical Mitigation[/INDENT]
 
-[B]Mix of Big Battle jewellery and Minas Tirith barter essence gear and jewellery:[/B]
-{url}
-[INDENT], Morale
-, Power
-. / . / .% Critical Rating
-.% Finesse
-, (.%) Physical Mastery
-.% Resistance
-.% Critical Defence
-.% Incoming Healing
-. / . / . % Parry
-. / .  / . % Evade
-, (. / .%) Physical Mitigation
-, (.%) Tactical Mitigation[/INDENT]
+An all essence build; you lose a lot of Vitality, Might and other passive stats that were on your jewellery which causes many of your stats to drop. You have the choice to make up your lost stats with essences, or you can beef up other stats as you see fit. I chose to bump up my Morale at the cost of my Physical Mastery and Resistance. I feel as though overall these stats are still fairly solid. Depending on your playstyle you could juggle 7-12K worth of Morale essences for Physical Mastery essences, this would be your personal preference.
+
+[B]Barter Essence Tank:[/B]
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Barter-Essence-Tank.jpg"]screenshot of build[/URL], Minas Tirith barter essence armour and jewellery
+[INDENT]50,373 Morale
+8,832 Power
+22.4% Critical Rating
+9,947 (20.0%) Finesse
+35,481 (95.4%) Physical Mastery
+15.9% Resistance
+61.9% Critical Defence
+17.5% Incoming Healing
+24.8 / 12.5 / 17.5 % Block
+24.6 / 8.4 / 15.0 % Parry
+14.9 / 5.0  / 14.9 % Evade
+24,341 (60.0 / 36.1%) Physical Mitigation
+15,434 (57.9%) Tactical Mitigation[/INDENT]
+
+Hmmm... interesting, though not surprising. The Minas Tirith Barter Essence armour & jewellery is similar but sacrifices Morale for Physical Mastery. 7K Morale for 8K Physical Mastery. Here's the thing, the crafted essence items have 3 slots instead of 2 and more Morale as a passive. If I had the essences I'd probably choose the crafted essence items over the barter items. This then also sets you up nicely for the endgame 5-slot essence build essence-wise.
+
+[B]Endgame Tank:[/B]
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Endgame-Tank.jpg"]screenshot of build[/URL], 5-slot essence armour and 3-slot crafted jewellery
+[INDENT]54,709 Morale
+7,788 Power
+16.7 / 5.9 / 21.9% Critical Rating
+25.7% Finesse
+26,873 (72.7%) Physical Mastery
+26.1% Resistance
+75.7% Critical Defence
+12.5% Incoming Healing
+24.0 / 11.4 / 37.5 % Block
+24.0 / 7.7 / 55.0 % Parry
+18.2 / 8.0  / 35.0 % Evade
+24,048 (60.0 / 35.5%) Physical Mitigation
+16,144 (59.1%) Tactical Mitigation[/INDENT]
+
+There you have it people, my vision of an endgame tanking Guardian ([I]remember to check out my damage threat tank[/I]). As with any endgame build there will be stats that people don't agree on, so I'll try to defend some of my selections. Also remember that there is still a much better gold essence cloak that I don't have in this build.
+
+In this build;
+[LIST]
+[*]I bumped up my Finesse to 25.7% because I want all of my stuns and fellowship maneuvers to hit successfully every single time.
+[*]I slotted Partial Mitigation relics in my LI's instead of Morale because I felt that I had enough and thought survivability at this point was more important.
+[*]I bumped up my Evasion for two reason, 1) to take less damage and 2) because I'm using partial mitigation relics now.
+[*]I bumped up my Critical Defence a lot. Yes I know you only need 50% to negate critical damage but as an endgame build I wanted to go a step further and negate a large chunk of the devastate damage as well.
+[/LIST]
+
+I did all of this while keeping the Morale inline with the Crafted and Barter Essence Tank builds. This is, in my personal opinion, The Endgame Tank.
 
 [COLOR="#00FF00"][B]:: CLASS TRAIT TREES ::[/B][/COLOR]
 
