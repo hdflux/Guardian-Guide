@@ -6,69 +6,118 @@ Will insert a description as soon as I get time to this week.
 
 [COLOR="#DDA0DD"]Fresh to level cap you are likely to only have gear and jewellery farmed through instances with quite possibly little or no essences or even gold. Below are some good starter gear and stats for you to aim for as a taunt tank.[/COLOR]
 
-[B]As a greenie level cap this build boasts:[/B]
-http://oi61.tinypic.com/dqgaav.jpg
-[I]* Two alternatives to the Ring of Berabhir could be the Greater Valourous Ring of Penetration (from Glinghant challenge and Warg Pengs T2C) or the Band of Fury from PvMP if you have Rank 6.[/I]
-[INDENT]30,132 Morale
-21.6 / 8.9 / 30.1% Critical Rating
-27.4% Finesse
-48,887 (118.6%) Physical Mastery
-23.8% Resistance
-55.7% Critical Defence
-10.0% Incoming Healing
-26.0 / 10.0 / 35.0 % Block
-21.0 / 10.0 / 55.0 % Parry
-12.3 / 4.0  / 32.3 % Evade
-25,954 (60/43.3%) Physical Mitigation ([I]enough to even cover hidden T2 mitigation[/I])
-11,422 (49.4%) Tactical Mitigation ([I]a bit low but not bad considering[/I])[/INDENT]
+[B]Threat Tank Recruit:[/B]
+[I]* You are new to level 100, a fresh recruit. You want to start tanking and the fastest way may well be a stop to the Skirmish Camp.[/I]
+[URL=""]screenshot of build[/URL], mostly all skirmish camp armour and jewellery, ALL PURPLE!!!
+[INDENT] Morale
+ Power
+ /  /  % Critical Rating
+ (%) Finesse
+ (%) Physical Mastery
+% Resistance
+% Critical Defence
+% Incoming Healing
+/  /  % Block
+/  /  % Parry
+/  /  % Evade
+ (/%) Physical Mitigation
+ (%) Tactical Mitigation[/INDENT]
 
-Similar stats to the greenie avoidance taunt tank build. A touch more key offensive stats in trade for a small amount of Morale and Critical Defense.
+
+
+[B]Threat Tank Veteran:[/B]
+[I]* First off congratulations on your promotion to Threat Tank Veteran! Now that your gear is a little bit better let's see how your stats have improved.[/I]
+[URL=""]screenshot of build[/URL], mostly farmed gear from instances such as the great barrows, annuminas and skirmishes
+[INDENT] Morale
+ Power
+ /  /  % Critical Rating
+ (%) Finesse
+ (%) Physical Mastery
+% Resistance
+% Critical Defence
+% Incoming Healing
+/  /  % Block
+/  /  % Parry
+/  /  % Evade
+ (/%) Physical Mitigation
+ (%) Tactical Mitigation[/INDENT]
+
+
 
 [COLOR="#DDA0DD"]As an established level cap Guardian you have been around long enough to be able to barter for essence gear and accumulate a stash of essences and gold. Below are various barter gear and jewellery that anyone can get solo, accompanied by stats.[/COLOR]
 
-[B]Dol Amroth 4-slot essence gear and Helm Hammerhand non-essence jewellery:[/B]
-{url}
-[INDENT], Morale
-. / . / .% Critical Rating
-.% Finesse
-, (.%) Physical Mastery
-.% Resistance
-.% Critical Defence
-.% Incoming Healing
-. / . / . % Parry
-. / .  / . % Evade
-, (. / .%)
-, (.%) Tactical Mitigation[/INDENT]
+[B]Raid-ready Threat Tank:[/B]
+[I]* I salute you brother! You can now call yourself a Raid-ready Threat Tank. This build is capable of taking on any content in the game.[/I]
+[URL=""]screenshot of build[/URL], Dol Amroth 4-slot essence armour and Helm Hammerhand non-essence jewellery
+[INDENT] Morale
+ Power
+ /  /  % Critical Rating
+ (%) Finesse
+ (%) Physical Mastery
+% Resistance
+% Critical Defence
+% Incoming Healing
+/  /  % Block
+/  /  % Parry
+/  /  % Evade
+ (/%) Physical Mitigation
+ (%) Tactical Mitigation[/INDENT]
 
-[B]All craftable Anórien essence gear and jewellery:[/B]
-{url}
-[INDENT], Morale
-. / . / .% Critical Rating
-.% Finesse
-, (.%) Physical Mastery
-.% Resistance
-.% Critical Defence
-.% Incoming Healing
-. / . / . % Parry
-. / .  / . % Evade
-, (. / .%)
-, (.%) Tactical Mitigation[/INDENT]
 
-This build is so heavy on essences ([I]expensive[/I]) and the issue with this craftable armour is that it has Fate instead of Might making it better suited towards a tanking setup. Also make note that if you skip BB-Hammerhand jewellery altogether than you lose out on the +10% Bleed Damage set bonus.
 
-[B]Mix of Big Battle jewellery and Minas Tirith barter essence gear and jewellery:[/B]
-{url}
-[INDENT], Morale
-. / . / .% Critical Rating
-.% Finesse
-, (.%) Physical Mastery
-.% Resistance
-.% Critical Defence
-.% Incoming Healing
-. / . / . % Parry
-. / .  / . % Evade
-, (. / .%)
-, (.%) Tactical Mitigation[/INDENT]
+[B]Crafted Essence Threat Tank:[/B]
+[URL=""]screenshot of build[/URL], all Anórien crafted essence jewellery/armour.
+[INDENT] Morale
+ Power
+ /  /  % Critical Rating
+ (%) Finesse
+ (%) Physical Mastery
+% Resistance
+% Critical Defence
+% Incoming Healing
+/  /  % Block
+/  /  % Parry
+/  /  % Evade
+ (/%) Physical Mitigation
+ (%) Tactical Mitigation[/INDENT]
+
+
+
+[B]Barter Essence Threat Tank:[/B]
+[URL=""]screenshot of build[/URL], Minas Tirith barter essence armour and jewellery
+[INDENT] Morale
+ Power
+ /  /  % Critical Rating
+ (%) Finesse
+ (%) Physical Mastery
+% Resistance
+% Critical Defence
+% Incoming Healing
+/  /  % Block
+/  /  % Parry
+/  /  % Evade
+ (/%) Physical Mitigation
+ (%) Tactical Mitigation[/INDENT]
+
+
+
+[B]Endgame Threat Tank:[/B]
+[URL=""]screenshot of build[/URL], 5-slot essence armour and 3-slot crafted jewellery
+[INDENT] Morale
+ Power
+ /  /  % Critical Rating
+ (%) Finesse
+ (%) Physical Mastery
+% Resistance
+% Critical Defence
+% Incoming Healing
+/  /  % Block
+/  /  % Parry
+/  /  % Evade
+ (/%) Physical Mitigation
+ (%) Tactical Mitigation[/INDENT]
+
+
 
 [COLOR="#00FF00"][B]:: CLASS TRAIT TREES ::[/B][/COLOR]
 
