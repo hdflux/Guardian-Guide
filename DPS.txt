@@ -4,7 +4,7 @@ While our primary role may be that of a tank Guardians also can excel in sustain
 
 For Guardians with low Physical Mastery, probably below 30-40K (?), the bulk of our DPS will come from two skills, [I]Prey on the Weak[/I] and [I]Guardian's Bleed - 10[/I].
 
-For Guardians with mid-high Physical Mastery this changes as our bleeds and skills scale with our mastery rating, often causing your tier 10 guardian bleeds to be by far your top damage dealer followed by Sweeping Cut and Whirling Retaliation. http://oi62.tinypic.com/2epj33l.jpg
+For Guardians with mid-high Physical Mastery this changes as our bleeds and skills scale with our mastery rating, often causing your tier 10 guardian bleeds to be by far your top damage dealer followed by Sweeping Cut and Whirling Retaliation. [URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/EndGame-DPS-SpiderWing.jpg"]Tier 10 Bleeds with high Physical Mastery[/URL].
 
 Will insert a MUCH LARGER description later this week as soon as I get a chance to...
 
@@ -118,7 +118,7 @@ Fairly solid. Adding some of the Big Battle jewellery back into the mix helped c
 
 70K Mastery in a Balanced DPS build that is still survivable like a tank, and if a person wants they can trade some Mastery for Morale.
 
-Solo DPS parse from first big pull in Helegrod Spider Wing; http://oi62.tinypic.com/2epj33l.jpg
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/EndGame-DPS-SpiderWing.jpg"]Solo DPS parse from first big pull in Helegrod Spider Wing.[/URL]
 
 [COLOR="#DDA0DD"]Endgame Glass Cannon DPS Guardian.[/COLOR]
 
