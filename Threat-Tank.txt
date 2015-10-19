@@ -121,8 +121,10 @@ Will insert a description as soon as I get time to this week.
 
 [COLOR="#00FF00"][B]:: CLASS TRAIT TREES ::[/B][/COLOR]
 
-[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3Bj"]Blue Threat Tank w/ Juggernaut[/URL]
+[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3Bs"]Blue Threat Tank[/URL]
+; Juggernaut, Thrill of Battle, Invigorating Parry, War-chant
 
-[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3Bk"]Blue Threat Tank w/ War-chant and Pain[/URL]
+[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3Bt"]Red Threat Tank[/URL]
+; Juggernaut, Thrill of Battle, Sweeping, Invigorating Parry, Radiate, Insult, War-chant
 
 [URL="http://www.lotrottp.lotrostatus.com/l.php?c=3Bm"]Yellow Threat Tank w/ Shield-smash[/URL]
