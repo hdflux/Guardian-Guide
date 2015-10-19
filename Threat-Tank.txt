@@ -17,9 +17,9 @@ Will insert a description as soon as I get time to this week.
 % Resistance
 % Critical Defence
 % Incoming Healing
-/  /  % Block
-/  /  % Parry
-/  /  % Evade
+ /  /  % Block
+ /  /  % Parry
+ /  /  % Evade
  (/%) Physical Mitigation
  (%) Tactical Mitigation[/INDENT]
 
@@ -36,9 +36,9 @@ Will insert a description as soon as I get time to this week.
 % Resistance
 % Critical Defence
 % Incoming Healing
-/  /  % Block
-/  /  % Parry
-/  /  % Evade
+ /  /  % Block
+ /  /  % Parry
+ /  /  % Evade
  (/%) Physical Mitigation
  (%) Tactical Mitigation[/INDENT]
 
@@ -57,9 +57,9 @@ Will insert a description as soon as I get time to this week.
 % Resistance
 % Critical Defence
 % Incoming Healing
-/  /  % Block
-/  /  % Parry
-/  /  % Evade
+ /  /  % Block
+ /  /  % Parry
+ /  /  % Evade
  (/%) Physical Mitigation
  (%) Tactical Mitigation[/INDENT]
 
@@ -75,9 +75,9 @@ Will insert a description as soon as I get time to this week.
 % Resistance
 % Critical Defence
 % Incoming Healing
-/  /  % Block
-/  /  % Parry
-/  /  % Evade
+ /  /  % Block
+ /  /  % Parry
+ /  /  % Evade
  (/%) Physical Mitigation
  (%) Tactical Mitigation[/INDENT]
 
@@ -93,36 +93,36 @@ Will insert a description as soon as I get time to this week.
 % Resistance
 % Critical Defence
 % Incoming Healing
-/  /  % Block
-/  /  % Parry
-/  /  % Evade
+ /  /  % Block
+ /  /  % Parry
+ /  /  % Evade
  (/%) Physical Mitigation
  (%) Tactical Mitigation[/INDENT]
 
 
 
 [B]Endgame Threat Tank:[/B]
-[URL=""]screenshot of build[/URL], 5-slot essence armour and 3-slot crafted jewellery
-[INDENT] Morale
- Power
- /  /  % Critical Rating
- (%) Finesse
- (%) Physical Mastery
-% Resistance
-% Critical Defence
-% Incoming Healing
-/  /  % Block
-/  /  % Parry
-/  /  % Evade
- (/%) Physical Mitigation
- (%) Tactical Mitigation[/INDENT]
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Threat-Tank-Endgame.jpg"]screenshot of build[/URL], 5-slot essence armour and 3-slot crafted jewellery
+[INDENT]45,399 Morale
+7,556 Power
+17.2 / 6.2 / 22.7 % Critical Rating
+11,822 (23%) Finesse
+52,214 (126.9%) Physical Mastery
+14.8% Resistance
+54.9% Critical Defence
+5% Incoming Healing
+24.0 / 11.5 / 37.5 % Block
+23.9 / 7.6  / 55.0 % Parry
+15.7 / 5.5  / 35.0 % Evade
+23,702 (60/34.2%) Physical Mitigation
+15,403 (57.8%) Tactical Mitigation[/INDENT]
 
 
 
 [COLOR="#00FF00"][B]:: CLASS TRAIT TREES ::[/B][/COLOR]
 
-[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3yD"]Blue Damage Threat Tank w/ Juggernaut[/URL]
+[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3Bj"]Blue Threat Tank w/ Juggernaut[/URL]
 
-[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3xv"]Blue Damage Threat Tank w/ War-chant and Pain[/URL]
+[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3Bk"]Blue Threat Tank w/ War-chant and Pain[/URL]
 
-[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3yc"]Yellow Damage Threat Tank / Shield-smash[/URL]
+[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3Bm"]Yellow Threat Tank w/ Shield-smash[/URL]
