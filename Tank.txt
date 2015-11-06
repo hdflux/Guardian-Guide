@@ -9,11 +9,11 @@ Your play style and how well you understand the mechanics, mobs and bosses of ea
 [COLOR="#FF8C00"][B][5. Builds > a. Tanking > i. Tank][/B][/COLOR]
 
 
-I call this The Tank Build simply because this build is one of the most effective and widely used builds among raid-ready tanks ([I]wait for it... somebody will correct me[/I]). This build is the staple bread 'n butter of the Guardian tanking repertoire. At your disposal are a number of forced taunts, taunt skills, melee skills that not only generate large amounts of threat but also stun, but also the ability to debuff the enemy mob so they do less damage. You will be able to absorb large amounts of spike damage and take solace in knowing that you are building towards the gold standard of raid-ready tanking.
+I call this The Tank Build simply because this build is one of the most effective and widely used builds among raid-ready tanks ([I]wait for it... somebody will correct me[/I]). This build is the staple bread 'n butter of the Guardian tanking repertoire. At your disposal are a number of forced taunts, taunt skills, melee skills that not only generate large amounts of threat but also stun and can debuff the enemy mob so they do less damage. You will be able to absorb large amounts of spike damage and take solace in knowing that you are building towards the gold standard of raid-ready tanking.
 
-There are two basic criteria for being a tank;
+The basic criteria for being a tank;
 [LIST=1]
-[*]Stack as much Morale as possible.
+[*]Lots of Morale
 [*]Finesse: 10K (approx 20-25%)
 [*]Capped Mitigations: 60%
 [/LIST]
@@ -28,6 +28,13 @@ Optional criteria include;
 [/LIST]
 The optional criteria while valuable is just that, optional in this build though you really should try to achieve these stats as well since they will increase your survivability.
 
+[COLOR="#00FF00"][B]:: TANKING STRATEGIES ::[/B][/COLOR]
+
+[B]Positional Tanking:[/B]
+[INDENT]One of the fundamental aspects of tanking is reducing incoming damage by maximizing the amount of blocks, parries and evades that you receive. If your back is facing the enemy then you cannot block or parry, you can only evade. Now I'm not sure to what extent this classifies; for instance if you have a large mob are you able to block and parry monsters to the side or ones that are even just slightly behind but still to the side of you? There is no excuse for not practising positional tanking other than you are being lazy so square your front to the mob and love those block, parry and evade responses.[/INDENT]
+
+[B]Threat:[/B]
+[INDENT]Threat is different from Aggro. If Aggro is [/INDENT]
 You have many skills at your disposal to grab, generate and maintain aggro (threat). Every time you generate threat you will see a red swirly arrow icon over the enemy's head, the larger the icon the more threat you generated. While having Physical Mastery is helpful in generating additional threat, as long as you have enough Finesse ([I]which helps you to bypass an enemy's Block, Parry and Evade chances[/I]) then your attacks will successfully hit your targets and should still generate plenty of damage threat.
 
 You probably won't be able to maintain aggro with your melee skills alone if your Physical Mastery is low against well-geared DPS classes. To counter this you will want to try to save your big AoE forced taunt, Challenge, until after the DPS classes have unleashed some of their big AoE attacks. Your priority is to protect the healer so if you need to use Challenge earlier than do so. Along with Challenge you also have Fray the Edge which is a ranged forced taunt and Engage which is a melee forced taunt.
