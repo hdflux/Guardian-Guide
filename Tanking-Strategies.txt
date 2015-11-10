@@ -10,31 +10,31 @@ Your play style and how well you understand the mechanics, mobs and bosses of ea
 
 
 [B]Positional Tanking:[/B]
-[INDENT]One of the fundamental aspects of tanking is reducing incoming damage by maximizing the amount of blocks, parries and evades that you receive. If your back is facing the enemy then you cannot block or parry, you can only evade. Now I'm not sure to what extent this classifies; for instance if you have a large mob are you able to block and parry monsters to the side or ones that are even just slightly behind but still to the side of you? There is no excuse for not practising positional tanking other than you are being lazy so square your front to the mob and love those block, parry and evade responses.[/INDENT]
+[INDENT]One of the fundamental aspects of tanking is reducing the amount of incoming damage taken by maximizing the amount of blocks, parries and evades that you receive. If your back is facing the enemy then you cannot block or parry, you can only evade. Now I'm not sure to what extent this classifies; for instance if you have a large mob are you able to block and parry monsters to the side or ones that are even just slightly behind but still to the side of you? The answer is a bit grey, not black and white. Regardless, there is no excuse for not practising positional tanking other than you are being lazy so square your front to the mob and love those block, parry and evade responses.[/INDENT]
 
 [B]Threat and Aggro:[/B]
-[INDENT]There are various ways to [B]generate threat[/B] and [B]grab aggro[/B]. When you generate threat on a target you will see a red swirly icon appear above their head. The more threat you generate the more pronounced the icon will be. You can generate threat on a target even though it may be aggroed on someone else. All shield skills will generate additional threat along with any threat generated through damage. One way to visually see this is to compare Shield-taunt with Shield-smash as threat generated through Shield-smash, especially when it crits or devs, should have a much more vivid red swirly threat icon over the target's head.
+[INDENT]There are various ways to [B]generate threat[/B] and [B]grab aggro[/B]. When you generate threat on a target you will see a red swirly icon appear above their head. The more threat you generate the more pronounced or vivid the icon will be. You can generate threat on a target even though it may be aggroed on someone else. All shield skills will generate additional threat along with any threat generated through damage. One way to visually see this is to compare Shield-taunt with Shield-smash as threat generated through Shield-smash, especially when it crits or devs, should have a much more vivid red swirly threat icon over the target's head.
 
-Positional Tanking also plays an important role in your ability to generate threat. We only have 2 skills for generating threat 360° around us, Whirling Retaliation and Shield-taunt. Our other AoE skills only generate threat in a frontal arc. Of our AoE skills only Shield-smash requires you to have a target selected, so it is possible when using your other AoE skills that you could completely miss hitting targets; either you are not frontally facing them or you're standing too far away from them. So we have 2 things learned; face your front to the mob and stand close enough to all targets within the mob so that your AoE skills are most effective.[/INDENT]
+Positional Tanking also plays an important role in your ability to generate threat. We only have 2 skills for generating threat 360° around us, Whirling Retaliation and Shield-taunt. Our other AoE skills only generate threat in a frontal arc. Of our AoE skills only Shield-smash requires you to have a target selected, so it is possible when using your other AoE skills that you could completely miss hitting targets; either you are not frontally facing them or you're standing too far away from them. As a general rule of thumb if you are not able to use Shield-smash then it is possible that your other AoE skills such as Sweeping Cut, Whirling Retaliation and Vexing Blow may not be hitting all of their intended targets. So we have 2 things learned; face your front to the mob and stand close enough to all targets within the mob so that your AoE skills are most effective.[/INDENT]
 
 [B]Finesse and Forced Taunts:[/B]
 [INDENT]Finesse allows you to bypass an enemy's Block, Parry or Evade. Any melee skills that generate threat or grab aggro ([I]Engage[/I]) can be blocked, parried or evaded if your Finesse is not high enough. Tanks with low or no Finesse tend to rely on pole-vaulting their aggro lead through forced taunts; a forced taunt ([I]Engage, Fray the Edge, Challenge[/I]) will give you 100% of the aggro plus a 20% lead in aggro threat.
 
-The longer a fight goes on the larger the +20% aggro threat lead will become, so when using forced taunts you generally want to rely first on damage threat skills and then use your forced taunt, or wait until DPS classes use their big damage skills or until after Oathies has been used. Using a forced taunt too early means that your +20% aggro threat lead could evaporate very quickly.
+The longer a fight goes on the larger the +20% aggro threat lead will become. So when using forced taunts you generally want to rely first on damage threat skills and then use your forced taunt, or wait until DPS classes use their big damage skills or until after Oathbreakers has been used. Using a forced taunt too early means that your +20% aggro threat lead could evaporate very quickly since it will not be as large.
 
-If your Finesse is good then I prefer to use Engage for single-target, Fray for ranged or peelers and Challenge as my mob aggro skill. If your Finesse is low then you may have to rely on Fray instead of Engage for single-target aggro.
+If your Finesse is good then I prefer to use Engage for single-target, Fray the Edge for ranged or on targets that peel away and Challenge as my mob aggro skill. If your Finesse is low then you may have to rely on Fray instead of Engage for single-target aggro.
 
-The downside to relying on forced taunts is that number one you are relying on cooldowns, and number two you are less capable of dealing with peelers. For this reason I personally recommend having at least 20% Finesse and even as much as 25% Finesse so that all of your threat generating skills can be used effectively and reliably. This is most noticeable when using Smashing Stab to trigger a fellowship manoeuvre since you are paying attention and will notice a BPE.
+The downside to relying on forced taunts is that number one you are relying on cooldowns, and number two you are less capable of dealing with peelers. For this reason I personally recommend having at least 20% Finesse and even as much as 25% Finesse so that all of your melee skills can be used reliably. This is easy to notice when using Smashing Stab to trigger a fellowship manoeuvre since you are paying attention and will notice a BPE and the despair that follows when you could have really used that fellowship manoeuvre.
 
-Skills not dependant on Finesse are; Shield-taunt, War-chant, Fray the Edge and Challenge.[/INDENT]
+Skills not dependant on Finesse are; Shield-taunt, War-chant, Fray the Edge and Challenge. Some components such as damage or bleeds applied can still be resisted, but the taunt component cannot be resisted.[/INDENT]
 
 [B]Crowd Control:[/B]
-[INDENT]Bash and Shield-smash and excellent shield skills to use not only for damage and threat but also as a source of crowd-control through stuns. These stuns will also give you an opportunity to apply your Stagger debuff by quickly running behind the enemy for positional stagger. When you combine your stuns, Stagger and War-chant debuffs you should notice that you are taking less damage.[/INDENT]
+[INDENT]Bash and Shield-smash and excellent shield skills to use not only for damage and threat but also as a source of crowd-control through stuns and interrupts. These stuns will also give you an opportunity to apply your Stagger debuff by quickly running behind the enemy for positional 100% stagger debuff. When you combine your stuns, Stagger and War-chant debuffs you should notice that you are taking less damage. If you are trying to apply your Stagger debuff positionally be careful that you do not turn your back to any mobs still active since you will not be able to block or parry their attacks, sometimes it is smarter or safer to simply focus on your positional tanking.[/INDENT]
 
-[B]Juggernaut vs. Bring on the Pain:[/B]
+[B]Juggernaut versus Bring on the Pain:[/B]
 [INDENT][I]Juggernaut[/I] is accessible while only in the Blue trait tree, while [I]Bring on the Pain[/I] is accessible while being in either the Blue or Yellow trait trees; note that you will not have enough class trait points to have both at the same time.
 
-Juggernaut increases your Block change to 100%, essentially making you invincible except from tactical damage and non-avoidable skills such as some special frontal AoE attacks. Additionally each Block will proc a block heal so it will both heal you as well as generate heal threat while the skill is active.
+Juggernaut increases your Block chance to 100%, essentially making you invincible except from tactical damage and non-avoidable skills such as some special frontal AoE attacks. Additionally each Block will proc a block heal so it will both heal you as well as generate heal threat while the skill is active.
 
 Bring on the Pain works by healing you a small amount every time you take any damage. Pain can be triggered more often than Juggernaut to as low as a 30 second cooldown, but since Pain relies on you taking damage it is better suited towards trash mobs that hit you for little damage. If you are often getting hit for say over 3K damage then you may end up still taking more damage then you will heal for. So while Pain can be very useful it is also situational, where Juggernaut is still considered the superior emergency skill.[/INDENT]
 
@@ -48,9 +48,15 @@ Bring on the Pain works by healing you a small amount every time you take any da
 [/LIST]
 If you're planning on rounding up mobs then you will be relying more on Sweeping, War-chant and Shield-taunt and you have everything grouped together.
 
-Try to save Challenge until your 3rd or 4th rotation, but if you don't have aggro by your 2nd rotation you may be forced to use it.[/INDENT]
+Try to save Challenge until your 3rd or 4th rotation, but if you don't have aggro by your 2nd rotation you may be forced to use it.
+
+If all that you are doing is running into a single mob then you could even swap quickly into the Red trait tree, active Brutal Charge, swap back into the Blue or Yellow trait tree and then when you run into the mob and do a Sweeping Cut you will stun the mob.
+
+If however you are rounding up multiple mobs it is better to tag enemies as you run around to avoid them peeling off towards the healers and Captains in the group.[/INDENT]
 
 [B]Slows and Debuffs:[/B]
-[INDENT]If you are in Yellow and have marked and fully debuffed your target then you can spread your marked  target's debuffs to the 5 closest targets surrounding it by using Cataclysmic Shout. Redirect is an excellent way to mitigate damage along with generating a small amount of threat.
+[INDENT]If you are in Yellow and have marked and fully debuffed your target then you can spread your marked  target's debuffs to the 5 closest targets surrounding it by using Cataclysmic Shout.
 
-Yellow Tanks can slow bosses such as the troll boss Dagron in Sunken Labyrinth. Our slow is incredibly potent and will allow your party members to out-run Dagron's otherwise extremely fast Charge.[/INDENT]
+Redirect is an excellent way to mitigate damage along with generating a small amount of threat since the redirected damage will count as damage threat.
+
+Yellow Tanks can slow bosses, such as the troll boss Dagron in Sunken Labyrinth, to the point where fellowship members can safely run away from them when necessary. All Yellow tank debuffs are also more potent.[/INDENT]
