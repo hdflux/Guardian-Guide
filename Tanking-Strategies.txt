@@ -29,14 +29,29 @@ The downside to relying on forced taunts is that number one you are relying on c
 Skills not dependant on Finesse are; Shield-taunt, War-chant, Fray the Edge and Challenge. Some components such as damage or bleeds applied can still be resisted, but the taunt component cannot be resisted.[/INDENT]
 
 [B]Crowd Control:[/B]
-[INDENT]Bash and Shield-smash and excellent shield skills to use not only for damage and threat but also as a source of crowd-control through stuns and interrupts. These stuns will also give you an opportunity to apply your Stagger debuff by quickly running behind the enemy for positional 100% stagger debuff. When you combine your stuns, Stagger and War-chant debuffs you should notice that you are taking less damage. If you are trying to apply your Stagger debuff positionally be careful that you do not turn your back to any mobs still active since you will not be able to block or parry their attacks, sometimes it is smarter or safer to simply focus on your positional tanking.[/INDENT]
+[INDENT]Bash and Shield-smash and excellent shield skills to use not only for damage and threat but also as a source of crowd-control through stuns and interrupts. These stuns will also give you an opportunity to apply your Stagger debuff by quickly running behind the enemy for positional 100% stagger debuff. When you combine your stuns, Stagger and War-chant debuffs you should notice that you are taking less damage. If you are trying to apply your Stagger debuff positionally be careful that you do not turn your back to any mobs still active since you will not be able to block or parry their attacks, sometimes it is smarter or safer to simply focus on your positional tanking.
+
+Sources of crowd control include;
+[LIST]
+[*]Smashing Stab - fellowship manoeuvre stun
+[*]Bash - interrupt and stun
+[*]Shield-smash - interrupt and AoE stun
+[*]Stomp - interrupt
+[*]Cataclysmic Shout - AoE stun
+[*]Turn the Tables - interrupt and fellowship manoeuvre stun
+[LIST]
+[*]*Note that when you Turn the Tables you can selectively choose which target you want to apply the FM stun on.
+[/LIST]
+[/LIST][/INDENT]
 
 [B]Juggernaut versus Bring on the Pain:[/B]
 [INDENT][I]Juggernaut[/I] is accessible while only in the Blue trait tree, while [I]Bring on the Pain[/I] is accessible while being in either the Blue or Yellow trait trees; note that you will not have enough class trait points to have both at the same time.
 
 Juggernaut increases your Block chance to 100%, essentially making you invincible except from tactical damage and non-avoidable skills such as some special frontal AoE attacks. Additionally each Block will proc a block heal so it will both heal you as well as generate heal threat while the skill is active.
 
-Bring on the Pain works by healing you a small amount every time you take any damage. Pain can be triggered more often than Juggernaut to as low as a 30 second cooldown, but since Pain relies on you taking damage it is better suited towards trash mobs that hit you for little damage. If you are often getting hit for say over 3K damage then you may end up still taking more damage then you will heal for. So while Pain can be very useful it is also situational, where Juggernaut is still considered the superior emergency skill.[/INDENT]
+Bring on the Pain works by healing you a small amount every time you take any damage. Pain can be triggered more often than Juggernaut to as low as a 30 second cooldown, but since Pain relies on you taking damage it is better suited towards trash mobs that hit you for little damage. If you are often getting hit for say over 3K damage then you may end up still taking more damage then you will heal for. So while Pain can be very useful it is also situational, where Juggernaut is still considered the superior emergency skill.
+
+Speaking of Blocks, Parries, Evades and Stuns... don't use Juggernaut followed by an AoE stun such as Shield-smash because you just removed all sources of incoming blocks for a few seconds. Without any active mobs Juggernaut cannot provide blocks to heal you.[/INDENT]
 
 [B]Attack Rotations:[/B]
 [INDENT]Every Guardian eventually develops an attack rotation to tag enemies with when starting a battle.
@@ -52,7 +67,9 @@ Try to save Challenge until your 3rd or 4th rotation, but if you don't have aggr
 
 If all that you are doing is running into a single mob then you could even swap quickly into the Red trait tree, active Brutal Charge, swap back into the Blue or Yellow trait tree and then when you run into the mob and do a Sweeping Cut you will stun the mob.
 
-If however you are rounding up multiple mobs it is better to tag enemies as you run around to avoid them peeling off towards the healers and Captains in the group.[/INDENT]
+If however you are rounding up multiple mobs it is better to tag enemies as you run around to avoid them peeling off towards the healers and Captains in the group.
+
+When traited for Relentless Assault Sting is a great cheap and fast skill to use that has a chance to open up your Block and Parry responses. If you are not having Power issues then consider investing points into Relentless Assault instead of Tireless Defender.[/INDENT]
 
 [B]Slows and Debuffs:[/B]
 [INDENT]If you are in Yellow and have marked and fully debuffed your target then you can spread your marked  target's debuffs to the 5 closest targets surrounding it by using Cataclysmic Shout.
@@ -60,3 +77,30 @@ If however you are rounding up multiple mobs it is better to tag enemies as you 
 Redirect is an excellent way to mitigate damage along with generating a small amount of threat since the redirected damage will count as damage threat.
 
 Yellow Tanks can slow bosses, such as the troll boss Dagron in Sunken Labyrinth, to the point where fellowship members can safely run away from them when necessary. All Yellow tank debuffs are also more potent.[/INDENT]
+
+[B]Shield-wall:[/B]
+[INDENT]Shield-wall is one of the most overpowered skills in the game, but it also comes with its own dangers. Through its use you can protect an ally from any damage, however that ally will not be able to block, parry or evade meaning that they will be taking more damage than usual, which then gets absorbed by you. This can work great since all that the healer has to do is keep you alive but here-in lies the danger.. if the mob is aggro'd on your ally instead of you then not only can the ally not BPE but they are likely a Light or Medium armour class which means they will not mitigate as much damage as you would, thus meaning you will not only be taking damage more often but also more of it. Even with fulltime healing sometimes the incoming absorbed damaged is too much to heal through. You can get around this by continually trying to grab aggro off of your ally. One last danger is that if you are stunned then your Shield-wall will turn off and you will need to wait for the cooldown before putting it back on your ally.[/INDENT]
+
+[B]Power Conservation:[/B]
+[INDENT]If you have low Fate such that perhaps you have little or no Fate tomes applied then it is possible that you may run into Power issues while tanking. Without increasing your Fate there are ways to help conserve your Power.
+
+Avoid using the following power hungry skills unless either necessary or you have lots of Power;
+[LIST]
+[*]Sweeping Cut — this is still a great skill to use but avoid when low on Power
+[*]Ignore the Pain — rule of thumb is pot first then Pain, or use Pain if removing multiple effects
+[*]Force Opening — low priority, really all that you're getting is Whirling Retaliation, better to wait in my opinion for a parry response
+[*]Shield-blow — ideally you should already be receiving plenty of block responses but it is important to keep your block chain open so use as needed
+[/LIST]
+
+Earlier I mentioned that when traited for Relentless Assault that Sting can be used to open up your block and parry chains. If you are traited this way then this is an excellent and cheap method for opening up both of your chains.
+
+Use Power Pots and Thrill of Danger early and often. YOLO, you only live once, don't be stingy cheap, use what you got.
+
+Equip the Guardian Class Essence of the Elusive Defender. On any block, parry or evade there is a 10% chance to restore 10% of your Power. Yes, you have to waste an essence slot but just one essence slot could solve all of your Power issues for good. It is definitely worth a look.[/INDENT]
+
+[B]I keep losing aggro, HELP!:[/B]
+[INDENT]Once upon a time I would've said let the over-zealous DPS'r die but now there is seldom any reason for a DPS'r to hold back past letting you initially establish aggro at the beginning of a fight.
+
+Who is the Target Assist? If the DPS'r is the TA then try to go off their target as much as possible and save your forced taunts (engage, fray, challenge) for their target(s). If you are the TA then ask the DPS'r to attack off of your target. If possible save Challenge as your last forced taunt.
+
+Honestly, Forced Taunts are the solution here. Eventually you will acquire a large enough +20% aggro threat lead that the DPS'r should not be able to pull targets off of you.[/INDENT]

@@ -20,14 +20,6 @@ Optional criteria include;
 [/LIST]
 The optional criteria while valuable is just that, optional in this build though you really should try to achieve these stats as well since they will increase your survivability.
 
-Sting is a great cheap and fast skill to use that has a chance to open up your Block and Parry responses.
-
-When you are tanking you always want to try and make sure that your front is facing the mob so that you get the most Blocks, Parries and Evades. Otherwise you can only Evade and that will decrease your survivability.
-
-Early on in the battle, after an AoE Shield-smash stun, try to get behind one of the stunned enemies and hit them with Stagger following by a quick War-chant and then a Sweeping Cut. This will apply debuffs to the enemies and as a result you will end up taking less damage. Stagger applies +15% attack duration and War-chant applies -5% outgoing damage. Radiate and Insult to Injury will allow your AoE damaging attacks to spread your debuffs throughout the mob and refresh them.
-
-Speaking of Blocks, Parries, Evades and Stuns... don't use Juggernaut followed by an AoE stun such Shield-smash because you just removed all sources of incoming blocks for a few seconds. Without Blocks then Juggernaut cannot heal you.
-
 [COLOR="#00FF00"][B]:: GEAR AND STATS ::[/B][/COLOR]
 
 My Legendary Item legacies are tailored to my tanking playstyle which is more of an avoidance / threat tank. Below are some alternate legacy choices;
