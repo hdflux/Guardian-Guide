@@ -1,5 +1,4 @@
 [CENTER][U][B][SIZE=5]Zon’s Guardian Guide[/SIZE][/B][/U]
-[SIZE=3][I]Written for Update 17[/I][/SIZE]
 
 [B]Authors:[/B]
 Zonflux
@@ -7,9 +6,6 @@ Zonflux
 
 [B]Credits:[/B]
 Arathaert, mattspencer, dwarfThar[/CENTER]
-
-
-* Note: The guide is still a work-in-progress as I continue to write it up, it is not finished and still requires a lot of work.[/I][/COLOR]
 
 
 Welcome to my Guardian Guide! While primarily written for level capped Guardians there are still strategical components and class trait builds that will still be useful as you level; for levelling and everything else Guardian related I recommend reading [URL="https://www.lotro.com/forums/showthread.php?557663-Arathaert-s-Guardian-Guide"]Arathaert's[/URL] and [URL="https://www.lotro.com/forums/showthread.php?557822-Dadi-s-Guide-to-Blue-Line-Tanking-(post-U14"]Dadi's[/URL] Guardian guides.
@@ -100,10 +96,10 @@ This strategy has worked out the best for me when it comes to planning out my es
 
 
 [LIST]
-[*][URL="http://www.lotrottp.lotrostatus.com/l.php?c=2P4"]28 Points[/URL] ~ Morale+Power on Crit, ST Skills, Pledge
-[*][URL="http://www.lotrottp.lotrostatus.com/l.php?c=2P3"]43 Points[/URL] ~ Prey on the Weak
-[*][URL="http://www.lotrottp.lotrostatus.com/l.php?c=2P6"]59 Points[/URL] ~ Cap spread and refresh of bleeds, Warchant
-[*][URL="http://www.lotrottp.lotrostatus.com/l.php?c=2P7"]67 Points[/URL] ~ Honourable Combat, buffed Ignore the Pain, Thrill of Danger
+[*][URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Red-28pt.jpg"]28 Points[/URL] ~ Morale+Power on Crit, ST Skills, Pledge
+[*][URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Red-43pt.jpg"]43 Points[/URL] ~ Prey on the Weak
+[*][URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Red-59pt.jpg"]59 Points[/URL] ~ Cap spread and refresh of bleeds, Warchant
+[*][URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Red-67pt.jpg"]67 Points[/URL] ~ Honourable Combat, buffed Ignore the Pain, Thrill of Danger
 [/LIST]
 
 
@@ -139,7 +135,7 @@ Currently my Guardian Video Guide is made for Update 15. Once I update the video
 
 Everything you need to know about each build including target stats, gear, jewellery, legendary items and class trait tree builds.
 
-[COLOR="#DDA0DD"][I]* Note that I built large portions of this guide with R20 stat tomes on Bullroarer, whereas LIVE currently only goes up to R15. This mostly affects Morale, by about a 1000 I believe. I'll try to update the builds to instead reflect R15 stat tomes.
+[COLOR="#DDA0DD"][I]* Note that I built large portions of this guide with R20 stat tomes on Bullroarer, whereas LIVE only goes up to R14. This mostly affects Morale (1200) and Physical Mastery (1920). I'll try to update the builds to instead reflect R14 stat tomes.
 * To further on the use of stat tomes.. it's nigh impossible to build a guide that accounts for different levels of stat tomes, as such I have opted for max stat tomes. Grind is part of the game.[/I][/COLOR]
 
 Ultimately treat the following builds as guides for you to reference and create your own hybrid build personally catered to your own Guardian.
