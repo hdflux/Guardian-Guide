@@ -1,113 +1,16 @@
 [COLOR="#FF8C00"][B][5. Builds > a. Tanking > iii. Threat Tank][/B][/COLOR]
 
-I wanted to create the Threat Tank with a similar kind of beefiness as The Tank build while being able to contribute a respectable amount of DPS for the group. The Threat Tank build may also be easier for Guardian's to build for if they already have a good DPS build without having to invest in a bunch of expensive Morale essences.
+I wanted to create the Threat Tank with a similar kind of beefiness as The Tank build while being able to contribute a respectable amount of DPS for the group. The Threat Tank build may also be easier for Guardian's to build for if they already have a good DPS build without having to invest in a bunch of expensive Morale essences. An endgame Guardian DPS will have around 60K or more Physical Mastery so this is mostly trading Physical Mastery for Morale so that you can still absorb damage.
 
 [COLOR="#00FF00"][B]:: GEAR AND STATS ::[/B][/COLOR]
 
-[COLOR="#DDA0DD"]Fresh to level cap you are likely to only have gear and jewellery farmed through instances with quite possibly little or no essences or even gold. Below are some good starter gear and stats for you to aim for as a taunt tank.[/COLOR]
-
-[B]Threat Tank Recruit:[/B]
-[I]* You are new to level 100, a fresh recruit. You want to start tanking and the fastest way may well be a stop to the Skirmish Camp.[/I]
-[URL=""]screenshot of build[/URL], mostly all skirmish camp armour and jewellery, ALL PURPLE!!!
-[INDENT] Morale
- Power
- /  /  % Critical Rating
- (%) Finesse
- (%) Physical Mastery
-% Resistance
-% Critical Defence
-% Incoming Healing
- /  /  % Block
- /  /  % Parry
- /  /  % Evade
- (/%) Physical Mitigation
- (%) Tactical Mitigation[/INDENT]
-
-
-
-[B]Threat Tank Veteran:[/B]
-[I]* First off congratulations on your promotion to Threat Tank Veteran! Now that your gear is a little bit better let's see how your stats have improved.[/I]
-[URL=""]screenshot of build[/URL], mostly farmed gear from instances such as the great barrows, annuminas and skirmishes
-[INDENT] Morale
- Power
- /  /  % Critical Rating
- (%) Finesse
- (%) Physical Mastery
-% Resistance
-% Critical Defence
-% Incoming Healing
- /  /  % Block
- /  /  % Parry
- /  /  % Evade
- (/%) Physical Mitigation
- (%) Tactical Mitigation[/INDENT]
-
-
-
-[COLOR="#DDA0DD"]As an established level cap Guardian you have been around long enough to be able to barter for essence gear and accumulate a stash of essences and gold. Below are various barter gear and jewellery that anyone can get solo, accompanied by stats.[/COLOR]
-
-[B]Raid-ready Threat Tank:[/B]
-[I]* I salute you brother! You can now call yourself a Raid-ready Threat Tank. This build is capable of taking on any content in the game.[/I]
-[URL=""]screenshot of build[/URL], Dol Amroth 4-slot essence armour and Helm Hammerhand non-essence jewellery
-[INDENT] Morale
- Power
- /  /  % Critical Rating
- (%) Finesse
- (%) Physical Mastery
-% Resistance
-% Critical Defence
-% Incoming Healing
- /  /  % Block
- /  /  % Parry
- /  /  % Evade
- (/%) Physical Mitigation
- (%) Tactical Mitigation[/INDENT]
-
-
-
-[B]Crafted Essence Threat Tank:[/B]
-[URL=""]screenshot of build[/URL], all Anórien crafted essence jewellery/armour.
-[INDENT] Morale
- Power
- /  /  % Critical Rating
- (%) Finesse
- (%) Physical Mastery
-% Resistance
-% Critical Defence
-% Incoming Healing
- /  /  % Block
- /  /  % Parry
- /  /  % Evade
- (/%) Physical Mitigation
- (%) Tactical Mitigation[/INDENT]
-
-
-
-[B]Barter Essence Threat Tank:[/B]
-[URL=""]screenshot of build[/URL], Minas Tirith barter essence armour and jewellery
-[INDENT] Morale
- Power
- /  /  % Critical Rating
- (%) Finesse
- (%) Physical Mastery
-% Resistance
-% Critical Defence
-% Incoming Healing
- /  /  % Block
- /  /  % Parry
- /  /  % Evade
- (/%) Physical Mitigation
- (%) Tactical Mitigation[/INDENT]
-
-
-
 [B]Endgame Threat Tank:[/B]
 [URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Threat-Tank-Endgame.jpg"]screenshot of build[/URL], 5-slot essence armour and 3-slot crafted jewellery
-[INDENT]45,399 Morale
+[INDENT]44,199 Morale
 7,556 Power
 17.2 / 6.2 / 22.7 % Critical Rating
 11,822 (23%) Finesse
-52,214 (126.9%) Physical Mastery
+50,294 (%) Physical Mastery
 14.8% Resistance
 54.9% Critical Defence
 5% Incoming Healing
@@ -121,10 +24,10 @@ I wanted to create the Threat Tank with a similar kind of beefiness as The Tank 
 
 [COLOR="#00FF00"][B]:: CLASS TRAIT TREES ::[/B][/COLOR]
 
-[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3Bs"]Blue Threat Tank[/URL]
-; Juggernaut, Shield-smash, Thrill of Battle, Invigorating Parry, War-chant
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Blue-Tank-Threat.jpg"]Blue Threat Tank[/URL]
+; Pledge, Juggernaut, AoE Shield-smash, Thrill of Battle, Invigorating Parry, War-chant
 
-[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3GJ"]Red Threat Tank[/URL]
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Red-Tank-Threat.jpg"]Red Threat Tank[/URL]
 ; Shield-smash, Thrill of Battle, Sweeping, Invigorating Parry, Radiate, Insult, War-chant
 
-[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3GK"]Yellow Threat Tank w/ Shield-smash[/URL]
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Yellow-Tank.jpg"]Yellow Threat Tank w/ Shield-smash[/URL]
