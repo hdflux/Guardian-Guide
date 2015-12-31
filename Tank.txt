@@ -34,11 +34,11 @@ My Legendary Item legacies are tailored to my tanking playstyle which is more of
 [B]Tank Recruit:[/B]
 [I]* You are new to level 100, a fresh recruit. You want to start tanking and the fastest way may well be a stop to the Skirmish Camp.[/I]
 [URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Tank-Recruit.jpg"]screenshot of build[/URL], mostly all skirmish camp armour and jewellery, ALL PURPLE!!!
-[INDENT]29,787 Morale
+[INDENT]28,587 Morale
 7,843 Power
 20.1% Critical Rating
 15,386 (27.9%) Finesse
-40,769 (106.4%) Physical Mastery
+38,849 (%) Physical Mastery
 22.3% Resistance
 48.7% Critical Defence
 12.5% Incoming Healing
@@ -53,11 +53,11 @@ Pretty nice stats for a Guardian looking to prove themselves.
 [B]Tank Veteran:[/B]
 [I]* First off congratulations on your promotion to Tank Veteran! Now that your gear is a little bit better let's see how your stats have improved.[/I]
 [URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Tank-Veteran.jpg"]screenshot of build[/URL], mostly farmed gear from instances such as the great barrows, annuminas and skirmishes
-[INDENT]32,622 Morale
+[INDENT]31,422 Morale
 7,088 Power
 19.1% Critical Rating
 10,777 (21.4)% Finesse
-44,531 (112.6%) Physical Mastery
+42,611 (%) Physical Mastery
 24.4% Resistance
 63.6% Critical Defence
 12.5% Incoming Healing
@@ -74,11 +74,11 @@ Overall a very nice improvement. In fact, as long as you don't have to worry abo
 [B]Raid-ready Tank:[/B]
 [I]* I salute you brother! You can now call yourself a Raid-ready Tank. This build is capable of taking on any content in the game. Spoiler Alert: there are more crazy builds below![/I]
 [URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Tank-Raid-ready.jpg"]screenshot of build[/URL], Dol Amroth 4-slot essence armour and Helm Hammerhand non-essence jewellery
-[INDENT]45,256 Morale
+[INDENT]44,056 Morale
 8,351 Power
 18.2% Critical Rating
 10,416 (20.8%) Finesse
-40,551 (106.0%) Physical Mastery
+38,631 (%) Physical Mastery
 22.1% Resistance
 63.6% Critical Defence
 21.4% Incoming Healing
@@ -94,11 +94,11 @@ When battles come down to a hanging thread, this build can create stories of leg
 
 [B]Crafted Essence Tank:[/B]
 [URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Essence-Crafted-Tank.jpg"]screenshot of build[/URL], all Anórien crafted essence jewellery/armour.
-[INDENT]57,578 Morale
+[INDENT]56,378 Morale
 9,216 Power
 18.1 / 6.7 / 24.1% Critical Rating
 9,947 (24.1%) Finesse
-27,425 (74.1%) Physical Mastery
+25,505 (%) Physical Mastery
 16.5% Resistance
 62.9% Critical Defence
 17.5% Incoming Healing
@@ -112,11 +112,11 @@ An all essence build; you lose a lot of Vitality, Might and other passive stats 
 
 [B]Barter Essence Tank:[/B]
 [URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Barter-Essence-Tank.jpg"]screenshot of build[/URL], Minas Tirith barter essence armour and jewellery
-[INDENT]50,373 Morale
+[INDENT]49,173 Morale
 8,832 Power
 22.4% Critical Rating
 9,947 (20.0%) Finesse
-35,481 (95.4%) Physical Mastery
+33,561 (%) Physical Mastery
 15.9% Resistance
 61.9% Critical Defence
 17.5% Incoming Healing
@@ -130,11 +130,11 @@ Hmmm... interesting, though not surprising. The Minas Tirith Barter Essence armo
 
 [B]Endgame Tank:[/B]
 [URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Endgame-Tank.jpg"]screenshot of build[/URL], 5-slot essence armour and 3-slot crafted jewellery
-[INDENT]54,709 Morale
+[INDENT]53,509 Morale
 7,788 Power
 16.7 / 5.9 / 21.9% Critical Rating
 25.7% Finesse
-26,873 (72.7%) Physical Mastery
+24,953 (%) Physical Mastery
 26.1% Resistance
 75.7% Critical Defence
 12.5% Incoming Healing
@@ -158,21 +158,21 @@ I did all of this while keeping the Morale inline with the Crafted and Barter Es
 
 [COLOR="#00FF00"][B]:: CLASS TRAIT TREES ::[/B][/COLOR]
 
-[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3GG"] Blue Tank #1[/URL]
+[URL="https://github.com/hdflux/GuardianGuide/blob/master/images/Blue-Juggernaut.jpg"] Blue Tank #1[/URL]
 [B]Emergency:[/B] Pledge, Juggernaut
-[B]Power Restore:[/B] Thrill of Danger, Tireless Defender, Relentless Assault (which will also open Block and Parry responses)
+[B]Power Restore:[/B] Thrill of Danger, Tireless Defender
 [B]Threat Management:[/B] Fray the Edge range to help pick up peelers.
-[B]Survivability:[/B] Block heals, +10% Armour, +10% Critical Defense, +10% Mitigations, Block %, Parry %, Turn the Tables cooldown, Thrill of Battle to help restore Morale on critical hits from your Block and Parry skills. Insult to Injury and Radiate when combined with Stagger and War-chant will debuff the enemy mob allowing you to take less damage.
-[B]Special Skills:[/B] Shield-smash, Smashing Stab
+[B]Survivability:[/B] Block heals, +10% Armour, +10% Critical Defense, +10% Mitigations, Block %, Parry %, Turn the Tables cooldown, Thrill of Battle to help restore Morale on critical hits from your Block and Parry skills. Radiate to spread Stagger and War-chant to debuff the enemy mob allowing you to take less damage.
+[B]Special Skills:[/B] AoE Shield-smash, Smashing Stab
 
-[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3GH"]Blue Tank #2[/URL]
+[URL="https://github.com/hdflux/GuardianGuide/blob/master/images/Blue-Pain.jpg"]Blue Tank #2[/URL]
 [B]Emergency:[/B] Pledge, Bring on the Pain (restores Morale on any damage taken)
 [B]Power Restore:[/B] Thrill of Danger, Tireless Defender
 [B]Threat Management:[/B] War-chant range and extra targets
 [B]Survivability:[/B] Block heals, +10% Armour, +10% Critical Defense, +10% Mitigations, Block %, Parry %, Inc. Healing % and Turn the Tables cooldown. Insult to Injury and Radiate when combined with Stagger and War-chant will debuff the enemy mob allowing you to take less damage.
 [B]Special Skills:[/B] Shield-smash, Smashing Stab
 
-[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3zQ"]Yellow Tank[/URL]
+[URL="https://github.com/hdflux/GuardianGuide/blob/master/images/Yellow-Tank.jpg"]Yellow Tank[/URL]
 [B]Emergency:[/B] Pledge, Bring on the Pain (restores Morale on any damage taken)
 [B]Power Restore:[/B] Thrill of Danger, Tireless Defender
 [B]Threat Management:[/B] War-chant range and extra targets
