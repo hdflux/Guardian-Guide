@@ -1,9 +1,218 @@
 [COLOR="#FF8C00"][SIZE=3][B][5. Builds > d. PvMP][/B][/SIZE][/COLOR]
 
+I feel as though writing this section opens up a pandora's box of PvMP trolls, but whatever, I am writing this for the community.
 
+[COLOR="#DDA0DD"][I]* All stats listed below are shown with Rank 12 stat tomes, not the current max of Rank 14.[/I][/COLOR]
 
+PvMP on a Guardian to me is just like when I build for my solo survivalist challenges. It's not just about creating a super durable build, you also need to learn about and watch for incoming debuffs. I don't know the debuffs all by name but I know their symbols and promptly remove them as they are applied to me. Allowing these debuffs to remain on your during a fight can mean the difference between life and death.
 
+My advice is to install the LUA plugin BuffBars. Once loaded your screen will quickly become full of various buffs and debuffs. Having a screen full of these is useless. What you need to do is right-click on the undesired ones and left-click Blacklist. Your goal is to only show important things there, notably you want debuffs to catch your eye.
 
-[COLOR="#FF8C00"][B][6. Legendary Items][/B][/COLOR]
+Do I know whether this build is capable in PvMP? Considering that I don't do 1v1 Circle, I don't raid and I don't shuffle... ie; I only solo roam or join kinnies in 2-6 man groups then yeah, this build is capable in PvMP.
+[LIST]
+[*]Dec 28: 16190 renown, 50 killing blows
+[*]Dec 29: 23818 renown, 78 killing blows
+[*]Dec 30: 6409 renown, 26 killing blows
+[/LIST][I]* no renown accelorators[/I]
+
+That's enough for me to say it is good.
+
+[COLOR="#00FF00"][B]:: vs. Class Strategies ::[/B][/COLOR]
+
+[COLOR="#FF8C00"][B]vs. all classes:[/B][/COLOR]
+
+In general...
+
+Against most creeps you may find yourself either handily winning or in fair fights, but my descriptions below for each class are tailored towards creeps that are good with their class and may have most or all of the high ranked skills.
+
+Creep heals...
+
+Creeps have two Morale pots that they can use that while each are on a 2 minute cooldown they do not share the same cooldown timer. Once is a 35% heal and the other a 15% heal. A good creep will stagger these pots a minute apart so that they always get a sizable heal at a frequent interval.
+
+Outgoing Debuffs...
+
+If you've followed my DPS and Solo Survivability guides then you are well aware about applying debuffs to the enemy and how important they are.
+
+If you have your Brutal Charge stored then you can Fray and follow-up with a positional Stagger and War-chant to fully debuff the enemy.
+
+If you don't have a stun handy then your first attack should always be Engage for the -25% run speed debuff followed by War-chant. Afterwards you can try a Stagger, but to me it is extremely important to get the movement speed debuff active. Against Reavers and Wargs this is not as big of an issue, but against ranged and tactical classes you need that slow.
+
+[COLOR="#FF8C00"][B]Reaver:[/B][/COLOR]
+
+The first thing you will notice will fighting a good Reaver is that when you first start attacking them for the first probably 10-20 seconds it feels as though you are not doing much damage against them. This is because they have a corruption trait that makes them more durable the more Morale they have, as their Morale gets lower they become more squishy but at the same time their outgoing damage increases.
+
+I'll follow the above note with Devastating Strike, where when you are below half Morale Reavers have an attack that does increased damage to you. If you know you are fighting a good Reaver that is going to take you a while to get their Morale low enough that your attacks do the damage you expect them to then don't hesitate to blow cooldowns to keep your Morale above half.
+
+On to incoming debuffs...
+
+Blinding Dust, it's an icon that look like a white square. You absolutely need to remove this debuff as quickly as possible. This debuff is like a 25% or 35% miss chance, something high that will affect your bleed heals enough for you to notice.
+
+My rule of thumb with debuffs is pot first, and only use Ignore the Pain as a last resort. ItP uses a substantial amount of Power, it's a great overpowered skill but when poorly abused this single skill can and will kill you.
+
+Power pot early and often if you need to.
+
+There is a debuff / attack combination that I don't understand but I what I have felt and know is that when Savage Wound tiers up, to a maximum of 3, a Reaver does much more damage. Just like Blinding Dust this bleed must go ASAP. If both Savage Wound and Blinding Dust are active then go ahead and use Ignore the Pain, otherwise follow the rule of thumb and pot first.
+
+In summary...
+
+[LIST]
+[*]Keep the debuffs off you.
+[*]Keep the enemy debuffed.
+[*]Don't cashout your bleeds unless you are desparate and are hoping for an emergency stun.
+[*]Once the Reaver is below say 10K Morale start considering cashing out your bleeds with an Overwhelm. Even if you don't kill the Reaver you still have a 25% chance to stun the Reaver which is easily enough of an advantage to land the killing blow.
+[/LIST]
+
+On a final note I would probably say that good Reavers are probably smarter and more skilled than other creeps out there. Asides from good Reavers the only other class to stop attacking when Pain is active are a few rare Wargs, other than that all of the other creep classes keep attacking blindly into Pain.
+
+Oh, and lastly a Reaver has a melee skill that can heal them (???) so having your Stagger debuff on them for the 15% miss chance is very important.
+
+[COLOR="#FF8C00"][B]Warg:[/B][/COLOR]
+
+This is a class that when compared to Updates 15 and 16 appears to feel much more.. I cannot ignore you, in Update 17. Against a good Warg that initial pounce and burst attacks can deal enough damage to make you feel some good hurt. You can pop Pain but it's a gamble if no bleeds are active on you as a skilled Warg will be watching for the Pain icon, ankle tap and kite you or hips and come out of stealth after Pain is done and, yeah, re-pounce you.
+
+Likewise, Wargs are very picky eaters.. if they feel that the fight wasn't fair ([I]doesn't matter what you consider fair[/I]) they will hips and deny you a kill. You can chase down and kill all the other classes but against Wargs, if you *really* want the kill then force yourself not to use Heart, Pledge or Pain. That said I think many of you probably feel like yellow F and U when you get pounced and are expected to simply absorb that damage and not use skills else they'll hips.
+
+Judge it by ear, every Warg is different. I've fought quite a few Wargs that will fight to the death. In fact, I've had some Wargs use hips and then come right back out of stealth, treating it as a skill for extra damage rather then as an escape measure.. if I see a Warg do this, I treat them with the utmost respect, you don't want to piss them off and have them not fight you to the death in your next fight with them. Don't be afraid to lose against these Wargs, it's well worth the risk of dying.
+
+[COLOR="#FF8C00"][B]Defiler:[/B][/COLOR]
+
+Ughh.. was that the first word in your head? Fighting in their yellow puddle is not optional, but try not to chase them in and out of it, rather try to stay within the outskirts of the puddle so that you only have 1 Blight ([I]think that's what it is called[/I]) rather then 3. If you get 3 quickly then I guess Ignore the Pain but if you're sloppy like that you're going to drain your Power fast.
+
+There's 2 or 3 notable disease debuffs from a Defiler that you need to remove. I don't know what they do but I think they are important enough to prioritize over Blight which is more of a nuisance.
+
+Defilers have a swarm of flies, again I'm not sure what these flies do but my advice is to use them to spread your bleeds and then cash them out on the Defiler. Keep doing this until the flies die from bleeds. Never attack the flies. While they do something bad, try to make the Defiler regret summoning them by spamming Overwhelm on them.
+
+Power Pot early and often and try to avoid using Ignore the Pain.
+
+To be honest, against a good Defiler or Warleader the best you can hope for is a draw unless they cut back on healing and opt for more DPS.
+
+[COLOR="#FF8C00"][B]Warleader:[/B][/COLOR]
+
+Another healing class, and draw spar. Expect to fight in the banner. Expect lots of melee stuns. There is a fear debuff, I think Bleeding Ears that you can remove, though I don't know what the debuff does.
+
+Power Pot early and often and try to avoid using Ignore the Pain.
+
+[COLOR="#FF8C00"][B]Blackarrow:[/B][/COLOR]
+
+If you're wandering around and a BA suprises you then you're at a huge disadvantage due to you being so far away and not knowing where the attack came from.
+
+If however the two of you are reasonably close to each other or you at least know where the BA is then your odds improve greatly.
+
+Landing a slow, either the Stagger or Engage debuff on the BA is crucial to victory, without this slow movement debuff your chances of winning are greatly decreased.
+
+I think there is one slow debuff that you can pot from the BA, otherwise it's a fairly straightforward fight.
+
+A good BA will be difficult to win against, but I find this spar is more frustrating with the slows and stuns than anything.
+
+One thing to watch for is when they pop their Evade skill, it's impossible to miss. Once they do this hit Brutal Charge and stun them with Fray the Edge. If your stun is on cooldown then use Bring on the Pain if you are concerned about your Morale.
+
+[COLOR="#FF8C00"][B]Weaver:[/B][/COLOR]
+
+I feel as though in Update 17 some Weavers are able to spam a screen full of poisons in a matter of seconds, it's crazy, and my first QQ of this section.
+
+The use of Ignore the Pain is unavoidable against a Weaver. Tainted Kiss and Virulent Poison are the big baddy poisons that you want to prioritize removing. Oftentimes there will be more poisons than ItP can remove, but with some luck a Poison pot will remove one of the two poisons that we care about.
+
+Weavers also have a bunch of weird poison debuffs that not only debuff but can also buff the Weaver when you remove them ([I]I think?[/I]).
+
+Weavers also have a nasty Reflect that I don't understand how it works at all. It's not too bad but it still sucks. I don't know if it is on always, or is similar to the Brutes in Sammath Gul, or if you can remove it via a Fellowship Manoeuvre but I just expect it to be on.
+
+Weavers always have a hatchling pet which they can consume for a big heal. Use the hatchling to spread bleeds and then cashout on the Weaver, though sometimes I just kill the darn things to prevent that big heal.
+
+Burrow... how we love burrow. Expect it, and expect to be called out. That is life.
+
+Never fight Weavers near freep NPCs elsewise you give the Weaver a great source of heals; I am guessing this is similar to how a Warg howls on defeat effects for a big heal.
+
+Just like a Blackarrow you need to get a slow debuff on a Weaver to stand a chance of winning. I consider a Weaver to be much more difficult to fight than a Blackarrow. I find a good Weaver has awesome crowd-control skills and also is able to drain your Power.
+
+[COLOR="#00FF00"][B]:: GEAR AND STATS ::[/B][/COLOR]
+
+[COLOR="#DDA0DD"][I]* Note that these builds are my current live builds that I am actively using, they are not Bullroarer capped builds.
+
+* As you will notice I am using quite a few Greater Essences and even some Tier 6 Essences. There is still room for growth in these builds.[/I][/COLOR]
+
+[B]Targets in Ettenmoors with 2 Outposts:[/B]
+
+[INDENT]Morale: 30-35K [COLOR="#DDA0DD"][I]prioritize over Physical Mastery[/I][/COLOR]
+Physical Mastery: 60K
+Critical Rating: 20-25%
+Finesse: 30-35%
+Physical Mitigation: 26-28K
+Tactical Mitigation: 16-20K[/INDENT]
+
+These are the most important stats. I intentionally left out Parry and Evade from the target stats as against good creeps I somehow appear to have 0% avoidances anyway.
+
+I almost feel as though the target stats are more important than the stats from my PvMP build that I am actively using.
+
+Also, with the target stats, this is more for solo roaming or small groups. If you plan on doing shuffles then you could probably increase your target Morale to 40-50K by sacrificing Physical Mastery.
+
+These stats are what I feel comfortable playing with; if you feel you need more Morale then by all means get your Morale up.
+
+[B]Outside of PvMP:[/B]
+
+[INDENT]26,877 Morale
+5,152 Power
+24.1 / 10.0 / 34.5 % Critical Rating
+18,484 (31.8%) Finesse
+50,461 (131.5%) Physical Mastery
+26.4% Resistance
+63.9% Critical Defence
+10.0% Incoming Healing
+19.7 / 9.7 / 17.5 % Parry
+5.2 / 1.6 / 5.2 % Evade
+26,612 (60/59.3%) Physical Mitigation
+17,666 (60%) Tactical Mitigation[/INDENT]
+
+[B]In the Ettenmoors with 2 Outposts, 25 Audacity and Rank 11:[/B]
+
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/PvMP-DPS.jpg"]Gear Build[/URL]
+
+[INDENT]29,747 Morale
+5,873 Power
+24.1 / 10.0 / 34.5 % Critical Rating
+18,484 (31.8%) Finesse
+60,165 (193.2%) Physical Mastery
+26.4% Resistance
+63.9% Critical Defence
+10.0% Incoming Healing
+19.7 / 9.7 / 17.5 % Parry
+5.2 / 1.6 / 5.2 % Evade
+26,612 (60/59.3%) Physical Mitigation
+17,666 (60%) Tactical Mitigation[/INDENT]
+
+If you have a Cook and Jeweller then I say go ahead and refresh trail food, coffee and regen food along with a Hope token for added stats to your Morale, Mastery regen and combat movement speed.
+
+You'll notice that I haven't met my target morale of even 30K, but with food and a token I am over 32K, which I can keep on contantly even if I die due to the short cooldowns. Additionally once every 10 minutes I can use Duty Bound to bring my Morale to 34K. With trait food and a token that also brings my mastery up to 61,317 (196.3%).
+
+[B]Same as above but here I have either been ganked or am fighting a craid so I swap in a shield and my tanking belt. I'll probably still die but I'm going to make them work for it and with any luck I'll steal a few kills before I go down.[/B]
+
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/PvMP-SnB.jpg"]Gear Build[/URL]
+
+[INDENT]29,025 Morale
+5,873 Power
+20.7 / 8.2 / 28.5 % Critical Rating
+18,484 (31.8%) Finesse
+57,021 (184.0%) Physical Mastery
+26.8% Resistance
+69.2% Critical Defence
+10.0% Incoming Healing
+20.0 / 10.0 / 35.0 % Block
+19.1 / 10.4 / 57.5 % Parry
+9.1 / 2.9 / 29.1 % Evade
+34,394 (60/60%) Physical Mitigation
+20,560 (60%) Tactical Mitigation[/INDENT]
+
+[COLOR="#00FF00"][B]:: CLASS TRAIT TREES ::[/B][/COLOR]
+
+I use two builds in the moors, both specialized in the Red tree.
+
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Red-Overwhelm%2CPain.jpg"]Red w/ Overwhelm, War-chant and Pain[/URL]
+This build gives your Overwhelm cashouts a chance to keep the bleeds on your target and an emergency skill of Bring on the Pain ([I]also incredibly useful if you are ganked[/I]).
+
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Red-Warchant%2CPledge%2CPain.jpg"]Red AoE w/ War-chant, Pain and Pledge[/URL]
+In this build your Overwhelm cashouts will always remove your bleeds but now you have two emergency skills of Guardian's Pledge and Bring on the Pain.
+
+If you plan on using Guardian's Pledge and often then you may wish to consider slotting the Guardian's Pledge Cooldown legacy on your legendary weapon.
+
+[COLOR="#FF8C00"][SIZE=3][B][6. Legendary Items][/B][/SIZE][/COLOR]
 
 
