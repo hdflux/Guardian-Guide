@@ -15,11 +15,11 @@ Will insert a MUCH LARGER description later this week as soon as I get a chance 
 [B]DPS Recruit:[/B]
 [I]* You are new to level 100, a fresh recruit. You want to start DPS'ing and the fastest way may well be a stop to the Skirmish Camp.[/I]
 [URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/DPS-Recruit.jpg"]screenshot of build[/URL], skirmish camp armour and jewellery, ALL PURPLE!!!
-[INDENT]27,861 Morale
+[INDENT]26,661 Morale
 6,471 Power
 23.0 / 9.8 / 32.5 % Critical Rating
 17,260 (30.3%) Finesse
-42,250 (119.0%) Physical Mastery
+40,330 (%) Physical Mastery
 21.6% Resistance
 14.7% Critical Defence
 5.0% Incoming Healing
@@ -33,10 +33,10 @@ Decent starting stats.
 [B]DPS Veteran:[/B]
 [I]* First off congratulations on your promotion to DPS Veteran! Now that your gear is a little bit better let's see how your stats have improved.[/I]
 [URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/DPS-Veteran.jpg"]screenshot of build[/URL], mostly farmed gear from instances such as the great barrows, annuminas and skirmishes
-[INDENT]30,298 Morale
+[INDENT]29,098 Morale
 22.4 / 9.4 / 31.6% Critical Rating
 27.4% Finesse
-49,937 (129.9%) Physical Mastery
+48,017 (%) Physical Mastery
 23.1% Resistance
 30.5% Critical Defence
 5.0% Incoming Healing
@@ -52,11 +52,11 @@ Not bad, but I feel as though this build could benefit with essence armour.
 [B]Raid-ready DPS:[/B]
 [I]* I salute you brother! You can now consider yourself to be Raid-ready DPS.[/I]
 [URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/DPS-4slot.jpg"]screenshot of build[/URL], Dol Amroth 4-slot essence armour with non-essence helm hammerhand jewellery.
-[INDENT]32,730 Morale
+[INDENT]31,530 Morale
 6,014 Power
 23.9 / 10.0 / 34.1% Critical Rating
 22.9% Finesse
-60,967 (160.4%) Physical Mastery
+59,047 (%) Physical Mastery
 19.9% Resistance
 31.0% Critical Defence
 5.0% Incoming Healing
@@ -69,11 +69,11 @@ A definite huge improvement from the DPS Veteran build! It's not perfect and the
 
 [B]Crafted Essence DPS:[/B]
 [URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/DPS-Barter.jpg"]screenshot of build[/URL], all Anórien crafted essence jewellery/armour.
-[INDENT]31,852 Morale
+[INDENT]30,652 Morale
 5,437 Power
 24.9 / 10.0 / 35.8% Critical Rating
 24.9% Finesse
-61,709 (162.3%) Physical Mastery
+59,789 (%) Physical Mastery
 14.4% Resistance
 45.5% Critical Defence
 5.0% Incoming Healing
@@ -86,11 +86,11 @@ This build is very heavy on essencess ([I]expensive[/I]) and the issue with this
 
 [B]Barter Essence DPS:[/B]
 [URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/DPS-Barter.jpg"]screenshot of build[/URL], Minas Tirith barter essence armour and jewellery
-[INDENT]31,075 Morale
+[INDENT]29,875 Morale
 5,437 Power
 25.0 / 10.0 / 36.5% Critical Rating
 26.8% Finesse
-61,104 (160.7%) Physical Mastery
+59,184 (%) Physical Mastery
 17.8% Resistance
 51.6% Critical Defence
 5.0% Incoming Healing
@@ -103,11 +103,11 @@ Fairly solid. Adding some of the Big Battle jewellery back into the mix helped c
 
 [B]Endgame DPS:[/B]
 [URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/DPS-Endgame.jpg"]screenshot of build[/URL], 5-slot essence armour and 3-slot crafted jewellery
-[INDENT]27,471 Morale
+[INDENT]26,271 Morale
 5,537 Power
 24.2 / 10.0 / 34.6% Critical Rating
 21.4% Finesse
-70,000 (184.3%) Physical Mastery
+68,080 (%) Physical Mastery
 17.7% Resistance
 44.3% Critical Defence
 5.0% Incoming Healing
@@ -116,7 +116,7 @@ Fairly solid. Adding some of the Big Battle jewellery back into the mix helped c
 15,695 (58.3 / 28.7%)
 16,372 (59.5%) Tactical Mitigation[/INDENT]
 
-70K Mastery in a Balanced DPS build that is still survivable like a tank, and if a person wants they can trade some Mastery for Morale.
+68K Mastery in a Balanced DPS build that is still survivable like a tank, and if a person wants they can trade some Mastery for Morale.
 
 [URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/EndGame-DPS-SpiderWing.jpg"]Solo DPS parse from first big pull in Helegrod Spider Wing.[/URL]
 
@@ -126,10 +126,10 @@ Well, I tried various setups for an endgame Glass Cannon build with 80K Mastery 
 
 [COLOR="#00FF00"][B]:: CLASS TRAIT TREES ::[/B][/COLOR]
 
-[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3xw"]Red AoE w/ Strong Bursts, War-chant and Pain[/URL]
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Red-MaxAoE.jpg"]Red Max AoE w/ Strong Bursts, War-chant and Pain[/URL]
 
-[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3xC"]Red AoE w/ War-chant, Pain and Pledge[/URL]
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Red-Warchant%2CPledge%2CPain.jpg"]Red AoE w/ War-chant, Pain and Pledge[/URL]
 
-[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3xB"]Red w/ Overwhelm, War-chant and Pain[/URL]
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Red-Overwhelm%2CPain.jpg"]Red w/ Overwhelm, War-chant and Pain[/URL]
 
-[URL="http://www.lotrottp.lotrostatus.com/l.php?c=3xH"]Red w/ Pledge[/URL]
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Red-DPS.jpg"]Red w/ Pledge, Overwhelm, Hammer-down and Honourable Combat[/URL]
