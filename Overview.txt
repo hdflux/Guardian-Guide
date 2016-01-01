@@ -135,7 +135,7 @@ Currently my Guardian Video Guide is made for Update 15. Once I update the video
 
 Everything you need to know about each build including target stats, gear, jewellery, legendary items and class trait tree builds.
 
-[COLOR="#DDA0DD"][I]* Note that I built large portions of this guide with R20 stat tomes on Bullroarer, whereas LIVE only goes up to R14. This mostly affects Morale (1200) and Physical Mastery (1920). I'll try to update the builds to instead reflect R14 stat tomes.
+[COLOR="#DDA0DD"][I]* All stats are now reflective of Rank 14 stat tomes.
 * To further on the use of stat tomes.. it's nigh impossible to build a guide that accounts for different levels of stat tomes, as such I have opted for max stat tomes. Grind is part of the game.[/I][/COLOR]
 
 Ultimately treat the following builds as guides for you to reference and create your own hybrid build personally catered to your own Guardian.
