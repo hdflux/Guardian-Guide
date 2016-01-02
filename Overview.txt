@@ -5,7 +5,7 @@ Zonflux
 [COLOR="#DDA0DD"][I]* Want to become a co-author? Make a contribution to the Guardian Guide on [URL="https://github.com/hdflux/GuardianGuide"]GitHub[/URL] and if approved you will be listed as a co-author. All images must be provided as links.[/I][/COLOR]
 
 [B]Credits:[/B]
-Arathaert, mattspencer, dwarfThar[/CENTER]
+Arathaert, mattspencer, dwarfThar, SpicyMacHaggis[/CENTER]
 
 
 Welcome to my Guardian Guide! While primarily written for level capped Guardians there are still strategical components and class trait builds that will still be useful as you level; for levelling and everything else Guardian related I recommend reading [URL="https://www.lotro.com/forums/showthread.php?557663-Arathaert-s-Guardian-Guide"]Arathaert's[/URL] and [URL="https://www.lotro.com/forums/showthread.php?557822-Dadi-s-Guide-to-Blue-Line-Tanking-(post-U14"]Dadi's[/URL] Guardian guides.

@@ -207,6 +207,7 @@ I use two builds in the moors, both specialized in the Red tree.
 
 [URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Red-Overwhelm%2CPain.jpg"]Red w/ Overwhelm, War-chant and Pain[/URL]
 This build gives your Overwhelm cashouts a chance to keep the bleeds on your target and an emergency skill of Bring on the Pain ([I]also incredibly useful if you are ganked[/I]).
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/PvMP-HammerDown.jpg"]Similar to above but slightly adjusted to include Hammer-down[URL]
 
 [URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/master/images/Red-Warchant%2CPledge%2CPain.jpg"]Red AoE w/ War-chant, Pain and Pledge[/URL]
 In this build your Overwhelm cashouts will always remove your bleeds but now you have two emergency skills of Guardian's Pledge and Bring on the Pain.
