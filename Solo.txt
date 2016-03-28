@@ -4,100 +4,24 @@ Will insert a HUGE DESCRIPTION once I get a chance to later this week...
 
 [COLOR="#00FF00"][B]:: GEAR AND STATS ::[/B][/COLOR]
 
-[COLOR="#DDA0DD"]Fresh to level cap you are likely to only have gear and jewellery farmed through instances with quite possibly little or no essences or even gold. Below are some good starter gear and stats for you to aim for as a soloist.[/COLOR]
 
-[B]Solo Recruit:[/B]
-[I]* You are new to level 100, a fresh recruit. Your first stop may be to the Skirmish Camp.[/I]
-[URL=""]screenshot of build[/URL], mostly all skirmish camp armour and jewellery, ALL PURPLE!!!
-[INDENT] Morale
- Power
- /  /  % Critical Rating
- (%) Finesse
- (%) Physical Mastery
-% Resistance
-% Critical Defence
-% Incoming Healing
-/  /  % Block
-/  /  % Parry
-/  /  % Evade
- (/%) Physical Mitigation
- (%) Tactical Mitigation[/INDENT]
-
-
-
-[B]Solo Veteran:[/B]
-[I]* First off congratulations on your promotion to Solo Veteran! Now that your gear is a little bit better let's see how your stats have improved.[/I]
-[URL=""]screenshot of build[/URL], mostly farmed gear from instances such as the great barrows, annuminas and skirmishes
-[INDENT] Morale
- Power
- /  /  % Critical Rating
- (%) Finesse
- (%) Physical Mastery
-% Resistance
-% Critical Defence
-% Incoming Healing
-/  /  % Block
-/  /  % Parry
-/  /  % Evade
- (/%) Physical Mitigation
- (%) Tactical Mitigation[/INDENT]
-
-
-
-[COLOR="#DDA0DD"]As an established level cap Guardian you have been around long enough to be able to barter for essence gear and accumulate a stash of essences and gold. Below are various barter gear and jewellery that anyone can get solo, accompanied by stats.[/COLOR]
 
 [B]Soloist of Legend:[/B]
 [I]* I salute you brother! Tales of your feats have spread far and wide across the land. Your accomplishments are that of legend.[/I]
-[URL=""]screenshot of build[/URL], Dol Amroth 4-slot essence armour and Helm Hammerhand non-essence jewellery
-[INDENT] Morale
- Power
- /  /  % Critical Rating
- (%) Finesse
- (%) Physical Mastery
-% Resistance
-% Critical Defence
-% Incoming Healing
-/  /  % Block
-/  /  % Parry
-/  /  % Evade
- (/%) Physical Mitigation
- (%) Tactical Mitigation[/INDENT]
-
-
-
-[B]Crafted Essence Soloist:[/B]
-[URL=""]screenshot of build[/URL], all Anórien crafted essence jewellery/armour.
-[INDENT] Morale
- Power
- /  /  % Critical Rating
- (%) Finesse
- (%) Physical Mastery
-% Resistance
-% Critical Defence
-% Incoming Healing
-/  /  % Block
-/  /  % Parry
-/  /  % Evade
- (/%) Physical Mitigation
- (%) Tactical Mitigation[/INDENT]
-
-
-
-[B]Barter Essence Soloist:[/B]
-[URL=""]screenshot of build[/URL], Minas Tirith barter essence armour and jewellery
-[INDENT] Morale
- Power
- /  /  % Critical Rating
- (%) Finesse
- (%) Physical Mastery
-% Resistance
-% Critical Defence
-% Incoming Healing
-/  /  % Block
-/  /  % Parry
-/  /  % Evade
- (/%) Physical Mitigation
- (%) Tactical Mitigation[/INDENT]
+[URL="https://raw.githubusercontent.com/hdflux/GuardianGuide/f39ea303195a2f859c762088a95c2b4e4896b07c/images/U17.2.1-SoloSurvivalist-Build.jpg"]screenshot of build[/URL], Dol Amroth 4-slot essence armour and Helm Hammerhand non-essence jewellery
+[INDENT]37,365 Morale
+6,783 Power
+19.0 / 7.2 / 25.6 % Critical Rating
+11,714 (22.8%) Finesse
+42,756 (119.8%) Physical Mastery
+23.7% Resistance
+43.6% Critical Defence
+5% Incoming Healing
+25.4 / 10.0 / 35.0 % Block
+24.8 / 11.2 / 57.5 % Parry
+17.4 /  6.9 / 35.0 % Evade
+23,461 (60.0/39.2%) Physical Mitigation
+17,818 (60.0%) Tactical Mitigation[/INDENT]
 
 
 
