@@ -1,7 +1,6 @@
 [COLOR="#FF8C00"][SIZE=3][B][5. Builds > c. Solo Survivalist][/B][/SIZE][/COLOR]
 
-If your'e here it's because you want to challenge some of the most difficult content in the game solo. Position, debuffs, a keen awareness of inductions from the enemy and paying close attention to corruptions on yourself such as fatal poisons will define the next chapter of your journey.
-More Morale usually is better 
+Will insert a HUGE DESCRIPTION once I get a chance to later this week...
 
 [COLOR="#00FF00"][B]:: GEAR AND STATS ::[/B][/COLOR]
 
@@ -23,6 +22,25 @@ More Morale usually is better
 17.4 /  6.9 / 35.0 % Evade
 23,461 (60.0/39.2%) Physical Mitigation
 17,818 (60.0%) Tactical Mitigation[/INDENT]
+
+
+
+[B]Solo God:[/B] [COLOR="#DDA0DD"][SIZE="1"][I](god in the mythical literal sense, no religous underscores)[/I][/SIZE][/COLOR]
+[I]* The solo Guardians of legend have accomplished a great deal many feats, but above them are a group of solo Guardians whose feats are so incredible that their tales have become that of myth. Feats that surpass that of legend, feats that some may consider to be only capable from that of a Solo God.[/I]
+[URL=""]screenshot of build[/URL], 5-slot essence armour and 3-slot crafted jewellery
+[INDENT] Morale
+ Power
+ /  /  % Critical Rating
+ (%) Finesse
+ (%) Physical Mastery
+% Resistance
+% Critical Defence
+% Incoming Healing
+/  /  % Block
+/  /  % Parry
+/  /  % Evade
+ (/%) Physical Mitigation
+ (%) Tactical Mitigation[/INDENT]
 
 
 
